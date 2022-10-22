@@ -1,0 +1,389 @@
+Age,Gender,Marital Status,Occupation,Monthly Income,Educational Qualifications,Family size,latitude,longitude,Medium(P2)
+20,Female,Single,Student,No Income,Post Graduate,4,12.9766,77.5993,Web_browser
+24,Female,Single,Student,Below Rs.10000,Graduate,3,12.977,77.5773,Web_browser
+22,Male,Single,Student,Below Rs.10000,Post Graduate,3,12.9551,77.6593,Direct_call
+22,Female,Single,Student,No Income,Graduate,6,12.9473,77.5616,Walk-in
+22,Male,Single,Student,Below Rs.10000,Post Graduate,4,12.985,77.5533,Direct_call
+27,Female,Married,Employee,More than 50000,Post Graduate,2,12.9299,77.6848,Walk-in
+22,Male,Single,Student,No Income,Graduate,3,12.977,77.5773,Direct_call
+24,Female,Single,Student,No Income,Post Graduate,3,12.9828,77.6131,Direct_call
+23,Female,Single,Student,No Income,Post Graduate,2,12.9766,77.5993,Direct_call
+23,Female,Single,Student,No Income,Post Graduate,4,12.9854,77.7081,Walk-in
+22,Female,Single,Student,No Income,Post Graduate,5,12.985,77.5533,Direct_call
+23,Male,Single,Student,Below Rs.10000,Post Graduate,2,12.977,77.5773,Walk-in
+23,Male,Single,Student,No Income,Post Graduate,5,12.8988,77.5764,Direct_call
+21,Male,Single,Student,No Income,Graduate,4,12.977,77.5773,Direct_call
+23,Female,Single,Self Employeed,10001 to 25000,Post Graduate,5,12.9438,77.5738,Walk-in
+24,Female,Single,Student,No Income,Post Graduate,6,12.8893,77.6399,Walk-in
+28,Female,Single,Employee,25001 to 50000,Post Graduate,2,12.9783,77.6408,Direct_call
+23,Female,Single,Student,No Income,Graduate,3,12.982,77.6256,Walk-in
+25,Male,Single,Student,No Income,Graduate,4,12.8988,77.5764,Walk-in
+21,Female,Single,Student,Below Rs.10000,Post Graduate,1,12.9783,77.6408,Direct_call
+24,Male,Single,Student,No Income,Post Graduate,3,12.977,77.5773,Direct_call
+22,Male,Single,Student,No Income,Post Graduate,4,13.0298,77.6047,Direct_call
+22,Female,Single,Student,No Income,Graduate,4,12.9983,77.6409,Direct_call
+23,Male,Single,Student,No Income,Graduate,4,12.9925,77.5633,Walk-in
+21,Male,Single,Student,Below Rs.10000,Post Graduate,3,12.9306,77.5434,Direct_call
+25,Male,Single,Student,No Income,Post Graduate,3,12.982,77.6256,Direct_call
+22,Female,Single,Student,No Income,Post Graduate,5,12.9353,77.5585,Direct_call
+22,Male,Single,Student,No Income,Post Graduate,3,12.9155,77.5135,Walk-in
+23,Female,Single,Employee,10001 to 25000,Graduate,3,12.9854,77.7081,Direct_call
+22,Male,Single,Student,Below Rs.10000,Post Graduate,4,13.0019,77.5713,Direct_call
+22,Female,Single,Employee,10001 to 25000,Graduate,5,12.9698,77.75,Direct_call
+22,Male,Single,Student,No Income,Post Graduate,4,12.9783,77.6408,Direct_call
+25,Male,Married,Employee,More than 50000,Ph.D,4,12.9261,77.6221,Direct_call
+22,Female,Single,Student,10001 to 25000,Post Graduate,5,12.985,77.5533,Direct_call
+22,Female,Single,Student,No Income,Post Graduate,2,12.9119,77.6446,Direct_call
+25,Male,Single,Student,10001 to 25000,Post Graduate,3,12.9306,77.5434,Walk-in
+25,Male,Single,Student,No Income,Post Graduate,5,12.977,77.5773,Walk-in
+32,Female,Prefer not to say,House wife,No Income,Graduate,5,12.982,77.6256,Web_browser
+23,Female,Single,Student,No Income,Post Graduate,3,12.9438,77.5738,Walk-in
+23,Female,Single,Student,No Income,Post Graduate,4,12.8988,77.5764,Direct_call
+30,Male,Married,Self Employeed,More than 50000,Uneducated,4,12.9662,77.6068,Web_browser
+23,Male,Single,Student,No Income,Graduate,3,12.9565,77.5484,Walk-in
+23,Male,Single,Student,No Income,Post Graduate,4,12.9925,77.5633,Direct_call
+22,Female,Single,Student,No Income,Post Graduate,5,12.985,77.5533,Direct_call
+22,Male,Single,Student,No Income,Graduate,5,12.985,77.5533,Walk-in
+27,Female,Married,Self Employeed,10001 to 25000,Post Graduate,2,12.9261,77.6221,Direct_call
+24,Female,Single,Student,No Income,Post Graduate,3,12.977,77.5773,Direct_call
+23,Male,Single,Student,No Income,Post Graduate,2,12.977,77.5773,Walk-in
+23,Female,Single,Student,No Income,Graduate,3,12.982,77.6256,Walk-in
+22,Female,Single,Student,10001 to 25000,Post Graduate,5,12.985,77.5533,Direct_call
+23,Female,Single,Student,No Income,Graduate,5,13.0206,77.6479,Direct_call
+23,Female,Single,Student,No Income,Post Graduate,2,12.977,77.5773,Direct_call
+24,Male,Single,Student,No Income,Post Graduate,3,12.977,77.5773,Walk-in
+25,Male,Single,Student,No Income,Post Graduate,2,12.9635,77.5821,Direct_call
+22,Male,Single,Student,No Income,Post Graduate,3,12.9306,77.5434,Direct_call
+28,Female,Married,Student,No Income,Graduate,2,13.0067,77.545,Direct_call
+22,Female,Single,Student,No Income,Post Graduate,1,12.8845,77.6036,Walk-in
+24,Female,Single,Student,No Income,Graduate,3,12.977,77.5773,Direct_call
+31,Male,Married,Employee,More than 50000,Ph.D,5,12.9119,77.6446,Direct_call
+25,Male,Single,Student,No Income,Post Graduate,4,13.0067,77.545,Walk-in
+23,Male,Single,Student,No Income,Post Graduate,5,12.8988,77.5764,Walk-in
+22,Male,Single,Student,No Income,Post Graduate,3,12.8845,77.6036,Walk-in
+23,Male,Single,Student,25001 to 50000,Post Graduate,1,13.0158,77.539,Walk-in
+23,Male,Single,Student,No Income,Graduate,4,12.9343,77.6044,Direct_call
+23,Female,Single,Student,No Income,Post Graduate,2,13.0019,77.5713,Walk-in
+25,Male,Single,Student,No Income,Post Graduate,6,13.0012,77.5995,Walk-in
+24,Male,Single,Employee,10001 to 25000,Graduate,4,12.9442,77.6076,Web_browser
+23,Female,Single,Student,No Income,Post Graduate,4,13.0487,77.5923,Direct_call
+23,Female,Single,Student,No Income,Post Graduate,4,13.0487,77.5923,Direct_call
+24,Female,Married,Employee,More than 50000,Ph.D,4,12.9438,77.5738,Direct_call
+22,Male,Single,Student,No Income,Graduate,4,12.9889,77.5741,Direct_call
+24,Female,Single,Student,10001 to 25000,Post Graduate,3,12.9335,77.5691,Direct_call
+25,Female,Single,Student,No Income,Post Graduate,3,12.9766,77.5993,Direct_call
+23,Male,Single,Student,No Income,Post Graduate,2,12.8845,77.6036,Direct_call
+26,Male,Single,Student,No Income,Post Graduate,4,13.0019,77.5713,Direct_call
+24,Female,Single,Student,25001 to 50000,Post Graduate,3,13.102,77.5864,Direct_call
+26,Male,Single,Student,No Income,Post Graduate,4,12.9048,77.6821,Direct_call
+21,Male,Single,Student,No Income,Graduate,4,12.977,77.5773,Direct_call
+22,Female,Single,Student,No Income,Post Graduate,3,12.977,77.5773,Walk-in
+24,Male,Single,Student,No Income,Post Graduate,5,12.9337,77.59,Direct_call
+24,Male,Single,Student,10001 to 25000,Post Graduate,4,12.9037,77.5376,Walk-in
+23,Female,Single,Student,No Income,Post Graduate,3,12.977,77.5773,Walk-in
+23,Male,Single,Student,No Income,Post Graduate,3,12.9343,77.6044,Direct_call
+22,Male,Single,Student,No Income,Post Graduate,3,12.9438,77.5738,Direct_call
+23,Male,Single,Student,No Income,Post Graduate,3,12.977,77.5773,Direct_call
+24,Female,Single,Student,No Income,Post Graduate,4,12.9783,77.6408,Walk-in
+24,Male,Single,Student,No Income,Post Graduate,5,12.9337,77.59,Direct_call
+25,Male,Single,Student,No Income,Graduate,1,12.977,77.5773,Walk-in
+25,Male,Single,Student,No Income,Post Graduate,5,12.977,77.5773,Walk-in
+28,Male,Married,Self Employeed,10001 to 25000,Graduate,2,13.0289,77.54,Direct_call
+27,Female,Prefer not to say,Employee,25001 to 50000,Post Graduate,5,13.0289,77.54,Web_browser
+26,Male,Single,Self Employeed,10001 to 25000,Ph.D,1,12.9698,77.75,Web_browser
+22,Male,Single,Student,No Income,Post Graduate,2,12.977,77.5773,Walk-in
+24,Female,Single,Student,No Income,Post Graduate,3,12.977,77.5773,Walk-in
+23,Male,Single,Student,No Income,Post Graduate,1,12.9561,77.5921,Direct_call
+25,Male,Single,Student,No Income,Graduate,1,12.977,77.5773,Walk-in
+23,Female,Single,Student,No Income,Graduate,5,13.0206,77.6479,Direct_call
+23,Female,Single,Student,No Income,Graduate,5,13.0206,77.6479,Direct_call
+26,Male,Married,Employee,25001 to 50000,Graduate,5,12.9579,77.6309,Direct_call
+32,Female,Married,House wife,No Income,Uneducated,3,13.014,77.5658,Direct_call
+24,Female,Single,Student,10001 to 25000,Post Graduate,3,12.9335,77.5691,Direct_call
+23,Male,Single,Student,No Income,Post Graduate,2,12.9442,77.6076,Walk-in
+22,Female,Single,Employee,10001 to 25000,Graduate,3,12.9698,77.75,Direct_call
+24,Female,Single,Student,No Income,Ph.D,3,12.9438,77.5738,Direct_call
+26,Male,Single,Employee,25001 to 50000,Graduate,2,12.9261,77.6221,Walk-in
+28,Male,Married,Employee,More than 50000,Graduate,3,12.9698,77.75,Web_browser
+26,Male,Single,Employee,More than 50000,Post Graduate,2,12.9698,77.75,Walk-in
+25,Male,Single,Student,No Income,Post Graduate,1,12.9343,77.6044,Direct_call
+25,Male,Single,Employee,Below Rs.10000,Graduate,2,12.9698,77.75,Web_browser
+18,Male,Single,Student,No Income,Graduate,5,12.9635,77.5821,Web_browser
+21,Male,Single,Student,No Income,Post Graduate,4,12.977,77.5773,Walk-in
+25,Male,Single,Student,No Income,Post Graduate,1,12.9343,77.6044,Direct_call
+25,Male,Single,Student,Below Rs.10000,Post Graduate,2,12.9925,77.5633,Direct_call
+23,Female,Single,Student,No Income,Graduate,5,13.0206,77.6479,Direct_call
+23,Male,Single,Employee,10001 to 25000,Post Graduate,2,12.985,77.5533,Direct_call
+25,Female,Married,Employee,25001 to 50000,Graduate,4,12.9551,77.6593,Direct_call
+31,Female,Married,House wife,No Income,School,5,13.0289,77.54,Web_browser
+24,Male,Prefer not to say,Self Employeed,More than 50000,Ph.D,2,13.0138,77.5877,Direct_call
+32,Female,Married,Employee,25001 to 50000,Graduate,5,12.9261,77.6221,Web_browser
+25,Male,Single,Employee,25001 to 50000,Graduate,3,12.9766,77.5993,Direct_call
+27,Female,Married,Self Employeed,More than 50000,Graduate,5,12.9766,77.5993,Walk-in
+26,Male,Single,Self Employeed,25001 to 50000,Graduate,3,12.9766,77.5993,Web_browser
+26,Female,Single,Self Employeed,25001 to 50000,Post Graduate,3,12.9635,77.5821,Web_browser
+32,Male,Married,Employee,More than 50000,Ph.D,5,12.9635,77.5821,Web_browser
+24,Male,Married,Self Employeed,More than 50000,Ph.D,6,12.9635,77.5821,Direct_call
+27,Female,Married,Self Employeed,25001 to 50000,Graduate,3,12.9635,77.5821,Web_browser
+23,Male,Single,Student,No Income,Post Graduate,3,12.977,77.5773,Direct_call
+25,Male,Single,Student,No Income,Post Graduate,4,12.977,77.5773,Direct_call
+23,Male,Single,Student,No Income,Post Graduate,3,12.977,77.5773,Direct_call
+23,Female,Single,Student,No Income,Post Graduate,4,13.0487,77.5923,Direct_call
+28,Male,Married,Employee,More than 50000,Post Graduate,3,13.0019,77.5713,Direct_call
+32,Female,Married,Employee,More than 50000,Graduate,1,13.0019,77.5713,Web_browser
+23,Male,Single,Student,No Income,Post Graduate,2,13.0019,77.5713,Direct_call
+19,Male,Single,Student,No Income,Graduate,2,13.0019,77.5713,Web_browser
+19,Female,Single,Student,No Income,Graduate,4,12.9537,77.6176,Walk-in
+27,Female,Married,Employee,25001 to 50000,Post Graduate,2,12.9698,77.75,Walk-in
+25,Male,Single,Self Employeed,25001 to 50000,Graduate,3,12.998,77.6227,Web_browser
+33,Male,Married,Employee,More than 50000,Ph.D,5,12.998,77.6227,Direct_call
+26,Female,Single,Employee,More than 50000,Graduate,3,12.998,77.6227,Web_browser
+22,Female,Single,Student,Below Rs.10000,Post Graduate,4,12.9343,77.6044,Direct_call
+23,Male,Single,Student,No Income,Post Graduate,3,13.102,77.5864,Walk-in
+22,Female,Single,Student,No Income,Graduate,3,13.0158,77.539,Walk-in
+25,Male,Married,Employee,25001 to 50000,Graduate,2,12.998,77.6227,Web_browser
+30,Female,Married,House wife,No Income,School,5,12.998,77.6227,Direct_call
+24,Male,Single,Student,No Income,Post Graduate,3,13.0138,77.5877,Web_browser
+25,Male,Single,Employee,10001 to 25000,Post Graduate,3,13.0138,77.5877,Web_browser
+23,Male,Single,Student,More than 50000,Post Graduate,3,12.977,77.5773,Direct_call
+24,Female,Single,Student,No Income,Post Graduate,4,13.0496,77.4941,Direct_call
+32,Male,Married,Employee,10001 to 25000,Graduate,4,12.9783,77.6408,Walk-in
+22,Male,Single,Student,No Income,Post Graduate,4,12.9889,77.5741,Direct_call
+23,Male,Single,Student,More than 50000,Post Graduate,3,12.977,77.5773,Direct_call
+23,Female,Single,Student,No Income,Post Graduate,4,13.0487,77.5923,Direct_call
+20,Male,Single,Student,No Income,Graduate,2,12.9579,77.6309,Direct_call
+21,Male,Single,Student,No Income,Graduate,2,12.9579,77.6309,Web_browser
+24,Female,Married,Self Employeed,10001 to 25000,Graduate,5,12.9579,77.6309,Web_browser
+23,Female,Single,Student,No Income,Post Graduate,4,13.0487,77.5923,Direct_call
+25,Male,Single,Employee,25001 to 50000,Post Graduate,3,12.985,77.5533,Web_browser
+32,Female,Married,House wife,No Income,Graduate,3,12.985,77.5533,Web_browser
+27,Male,Married,Employee,More than 50000,Ph.D,5,12.985,77.5533,Web_browser
+20,Female,Single,Student,No Income,Graduate,2,12.9337,77.59,Web_browser
+21,Male,Single,Student,No Income,Graduate,2,12.9337,77.59,Walk-in
+26,Male,Single,Employee,More than 50000,Post Graduate,3,12.9337,77.59,Walk-in
+25,Male,Single,Employee,10001 to 25000,Graduate,4,13.0166,77.6804,Direct_call
+26,Male,Single,Employee,25001 to 50000,Post Graduate,3,13.014,77.5658,Direct_call
+26,Female,Married,Employee,25001 to 50000,Graduate,3,13.014,77.5658,Direct_call
+27,Male,Single,Employee,More than 50000,Ph.D,4,13.0503,77.5529,Walk-in
+27,Female,Single,Student,No Income,Ph.D,5,13.0503,77.5529,Walk-in
+24,Female,Single,Student,No Income,Post Graduate,5,12.9883,77.5987,Walk-in
+25,Male,Married,Self Employeed,More than 50000,School,2,13.0626,77.5284,Direct_call
+20,Male,Single,Student,No Income,Graduate,2,13.0626,77.5284,Direct_call
+22,Male,Single,Student,No Income,Post Graduate,1,13.0626,77.5284,Walk-in
+26,Female,Married,Student,Below Rs.10000,Ph.D,3,13.0166,77.6804,Web_browser
+27,Male,Prefer not to say,Employee,25001 to 50000,Post Graduate,1,13.0166,77.6804,Walk-in
+25,Female,Single,Student,No Income,Post Graduate,3,12.9551,77.6593,Web_browser
+24,Male,Single,Employee,Below Rs.10000,Graduate,2,12.9551,77.6593,Direct_call
+23,Female,Single,Employee,10001 to 25000,Graduate,6,12.9551,77.6593,Direct_call
+22,Male,Single,Student,No Income,Graduate,2,12.957,77.5637,Direct_call
+26,Male,Married,Self Employeed,More than 50000,Post Graduate,3,12.957,77.5637,Walk-in
+26,Male,Single,Employee,Below Rs.10000,Post Graduate,1,12.957,77.5637,Web_browser
+25,Female,Married,Self Employeed,25001 to 50000,Post Graduate,3,12.957,77.5637,Web_browser
+29,Female,Married,Employee,More than 50000,Graduate,3,12.957,77.5637,Walk-in
+23,Male,Single,Student,Below Rs.10000,Graduate,3,12.8652,77.524,Walk-in
+22,Female,Single,Employee,25001 to 50000,Graduate,4,12.9698,77.75,Direct_call
+22,Male,Single,Student,No Income,Graduate,2,12.9889,77.5741,Walk-in
+32,Female,Married,House wife,No Income,School,5,12.9889,77.5741,Direct_call
+28,Male,Married,Employee,More than 50000,Post Graduate,1,12.9925,77.5633,Walk-in
+22,Male,Single,Student,No Income,Post Graduate,2,12.977,77.5773,Direct_call
+25,Male,Single,Employee,10001 to 25000,Graduate,2,12.9757,77.5586,Web_browser
+26,Female,Married,Employee,25001 to 50000,Post Graduate,2,12.9757,77.5586,Web_browser
+31,Male,Married,Self Employeed,More than 50000,School,6,13.0487,77.5923,Direct_call
+24,Male,Single,Student,No Income,Post Graduate,3,13.0487,77.5923,Direct_call
+24,Male,Single,Employee,25001 to 50000,Post Graduate,2,12.9662,77.6068,Web_browser
+31,Female,Married,Employee,More than 50000,Ph.D,5,12.9662,77.6068,Walk-in
+26,Male,Single,Employee,25001 to 50000,Graduate,2,12.9343,77.6044,Direct_call
+24,Female,Married,Self Employeed,More than 50000,Graduate,2,12.9343,77.6044,Direct_call
+22,Female,Single,Student,No Income,Graduate,3,12.9343,77.6044,Web_browser
+19,Male,Single,Student,No Income,Graduate,6,12.9442,77.6076,Direct_call
+25,Male,Married,Employee,More than 50000,Post Graduate,6,12.9442,77.6076,Direct_call
+23,Female,Married,House wife,No Income,School,6,12.9442,77.6076,Direct_call
+23,Female,Single,Student,No Income,Graduate,2,13.0298,77.6047,Direct_call
+23,Male,Single,Student,No Income,Post Graduate,2,12.9261,77.6221,Web_browser
+24,Male,Single,Student,No Income,Post Graduate,5,12.9621,77.5376,Direct_call
+22,Female,Single,Employee,25001 to 50000,Graduate,4,12.8845,77.6036,Walk-in
+26,Male,Married,Employee,More than 50000,Graduate,4,12.9048,77.6821,Web_browser
+25,Female,Single,Student,No Income,Ph.D,3,12.9048,77.6821,Web_browser
+20,Male,Single,Student,No Income,Graduate,2,12.9261,77.6221,Direct_call
+29,Male,Married,Employee,25001 to 50000,Graduate,4,12.9261,77.6221,Direct_call
+23,Female,Single,Student,No Income,Graduate,1,12.977,77.5773,Direct_call
+25,Male,Single,Self Employeed,More than 50000,Graduate,2,12.9783,77.6408,Walk-in
+29,Female,Married,Employee,25001 to 50000,Graduate,4,12.9783,77.6408,Walk-in
+27,Male,Married,Self Employeed,25001 to 50000,Graduate,6,12.9217,77.5936,Walk-in
+25,Male,Single,Self Employeed,10001 to 25000,Graduate,3,13.0206,77.6479,Walk-in
+21,Male,Single,Student,No Income,Graduate,2,13.0012,77.5995,Direct_call
+23,Male,Single,Student,No Income,Graduate,3,13.0223,77.7132,Web_browser
+24,Female,Single,Employee,10001 to 25000,Post Graduate,4,12.9337,77.59,Direct_call
+32,Male,Married,Self Employeed,10001 to 25000,School,3,12.982,77.6256,Walk-in
+28,Male,Married,Employee,25001 to 50000,Post Graduate,5,13.0262,77.62,Walk-in
+26,Male,Single,Employee,10001 to 25000,Graduate,2,12.9217,77.5936,Walk-in
+31,Female,Married,House wife,No Income,Graduate,5,13.0078,77.5577,Walk-in
+27,Female,Married,Self Employeed,25001 to 50000,Graduate,3,13.0078,77.5577,Web_browser
+21,Female,Single,Student,No Income,Post Graduate,1,12.9217,77.5936,Walk-in
+23,Female,Single,Student,No Income,Graduate,2,12.9105,77.4842,Web_browser
+26,Male,Married,Employee,10001 to 25000,Graduate,4,12.9105,77.4842,Walk-in
+32,Male,Married,Employee,More than 50000,Graduate,5,12.9037,77.5376,Walk-in
+25,Female,Married,Student,No Income,Post Graduate,2,12.8834,77.5486,Web_browser
+28,Male,Single,Self Employeed,10001 to 25000,Post Graduate,2,12.9149,77.5635,Direct_call
+21,Female,Single,Student,No Income,Post Graduate,3,12.9149,77.5635,Walk-in
+24,Male,Single,Student,No Income,Post Graduate,2,12.9706,77.6529,Direct_call
+26,Female,Married,Self Employeed,10001 to 25000,Graduate,5,12.9706,77.6529,Direct_call
+32,Male,Married,Employee,25001 to 50000,Graduate,3,12.9706,77.6529,Direct_call
+29,Male,Single,Self Employeed,More than 50000,Graduate,6,12.8845,77.6036,Web_browser
+21,Male,Single,Student,No Income,Graduate,5,12.9783,77.6408,Web_browser
+24,Female,Single,Self Employeed,25001 to 50000,Post Graduate,3,13.0103,77.5796,Direct_call
+26,Male,Prefer not to say,Self Employeed,More than 50000,Post Graduate,2,13.0103,77.5796,Direct_call
+25,Male,Married,Employee,More than 50000,Ph.D,3,12.9306,77.5434,Web_browser
+29,Male,Single,Employee,25001 to 50000,Graduate,3,13.0641,77.5931,Web_browser
+22,Male,Single,Student,No Income,Graduate,3,13.0158,77.539,Web_browser
+24,Male,Single,Student,No Income,Graduate,2,12.9561,77.5921,Direct_call
+27,Male,Married,Employee,25001 to 50000,Graduate,2,12.8845,77.6036,Web_browser
+23,Female,Single,Student,No Income,Post Graduate,3,12.9369,77.6407,Web_browser
+32,Male,Married,Employee,More than 50000,Post Graduate,6,12.9369,77.6407,Walk-in
+22,Female,Single,Student,No Income,Graduate,2,12.9369,77.6407,Direct_call
+28,Male,Married,Employee,25001 to 50000,Graduate,3,12.9369,77.6407,Web_browser
+23,Female,Single,Student,No Income,Post Graduate,2,13.0158,77.539,Direct_call
+30,Male,Married,Self Employeed,More than 50000,Graduate,1,13.0809,77.5565,Direct_call
+21,Male,Single,Student,No Income,Graduate,3,13.0641,77.5931,Direct_call
+26,Female,Married,Employee,Below Rs.10000,Graduate,6,12.9859,77.6713,Direct_call
+25,Male,Single,Self Employeed,More than 50000,School,3,12.9859,77.6713,Direct_call
+31,Male,Prefer not to say,Employee,Below Rs.10000,Graduate,1,12.9866,77.4904,Direct_call
+23,Female,Single,Employee,25001 to 50000,Post Graduate,2,12.9847,77.5491,Walk-in
+29,Female,Married,Employee,25001 to 50000,Ph.D,3,12.9847,77.5491,Direct_call
+21,Male,Single,Student,No Income,Graduate,6,12.9847,77.5491,Direct_call
+20,Male,Single,Student,No Income,Graduate,3,12.9299,77.6848,Direct_call
+22,Male,Single,Employee,10001 to 25000,Graduate,2,12.9299,77.6848,Direct_call
+30,Female,Married,House wife,No Income,School,6,12.9828,77.6131,Web_browser
+27,Male,Married,Self Employeed,More than 50000,Graduate,3,12.989,77.5332,Direct_call
+23,Male,Single,Student,No Income,Post Graduate,2,12.977,77.5773,Direct_call
+30,Male,Married,Self Employeed,25001 to 50000,School,6,12.9251,77.4992,Direct_call
+23,Male,Single,Student,No Income,Post Graduate,3,12.9967,77.7582,Web_browser
+28,Female,Married,Employee,25001 to 50000,Post Graduate,6,12.9967,77.7582,Direct_call
+30,Male,Married,Self Employeed,More than 50000,Graduate,6,12.9967,77.7582,Direct_call
+24,Female,Married,Employee,25001 to 50000,Post Graduate,2,12.957,77.5637,Direct_call
+21,Male,Single,Student,No Income,Graduate,2,12.957,77.5637,Direct_call
+23,Female,Prefer not to say,Employee,10001 to 25000,Graduate,3,12.9889,77.5741,Direct_call
+25,Male,Married,Self Employeed,More than 50000,Post Graduate,4,13.0206,77.6479,Walk-in
+24,Female,Single,Employee,25001 to 50000,Graduate,2,12.8893,77.6399,Direct_call
+26,Male,Married,Employee,10001 to 25000,Graduate,3,12.8893,77.6399,Direct_call
+25,Female,Single,Employee,25001 to 50000,Post Graduate,2,12.9967,77.7582,Direct_call
+22,Male,Single,Student,25001 to 50000,Graduate,3,12.9783,77.6408,Direct_call
+26,Female,Single,Employee,25001 to 50000,Post Graduate,2,12.9783,77.6408,Direct_call
+23,Male,Single,Employee,10001 to 25000,Graduate,2,12.9925,77.5633,Direct_call
+21,Female,Single,Employee,Below Rs.10000,Graduate,2,12.9925,77.5633,Walk-in
+25,Male,Married,Self Employeed,25001 to 50000,Graduate,3,12.9561,77.5921,Direct_call
+24,Female,Married,Employee,10001 to 25000,Post Graduate,2,12.9561,77.5921,Direct_call
+22,Male,Married,Student,No Income,Graduate,2,13.0734,77.5464,Direct_call
+23,Female,Single,Student,No Income,Post Graduate,4,13.0487,77.5923,Direct_call
+24,Male,Married,Employee,More than 50000,Post Graduate,3,12.9515,77.4921,Direct_call
+22,Female,Single,Student,No Income,Graduate,2,12.9515,77.4921,Walk-in
+30,Male,Married,Employee,More than 50000,Graduate,5,12.9719,77.5128,Direct_call
+23,Female,Prefer not to say,Employee,10001 to 25000,Graduate,4,12.9048,77.6821,Direct_call
+19,Male,Single,Student,No Income,Graduate,6,12.9048,77.6821,Direct_call
+21,Female,Single,Student,No Income,Graduate,2,13.0103,77.5796,Web_browser
+23,Male,Single,Student,No Income,Graduate,4,13.0103,77.5796,Direct_call
+24,Female,Single,Employee,25001 to 50000,Graduate,3,12.8893,77.6399,Direct_call
+26,Female,Married,Employee,10001 to 25000,Post Graduate,2,12.9828,77.6131,Direct_call
+26,Female,Single,Student,No Income,Ph.D,2,12.9757,77.5586,Direct_call
+25,Female,Single,Student,10001 to 25000,Graduate,2,12.9757,77.5586,Direct_call
+28,Female,Married,Employee,25001 to 50000,Graduate,5,12.9757,77.5586,Walk-in
+25,Female,Single,Student,No Income,Post Graduate,3,13.0734,77.5464,Walk-in
+20,Female,Single,Student,No Income,Graduate,2,13.0734,77.5464,Walk-in
+27,Female,Married,Self Employeed,More than 50000,Graduate,6,13.0734,77.5464,Direct_call
+25,Female,Married,Employee,25001 to 50000,Graduate,3,13.0626,77.5284,Walk-in
+24,Female,Single,Student,No Income,Post Graduate,5,13.0626,77.5284,Direct_call
+25,Female,Married,Employee,More than 50000,Graduate,1,12.977,77.5773,Direct_call
+25,Female,Prefer not to say,Employee,25001 to 50000,Post Graduate,3,12.998,77.6227,Direct_call
+24,Female,Married,Student,Below Rs.10000,Ph.D,5,13.0626,77.5284,Direct_call
+24,Male,Single,Student,No Income,Post Graduate,3,13.0626,77.5284,Direct_call
+22,Male,Single,Employee,10001 to 25000,Graduate,1,13.0138,77.5877,Direct_call
+28,Male,Single,Employee,25001 to 50000,Post Graduate,2,13.0138,77.5877,Direct_call
+25,Female,Single,Employee,More than 50000,Post Graduate,6,13.014,77.5658,Direct_call
+22,Male,Single,Student,Below Rs.10000,Post Graduate,3,12.9551,77.6593,Direct_call
+22,Female,Single,Student,No Income,Graduate,6,12.9473,77.5616,Walk-in
+22,Male,Single,Student,Below Rs.10000,Post Graduate,4,12.985,77.5533,Direct_call
+27,Female,Married,Employee,More than 50000,Post Graduate,2,12.9299,77.6848,Walk-in
+22,Male,Single,Student,No Income,Graduate,3,12.977,77.5773,Direct_call
+24,Female,Single,Student,No Income,Post Graduate,3,12.9828,77.6131,Direct_call
+23,Female,Single,Student,No Income,Post Graduate,2,12.9766,77.5993,Direct_call
+23,Female,Single,Student,No Income,Post Graduate,4,12.9854,77.7081,Walk-in
+22,Female,Single,Student,No Income,Post Graduate,5,12.985,77.5533,Direct_call
+23,Male,Single,Student,Below Rs.10000,Post Graduate,2,12.977,77.5773,Walk-in
+32,Male,Married,Employee,More than 50000,Graduate,5,12.9037,77.5376,Walk-in
+25,Female,Married,Student,No Income,Post Graduate,2,12.8834,77.5486,Web_browser
+28,Male,Single,Self Employeed,10001 to 25000,Post Graduate,2,12.9149,77.5635,Direct_call
+21,Female,Single,Student,No Income,Post Graduate,3,12.9149,77.5635,Walk-in
+24,Male,Single,Student,No Income,Post Graduate,2,12.9706,77.6529,Direct_call
+26,Female,Married,Self Employeed,10001 to 25000,Graduate,5,12.9706,77.6529,Direct_call
+32,Male,Married,Employee,25001 to 50000,Graduate,3,12.9706,77.6529,Direct_call
+29,Male,Single,Self Employeed,More than 50000,Graduate,6,12.8845,77.6036,Web_browser
+21,Male,Single,Student,No Income,Graduate,5,12.9783,77.6408,Web_browser
+24,Female,Single,Self Employeed,25001 to 50000,Post Graduate,3,13.0103,77.5796,Direct_call
+26,Male,Prefer not to say,Self Employeed,More than 50000,Post Graduate,2,13.0103,77.5796,Direct_call
+21,Male,Married,Employee,More than 50000,Ph.D,3,12.9306,77.5434,Web_browser
+29,Male,Single,Employee,25001 to 50000,Graduate,3,13.0641,77.5931,Web_browser
+22,Male,Single,Student,No Income,Graduate,3,13.0158,77.539,Web_browser
+24,Male,Single,Student,No Income,Graduate,2,12.9561,77.5921,Direct_call
+27,Male,Married,Employee,25001 to 50000,Graduate,2,12.8845,77.6036,Web_browser
+23,Female,Single,Student,No Income,Post Graduate,3,12.9369,77.6407,Web_browser
+32,Male,Married,Employee,More than 50000,Post Graduate,6,12.9369,77.6407,Walk-in
+22,Female,Single,Student,No Income,Graduate,2,12.9369,77.6407,Direct_call
+22,Female,Single,Employee,25001 to 50000,Graduate,4,12.8845,77.6036,Walk-in
+26,Male,Married,Employee,More than 50000,Graduate,4,12.9048,77.6821,Web_browser
+25,Female,Single,Student,No Income,Ph.D,3,12.9048,77.6821,Web_browser
+20,Male,Single,Student,No Income,Graduate,2,12.9261,77.6221,Direct_call
+29,Male,Married,Employee,25001 to 50000,Graduate,4,12.9261,77.6221,Direct_call
+23,Female,Single,Student,No Income,Graduate,1,12.977,77.5773,Direct_call
+25,Male,Single,Self Employeed,More than 50000,Graduate,2,12.9783,77.6408,Walk-in
+29,Female,Married,Employee,25001 to 50000,Graduate,4,12.9783,77.6408,Walk-in
+27,Male,Married,Self Employeed,25001 to 50000,Graduate,6,12.9217,77.5936,Walk-in
+25,Male,Single,Self Employeed,10001 to 25000,Graduate,3,13.0206,77.6479,Walk-in
+21,Male,Single,Student,No Income,Graduate,2,13.0012,77.5995,Direct_call
+23,Male,Single,Student,No Income,Graduate,3,13.0223,77.7132,Web_browser
+24,Female,Single,Employee,10001 to 25000,Post Graduate,4,12.9337,77.59,Direct_call
+22,Male,Married,Self Employeed,10001 to 25000,School,3,12.982,77.6256,Walk-in
+28,Male,Married,Employee,25001 to 50000,Post Graduate,5,13.0262,77.62,Walk-in
+26,Male,Single,Employee,10001 to 25000,Graduate,2,12.9217,77.5936,Walk-in
+22,Female,Single,Employee,25001 to 50000,Graduate,4,12.8845,77.6036,Walk-in
+26,Male,Married,Employee,More than 50000,Graduate,4,12.9048,77.6821,Web_browser
+25,Female,Single,Student,No Income,Ph.D,3,12.9048,77.6821,Web_browser
+20,Male,Single,Student,No Income,Graduate,2,12.9261,77.6221,Direct_call
+29,Male,Married,Employee,25001 to 50000,Graduate,4,12.9261,77.6221,Direct_call
+23,Female,Single,Student,No Income,Graduate,1,12.977,77.5773,Direct_call
+25,Male,Single,Self Employeed,More than 50000,Graduate,2,12.9783,77.6408,Walk-in
+29,Female,Married,Employee,25001 to 50000,Graduate,4,12.9783,77.6408,Walk-in
+27,Male,Married,Self Employeed,25001 to 50000,Graduate,6,12.9217,77.5936,Walk-in
+25,Male,Single,Self Employeed,10001 to 25000,Graduate,3,13.0206,77.6479,Walk-in
+21,Male,Single,Student,No Income,Graduate,2,13.0012,77.5995,Direct_call
+24,Male,Single,Student,No Income,Post Graduate,2,12.9706,77.6529,Direct_call
+26,Female,Married,Self Employeed,10001 to 25000,Graduate,5,12.9706,77.6529,Direct_call
+32,Male,Married,Employee,25001 to 50000,Graduate,3,12.9706,77.6529,Direct_call
+29,Male,Single,Self Employeed,More than 50000,Graduate,6,12.8845,77.6036,Web_browser
+21,Male,Single,Student,No Income,Graduate,5,12.9783,77.6408,Web_browser
+24,Female,Single,Self Employeed,25001 to 50000,Post Graduate,3,13.0103,77.5796,Direct_call
+26,Male,Prefer not to say,Self Employeed,More than 50000,Post Graduate,2,13.0103,77.5796,Direct_call
+31,Male,Married,Employee,More than 50000,Ph.D,3,12.9306,77.5434,Web_browser
+29,Male,Single,Employee,25001 to 50000,Graduate,3,13.0641,77.5931,Web_browser
+22,Male,Single,Student,No Income,Graduate,3,13.0158,77.539,Web_browser
+24,Male,Single,Student,No Income,Graduate,2,12.9561,77.5921,Direct_call
+27,Male,Married,Employee,25001 to 50000,Graduate,2,12.8845,77.6036,Web_browser
+23,Female,Single,Student,No Income,Post Graduate,3,12.9369,77.6407,Web_browser
+30,Male,Married,Employee,More than 50000,Post Graduate,6,12.9369,77.6407,Walk-in
+22,Female,Single,Student,No Income,Graduate,2,12.9369,77.6407,Direct_call
+28,Male,Married,Employee,25001 to 50000,Graduate,3,12.9369,77.6407,Web_browser
+23,Female,Single,Student,No Income,Post Graduate,2,13.0158,77.539,Direct_call
+30,Male,Married,Self Employeed,More than 50000,Graduate,1,13.0809,77.5565,Direct_call
+21,Male,Single,Student,No Income,Graduate,3,13.0641,77.5931,Direct_call
+26,Female,Married,Employee,Below Rs.10000,Graduate,6,12.9859,77.6713,Direct_call
+25,Male,Single,Self Employeed,More than 50000,School,3,12.9859,77.6713,Direct_call
+31,Male,Prefer not to say,Employee,Below Rs.10000,Graduate,1,12.9866,77.4904,Direct_call
+23,Female,Single,Employee,25001 to 50000,Post Graduate,2,12.9847,77.5491,Walk-in
+22,Male,Single,Student,Below Rs.10000,Post Graduate,4,12.985,77.5533,Direct_call
+27,Female,Married,Employee,More than 50000,Post Graduate,2,12.9299,77.6848,Walk-in
+22,Male,Single,Student,No Income,Graduate,3,12.977,77.5773,Direct_call
+24,Female,Single,Student,No Income,Post Graduate,3,12.9828,77.6131,Direct_call
+23,Female,Single,Student,No Income,Post Graduate,2,12.9766,77.5993,Direct_call
+23,Female,Single,Student,No Income,Post Graduate,4,12.9854,77.7081,Walk-in
+22,Female,Single,Student,No Income,Post Graduate,5,12.985,77.5533,Direct_call
+23,Male,Single,Student,Below Rs.10000,Post Graduate,2,12.977,77.5773,Walk-in
+23,Male,Single,Student,No Income,Post Graduate,5,12.8988,77.5764,Direct_call
