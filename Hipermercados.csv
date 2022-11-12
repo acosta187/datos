@@ -1,0 +1,728 @@
+Tienda,Género,Edad,Monto,Devolución,NumObjetosDevueltos,MotivoCambio,Consecuencia
+Miraflores,Femenino,17,5.8,1,4,Cliente cambio de parecer,Fuga
+Miraflores,Femenino,20,79.8,4,5,Cliente cambio de parecer,Fuga
+Miraflores,Femenino,17,138,1,7,Cliente cambio de parecer,Fuga
+Miraflores,Femenino,13,198,1,2,Cliente cambio de parecer,Fuga
+Miraflores,Femenino,40,89.86,4,5,Cliente cambio de parecer,Fuga
+Miraflores,Femenino,27,29.8,2,2,Cliente cambio de parecer,Nofuga
+Miraflores,Femenino,40,67.8,2,3,Cliente cambio de parecer,Fuga
+Miraflores,Femenino,19,458,0,8,Cliente cambio de parecer,Fuga
+Miraflores,Femenino,52,86,2,4,Cliente cambio de parecer,Fuga
+Miraflores,Femenino,13,79.8,1,5,Cliente cambio de parecer,Fuga
+Miraflores,Femenino,20,458,0,1,Cliente cambio de parecer,Fuga
+Miraflores,Femenino,52,134,4,6,Cliente cambio de parecer,Fuga
+Miraflores,Femenino,13,119.8,2,5,Cliente cambio de parecer,Fuga
+Miraflores,Femenino,20,3.6,1,5,Cliente cambio de parecer,Fuga
+Miraflores,Femenino,51,61,0,5,Cliente cambio de parecer,Fuga
+Miraflores,Femenino,20,18.8,0,7,Cliente cambio de parecer,Fuga
+Miraflores,Femenino,32,159.72,1,6,Cliente cambio de parecer,Fuga
+Miraflores,Femenino,20,182,2,4,Cliente cambio de parecer,Fuga
+Miraflores,Femenino,20,4.6,1,6,Cliente cambio de parecer,Fuga
+Miraflores,Femenino,20,49.8,3,2,Cliente cambio de parecer,Nofuga
+Miraflores,Femenino,19,79.8,1,4,Cliente cambio de parecer,Fuga
+Miraflores,Femenino,31,35,0,8,Cliente cambio de parecer,Fuga
+Miraflores,Femenino,51,59.8,2,4,Cliente cambio de parecer,Fuga
+Miraflores,Femenino,20,139.8,6,3,Cliente cambio de parecer,Fuga
+Miraflores,Femenino,17,234,6,5,Cliente cambio de parecer,Fuga
+Miraflores,Masculino,32,99.8,6,4,Cliente cambio de parecer,Fuga
+Miraflores,Masculino,25,59.8,5,1,Cliente cambio de parecer,Nofuga
+Miraflores,Masculino,31,79.8,1,3,Cliente cambio de parecer,Fuga
+Miraflores,Masculino,31,39.76,1,6,Cliente cambio de parecer,Fuga
+Miraflores,Masculino,33,139.8,2,6,Cliente cambio de parecer,Fuga
+Miraflores,Masculino,56,79.8,2,8,Cliente cambio de parecer,Fuga
+Miraflores,Masculino,32,79.8,0,1,Cliente cambio de parecer,Fuga
+Miraflores,Masculino,24,51,0,3,Cliente cambio de parecer,Nofuga
+Miraflores,Masculino,19,35.2,1,2,Cliente cambio de parecer,Nofuga
+Miraflores,Masculino,24,79.8,0,5,Cliente cambio de parecer,Fuga
+Miraflores,Masculino,19,39.8,0,3,Cliente cambio de parecer,Nofuga
+Miraflores,Masculino,24,119.8,2,5,Cliente cambio de parecer,Fuga
+Miraflores,Masculino,56,49.8,2,6,Cliente cambio de parecer,Fuga
+Miraflores,Masculino,56,119.8,3,7,Cliente cambio de parecer,Fuga
+Miraflores,Masculino,32,79.8,3,7,Cliente cambio de parecer,Fuga
+Miraflores,Masculino,56,138,3,1,Cliente cambio de parecer,Fuga
+Miraflores,Masculino,32,99.8,2,1,Cliente cambio de parecer,Fuga
+Miraflores,Masculino,31,39.8,4,3,Cliente cambio de parecer,Nofuga
+Miraflores,Masculino,25,178,0,2,Cliente cambio de parecer,Fuga
+Miraflores,Masculino,31,39.8,0,3,Cliente cambio de parecer,Nofuga
+Miraflores,Masculino,32,79.8,0,1,Cliente cambio de parecer,Fuga
+Surco,Femenino,25,39.8,5,7,Cliente cambio de parecer,Fuga
+Surco,Femenino,65,38.32,7,3,Cliente cambio de parecer,Nofuga
+Surco,Femenino,65,79.8,4,5,Cliente cambio de parecer,Fuga
+Surco,Femenino,45,169.8,1,8,Cliente cambio de parecer,Fuga
+Surco,Femenino,65,159.8,0,7,Cliente cambio de parecer,Fuga
+Surco,Femenino,37,59.8,5,1,Cliente cambio de parecer,Nofuga
+Surco,Femenino,24,39.8,0,6,Cliente cambio de parecer,Fuga
+Surco,Femenino,37,39.8,0,3,Cliente cambio de parecer,Nofuga
+Surco,Femenino,25,106,1,5,Cliente cambio de parecer,Fuga
+Surco,Femenino,32,154,2,3,Cliente cambio de parecer,Fuga
+Surco,Femenino,45,998,4,1,Cliente cambio de parecer,Fuga
+Surco,Femenino,65,198,0,2,Cliente cambio de parecer,Fuga
+Surco,Femenino,25,13.8,0,6,Cliente cambio de parecer,Fuga
+Surco,Femenino,18,298,2,6,Cliente cambio de parecer,Fuga
+Surco,Femenino,56,67.36,1,6,Cliente cambio de parecer,Fuga
+Surco,Femenino,65,138,2,5,Cliente cambio de parecer,Fuga
+Surco,Femenino,49,3998,4,7,Cliente cambio de parecer,Fuga
+Surco,Femenino,25,119.8,0,5,Cliente cambio de parecer,Fuga
+Surco,Femenino,25,59.8,0,6,Cliente cambio de parecer,Fuga
+Surco,Femenino,65,119.8,2,6,Cliente cambio de parecer,Fuga
+Surco,Femenino,22,27.86,6,4,Cliente cambio de parecer,Fuga
+Surco,Femenino,37,39.8,3,7,Cliente cambio de parecer,Fuga
+Surco,Femenino,25,59.86,1,1,Cliente cambio de parecer,Nofuga
+Surco,Femenino,25,380,2,4,Cliente cambio de parecer,Fuga
+Surco,Femenino,25,24.2,5,8,Cliente cambio de parecer,Fuga
+Surco,Masculino,29,59.8,4,7,Cliente cambio de parecer,Fuga
+Surco,Masculino,49,59.8,1,1,Cliente cambio de parecer,Nofuga
+Surco,Masculino,37,99.8,0,1,Cliente cambio de parecer,Fuga
+Surco,Masculino,19,79.6,1,5,Cliente cambio de parecer,Fuga
+Surco,Masculino,29,139.8,1,5,Cliente cambio de parecer,Fuga
+Surco,Masculino,19,74.86,1,8,Cliente cambio de parecer,Fuga
+Surco,Masculino,32,39.8,1,7,Cliente cambio de parecer,Fuga
+Surco,Masculino,24,12.06,0,6,Cliente cambio de parecer,Fuga
+Surco,Masculino,32,79.8,1,4,Cliente cambio de parecer,Fuga
+Surco,Masculino,25,129.8,0,1,Cliente cambio de parecer,Fuga
+Surco,Masculino,33,59.8,2,1,Cliente cambio de parecer,Nofuga
+Los Olivos,Femenino,56,39.8,1,8,Cliente cambio de parecer,Fuga
+Los Olivos,Femenino,25,338,2,7,Cliente cambio de parecer,Fuga
+Los Olivos,Femenino,65,35.8,2,6,Cliente cambio de parecer,Fuga
+Los Olivos,Femenino,32,598,1,4,Cliente cambio de parecer,Fuga
+Los Olivos,Femenino,65,4,1,5,Cliente cambio de parecer,Fuga
+Los Olivos,Femenino,65,64,2,8,Cliente cambio de parecer,Fuga
+Los Olivos,Masculino,32,5.8,0,4,Cliente cambio de parecer,Fuga
+Los Olivos,Masculino,19,7.1,0,4,Cliente cambio de parecer,Fuga
+Los Olivos,Masculino,49,4.2,1,6,Cliente cambio de parecer,Fuga
+Los Olivos,Masculino,62,4.4,2,6,Cliente cambio de parecer,Fuga
+Los Olivos,Masculino,32,90.3,0,6,Cliente cambio de parecer,Fuga
+Los Olivos,Masculino,32,89.8,1,8,Cliente cambio de parecer,Fuga
+Los Olivos,Masculino,31,694,1,3,Cliente cambio de parecer,Fuga
+Los Olivos,Masculino,31,14.9,0,5,Cliente cambio de parecer,Fuga
+Los Olivos,Masculino,31,749,2,5,Cliente cambio de parecer,Fuga
+Los Olivos,Masculino,49,39,3,1,Cliente cambio de parecer,Nofuga
+Los Olivos,Masculino,29,26.18,4,1,Cliente cambio de parecer,Nofuga
+Los Olivos,Masculino,19,99,1,4,Cliente cambio de parecer,Fuga
+Los Olivos,Masculino,32,39,5,3,Cliente cambio de parecer,Nofuga
+Los Olivos,Masculino,29,19.45,0,3,Cliente cambio de parecer,Nofuga
+Pueblo Libre,Femenino,25,22.3,2,5,Cliente cambio de parecer,Fuga
+Pueblo Libre,Femenino,56,14.9,0,1,Cliente cambio de parecer,Nofuga
+Pueblo Libre,Femenino,49,11.6,0,7,Cliente cambio de parecer,Fuga
+Pueblo Libre,Femenino,45,9.4,0,8,Cliente cambio de parecer,Fuga
+Pueblo Libre,Femenino,65,39.9,1,4,Cliente cambio de parecer,Fuga
+Pueblo Libre,Femenino,18,22.9,4,5,Cliente cambio de parecer,Fuga
+Pueblo Libre,Femenino,18,69,1,3,Cliente cambio de parecer,Fuga
+Pueblo Libre,Femenino,57,39.9,4,7,Cliente cambio de parecer,Fuga
+Pueblo Libre,Femenino,57,89.9,5,2,Cliente cambio de parecer,Fuga
+Pueblo Libre,Femenino,18,53,0,5,Cliente cambio de parecer,Fuga
+Pueblo Libre,Femenino,18,39.9,0,4,Cliente cambio de parecer,Fuga
+Pueblo Libre,Femenino,57,3.1,1,2,Cliente cambio de parecer,Nofuga
+Pueblo Libre,Femenino,57,4.6,4,6,Cliente cambio de parecer,Fuga
+Pueblo Libre,Femenino,49,13.36,4,7,Cliente cambio de parecer,Fuga
+Pueblo Libre,Femenino,65,59.9,2,4,Cliente cambio de parecer,Fuga
+Pueblo Libre,Femenino,49,59.9,0,5,Cliente cambio de parecer,Fuga
+Pueblo Libre,Femenino,24,79.9,5,5,Cliente cambio de parecer,Fuga
+Pueblo Libre,Femenino,49,67,1,1,Cliente cambio de parecer,Fuga
+Pueblo Libre,Femenino,25,29.93,0,6,Cliente cambio de parecer,Fuga
+Pueblo Libre,Femenino,22,29.9,5,4,Cliente cambio de parecer,Fuga
+Pueblo Libre,Femenino,45,49.9,5,3,Cliente cambio de parecer,Nofuga
+Pueblo Libre,Femenino,22,29.9,2,1,Cliente cambio de parecer,Nofuga
+Pueblo Libre,Femenino,25,49.9,1,4,Cliente cambio de parecer,Fuga
+Pueblo Libre,Femenino,25,39.9,2,2,Cliente cambio de parecer,Nofuga
+Pueblo Libre,Femenino,57,42,4,1,Cliente cambio de parecer,Nofuga
+Pueblo Libre,Femenino,56,29.9,1,3,Cliente cambio de parecer,Nofuga
+Pueblo Libre,Femenino,49,49.9,0,8,Cliente cambio de parecer,Fuga
+Pueblo Libre,Femenino,57,49.9,0,7,Cliente cambio de parecer,Fuga
+Pueblo Libre,Femenino,25,59.9,6,3,Cliente cambio de parecer,Nofuga
+Pueblo Libre,Femenino,19,49.9,6,2,Cliente cambio de parecer,Nofuga
+Pueblo Libre,Masculino,33,39.9,3,7,Cliente cambio de parecer,Fuga
+Pueblo Libre,Masculino,62,79.9,0,2,Cliente cambio de parecer,Fuga
+Pueblo Libre,Masculino,24,37.43,0,1,Cliente cambio de parecer,Nofuga
+Pueblo Libre,Masculino,62,29.9,0,8,Cliente cambio de parecer,Fuga
+Pueblo Libre,Masculino,56,59.9,6,2,Cliente cambio de parecer,Nofuga
+Pueblo Libre,Masculino,49,29.9,2,8,Cliente cambio de parecer,Fuga
+Pueblo Libre,Masculino,31,109,1,4,Cliente cambio de parecer,Fuga
+Pueblo Libre,Masculino,19,29.9,0,2,Cliente cambio de parecer,Nofuga
+Pueblo Libre,Masculino,25,39.9,1,6,Cliente cambio de parecer,Fuga
+Pueblo Libre,Masculino,31,29.9,0,1,Cliente cambio de parecer,Nofuga
+Pueblo Libre,Masculino,29,59.9,1,6,Cliente cambio de parecer,Fuga
+Pueblo Libre,Masculino,56,55,2,8,Cliente cambio de parecer,Fuga
+Pueblo Libre,Masculino,49,79.9,0,6,Cliente cambio de parecer,Fuga
+Pueblo Libre,Masculino,56,39.9,1,1,Cliente cambio de parecer,Nofuga
+Pueblo Libre,Masculino,49,49.9,0,6,Cliente cambio de parecer,Fuga
+Pueblo Libre,Masculino,31,99,1,6,Cliente cambio de parecer,Fuga
+Pueblo Libre,Masculino,29,39.9,1,3,Cliente cambio de parecer,Nofuga
+Pueblo Libre,Masculino,29,99,2,4,Cliente cambio de parecer,Fuga
+Pueblo Libre,Masculino,29,19.9,3,7,Cliente cambio de parecer,Fuga
+Pueblo Libre,Masculino,32,29.9,2,7,Cliente cambio de parecer,Fuga
+Pueblo Libre,Masculino,32,29.9,2,6,Cliente cambio de parecer,Fuga
+Pueblo Libre,Masculino,25,42,2,6,Cliente cambio de parecer,Fuga
+Pueblo Libre,Masculino,49,22.9,3,7,Cliente cambio de parecer,Fuga
+Pueblo Libre,Masculino,24,69.9,4,3,Cliente cambio de parecer,Fuga
+Pueblo Libre,Masculino,19,67,4,2,Cliente cambio de parecer,Fuga
+Pueblo Libre,Masculino,33,49.9,0,5,Cliente cambio de parecer,Fuga
+Pueblo Libre,Masculino,37,55,5,2,Cliente cambio de parecer,Nofuga
+Pueblo Libre,Masculino,56,369,5,4,Cliente cambio de parecer,Fuga
+Pueblo Libre,Masculino,19,79.9,5,1,Cliente cambio de parecer,Fuga
+Pueblo Libre,Masculino,49,165,2,8,Cliente cambio de parecer,Fuga
+Pueblo Libre,Masculino,32,9.4,2,7,Cliente cambio de parecer,Fuga
+Miraflores,Femenino,13,24.9,1,1,cliente equivoco talla,Nofuga
+Miraflores,Femenino,30,79.9,1,8,cliente equivoco talla,Fuga
+Miraflores,Femenino,44,49.9,3,1,cliente equivoco talla,Nofuga
+Miraflores,Femenino,20,49.9,0,3,cliente equivoco talla,Nofuga
+Miraflores,Femenino,32,29.9,2,2,cliente equivoco talla,Nofuga
+Miraflores,Femenino,17,17.66,1,4,cliente equivoco talla,Fuga
+Miraflores,Femenino,20,3.9,3,2,cliente equivoco talla,Nofuga
+Miraflores,Femenino,40,2.71,2,4,cliente equivoco talla,Fuga
+Miraflores,Femenino,20,39.9,1,1,cliente equivoco talla,Nofuga
+Miraflores,Femenino,13,9.9,3,5,cliente equivoco talla,Fuga
+Miraflores,Femenino,17,24.9,1,7,cliente equivoco talla,Fuga
+Miraflores,Femenino,13,149,3,7,cliente equivoco talla,Fuga
+Miraflores,Femenino,20,9.9,4,8,cliente equivoco talla,Fuga
+Miraflores,Femenino,27,199,0,4,cliente equivoco talla,Fuga
+Miraflores,Femenino,20,39.9,0,5,cliente equivoco talla,Fuga
+Miraflores,Femenino,52,799,1,2,cliente equivoco talla,Fuga
+Miraflores,Femenino,32,149,1,7,cliente equivoco talla,Fuga
+Miraflores,Femenino,14,49,3,4,cliente equivoco talla,Fuga
+Miraflores,Femenino,20,53,3,6,cliente equivoco talla,Fuga
+Miraflores,Femenino,40,15.9,1,8,cliente equivoco talla,Fuga
+Miraflores,Femenino,27,29.93,1,7,cliente equivoco talla,Fuga
+Miraflores,Femenino,14,29.9,1,4,cliente equivoco talla,Fuga
+Miraflores,Femenino,19,30,2,4,cliente equivoco talla,Fuga
+Miraflores,Femenino,32,29.9,1,4,cliente equivoco talla,Fuga
+Miraflores,Femenino,20,39.9,1,8,cliente equivoco talla,Fuga
+Miraflores,Femenino,20,39.9,1,7,cliente equivoco talla,Fuga
+Miraflores,Femenino,52,39.9,2,7,cliente equivoco talla,Fuga
+Miraflores,Femenino,32,119,1,7,cliente equivoco talla,Fuga
+Miraflores,Femenino,32,49.9,1,6,cliente equivoco talla,Fuga
+Miraflores,Masculino,33,199.9,1,3,cliente equivoco talla,Fuga
+Miraflores,Masculino,19,119,0,7,cliente equivoco talla,Fuga
+Miraflores,Masculino,25,14.9,2,3,cliente equivoco talla,Nofuga
+Miraflores,Masculino,19,99.9,0,1,cliente equivoco talla,Fuga
+Miraflores,Masculino,29,749,0,4,cliente equivoco talla,Fuga
+Miraflores,Masculino,37,96.9,0,5,cliente equivoco talla,Fuga
+Miraflores,Masculino,19,8.5,1,8,cliente equivoco talla,Fuga
+Miraflores,Masculino,24,29.9,1,4,cliente equivoco talla,Fuga
+Miraflores,Masculino,32,299,1,3,cliente equivoco talla,Fuga
+Miraflores,Masculino,32,1290,2,4,cliente equivoco talla,Fuga
+Miraflores,Masculino,62,197,1,4,cliente equivoco talla,Fuga
+Miraflores,Masculino,33,1.8,1,3,cliente equivoco talla,Nofuga
+Miraflores,Masculino,49,11.6,1,5,cliente equivoco talla,Fuga
+Miraflores,Masculino,49,79.9,3,1,cliente equivoco talla,Fuga
+Miraflores,Masculino,29,289,4,1,cliente equivoco talla,Fuga
+Miraflores,Masculino,33,39.9,5,1,cliente equivoco talla,Nofuga
+Miraflores,Masculino,25,4,1,6,cliente equivoco talla,Fuga
+Miraflores,Masculino,29,29.93,3,1,cliente equivoco talla,Nofuga
+Miraflores,Masculino,32,37.43,4,7,cliente equivoco talla,Fuga
+Miraflores,Masculino,31,14.9,5,1,cliente equivoco talla,Nofuga
+Miraflores,Masculino,29,39.9,1,2,cliente equivoco talla,Nofuga
+Miraflores,Masculino,19,44.9,1,8,cliente equivoco talla,Fuga
+Miraflores,Masculino,32,109,1,2,cliente equivoco talla,Fuga
+Miraflores,Masculino,49,49.9,2,6,cliente equivoco talla,Fuga
+Miraflores,Masculino,32,29.9,3,5,cliente equivoco talla,Fuga
+Miraflores,Masculino,33,55.93,4,6,cliente equivoco talla,Fuga
+Miraflores,Masculino,19,49.9,0,4,cliente equivoco talla,Fuga
+Miraflores,Masculino,31,22.4,2,1,cliente equivoco talla,Nofuga
+Miraflores,Masculino,24,59.9,1,3,cliente equivoco talla,Nofuga
+Miraflores,Masculino,32,29.93,1,6,cliente equivoco talla,Fuga
+Miraflores,Masculino,25,29.9,1,8,cliente equivoco talla,Fuga
+Miraflores,Masculino,33,29.9,0,2,cliente equivoco talla,Nofuga
+Miraflores,Masculino,32,79.9,0,8,cliente equivoco talla,Fuga
+Miraflores,Masculino,33,14.9,2,8,cliente equivoco talla,Fuga
+Miraflores,Masculino,32,14.93,4,5,cliente equivoco talla,Fuga
+Miraflores,Masculino,56,89,4,8,cliente equivoco talla,Fuga
+Miraflores,Masculino,29,19.9,0,4,cliente equivoco talla,Fuga
+Miraflores,Masculino,45,29.92,0,1,cliente equivoco talla,Nofuga
+Miraflores,Masculino,49,19.9,3,6,cliente equivoco talla,Fuga
+Surco,Femenino,32,179,5,7,cliente equivoco talla,Fuga
+Surco,Femenino,65,39.9,3,1,cliente equivoco talla,Nofuga
+Surco,Femenino,56,22.9,5,1,cliente equivoco talla,Nofuga
+Surco,Femenino,25,14.9,2,7,cliente equivoco talla,Fuga
+Surco,Femenino,45,19.9,0,3,cliente equivoco talla,Nofuga
+Surco,Femenino,56,29.9,3,1,cliente equivoco talla,Nofuga
+Surco,Femenino,25,39.9,4,6,cliente equivoco talla,Fuga
+Surco,Femenino,24,29.9,2,3,cliente equivoco talla,Nofuga
+Surco,Femenino,49,39.9,2,6,cliente equivoco talla,Fuga
+Surco,Femenino,18,59.9,1,4,cliente equivoco talla,Fuga
+Surco,Femenino,56,69.9,5,8,cliente equivoco talla,Fuga
+Surco,Femenino,25,79.9,0,2,cliente equivoco talla,Fuga
+Surco,Femenino,65,69.9,2,3,cliente equivoco talla,Fuga
+Surco,Femenino,57,59.9,0,3,cliente equivoco talla,Nofuga
+Surco,Femenino,45,39.9,1,1,cliente equivoco talla,Nofuga
+Surco,Femenino,45,29.9,0,3,cliente equivoco talla,Nofuga
+Surco,Femenino,37,49.9,4,7,cliente equivoco talla,Fuga
+Surco,Femenino,18,29.9,1,3,cliente equivoco talla,Nofuga
+Surco,Femenino,65,29.9,2,4,cliente equivoco talla,Fuga
+Surco,Femenino,56,9.5,1,3,cliente equivoco talla,Nofuga
+Surco,Femenino,37,149,2,6,cliente equivoco talla,Fuga
+Surco,Femenino,56,59.9,0,3,cliente equivoco talla,Nofuga
+Surco,Femenino,45,99,1,5,cliente equivoco talla,Fuga
+Surco,Femenino,32,53,1,6,cliente equivoco talla,Fuga
+Surco,Femenino,25,99,2,4,cliente equivoco talla,Fuga
+Surco,Femenino,45,149,1,4,cliente equivoco talla,Fuga
+Surco,Femenino,65,849,2,4,cliente equivoco talla,Fuga
+Surco,Femenino,25,649,1,3,cliente equivoco talla,Fuga
+Surco,Femenino,31,19.9,0,7,cliente equivoco talla,Fuga
+Surco,Femenino,57,19.9,1,7,cliente equivoco talla,Fuga
+Surco,Femenino,22,49.9,1,5,cliente equivoco talla,Fuga
+Surco,Femenino,19,159,0,7,cliente equivoco talla,Fuga
+Surco,Femenino,45,123,1,3,cliente equivoco talla,Fuga
+Surco,Femenino,22,49.9,2,7,cliente equivoco talla,Fuga
+Surco,Femenino,37,33.13,1,2,cliente equivoco talla,Nofuga
+Surco,Femenino,37,169,1,2,cliente equivoco talla,Fuga
+Surco,Femenino,24,45.99,2,2,cliente equivoco talla,Nofuga
+Surco,Femenino,22,12.48,1,7,cliente equivoco talla,Fuga
+Surco,Femenino,57,9.9,1,2,cliente equivoco talla,Nofuga
+Surco,Masculino,25,39.9,0,2,cliente equivoco talla,Nofuga
+Surco,Masculino,19,369,1,3,cliente equivoco talla,Fuga
+Surco,Masculino,29,49.9,1,7,cliente equivoco talla,Fuga
+Surco,Masculino,31,11.3,1,6,cliente equivoco talla,Fuga
+Surco,Masculino,25,2.97,5,7,cliente equivoco talla,Fuga
+Surco,Masculino,29,204,1,5,cliente equivoco talla,Fuga
+Surco,Masculino,49,130,1,6,cliente equivoco talla,Fuga
+Surco,Masculino,49,180,5,6,cliente equivoco talla,Fuga
+Surco,Masculino,31,8.9,1,3,cliente equivoco talla,Nofuga
+Surco,Masculino,32,2.6,2,1,cliente equivoco talla,Nofuga
+Surco,Masculino,29,649,0,4,cliente equivoco talla,Fuga
+Surco,Masculino,32,31.05,2,1,cliente equivoco talla,Nofuga
+Surco,Masculino,49,17.7,0,1,cliente equivoco talla,Nofuga
+Surco,Masculino,32,29.93,1,5,cliente equivoco talla,Fuga
+Surco,Masculino,62,146,1,5,cliente equivoco talla,Fuga
+Surco,Masculino,33,149,2,3,cliente equivoco talla,Fuga
+Surco,Masculino,49,109,1,4,cliente equivoco talla,Fuga
+Surco,Masculino,29,9.9,1,2,cliente equivoco talla,Nofuga
+Surco,Masculino,19,399,2,6,cliente equivoco talla,Fuga
+Surco,Masculino,24,14.3,1,1,cliente equivoco talla,Nofuga
+Surco,Masculino,49,35,1,7,cliente equivoco talla,Fuga
+Surco,Masculino,49,29.9,2,3,cliente equivoco talla,Nofuga
+Surco,Masculino,29,29.9,0,1,cliente equivoco talla,Nofuga
+Los Olivos,Femenino,19,79.9,2,8,cliente equivoco talla,Fuga
+Los Olivos,Femenino,32,39.9,1,8,cliente equivoco talla,Fuga
+Los Olivos,Femenino,25,39.9,0,2,cliente equivoco talla,Nofuga
+Los Olivos,Femenino,24,18.9,1,3,cliente equivoco talla,Nofuga
+Los Olivos,Femenino,22,69.9,1,5,cliente equivoco talla,Fuga
+Los Olivos,Femenino,45,14.9,0,6,cliente equivoco talla,Fuga
+Los Olivos,Femenino,19,59.9,1,6,cliente equivoco talla,Fuga
+Los Olivos,Femenino,37,49.88,1,2,cliente equivoco talla,Nofuga
+Los Olivos,Femenino,37,49.9,2,8,cliente equivoco talla,Fuga
+Los Olivos,Femenino,65,39.9,3,6,cliente equivoco talla,Fuga
+Los Olivos,Femenino,18,99,1,7,cliente equivoco talla,Fuga
+Los Olivos,Femenino,25,39.9,3,6,cliente equivoco talla,Fuga
+Los Olivos,Femenino,37,49.9,1,1,cliente equivoco talla,Nofuga
+Los Olivos,Femenino,18,14.9,3,7,cliente equivoco talla,Fuga
+Los Olivos,Femenino,25,14.9,1,3,cliente equivoco talla,Nofuga
+Los Olivos,Femenino,19,36,0,6,cliente equivoco talla,Fuga
+Los Olivos,Femenino,25,49.9,2,3,cliente equivoco talla,Nofuga
+Los Olivos,Femenino,56,19.9,2,8,cliente equivoco talla,Fuga
+Los Olivos,Femenino,65,14.9,2,1,cliente equivoco talla,Nofuga
+Los Olivos,Femenino,45,49.9,2,1,cliente equivoco talla,Nofuga
+Los Olivos,Femenino,25,89.9,3,1,cliente equivoco talla,Fuga
+Los Olivos,Femenino,18,29.9,1,8,cliente equivoco talla,Fuga
+Los Olivos,Femenino,49,149,3,8,cliente equivoco talla,Fuga
+Los Olivos,Femenino,25,29.93,3,2,cliente equivoco talla,Nofuga
+Los Olivos,Femenino,45,29.9,1,7,cliente equivoco talla,Fuga
+Los Olivos,Femenino,25,39.9,1,1,cliente equivoco talla,Nofuga
+Los Olivos,Femenino,32,49.9,1,4,cliente equivoco talla,Fuga
+Los Olivos,Femenino,25,19.9,0,2,cliente equivoco talla,Nofuga
+Los Olivos,Masculino,49,320,2,6,cliente equivoco talla,Fuga
+Los Olivos,Masculino,37,29.9,1,2,cliente equivoco talla,Nofuga
+Los Olivos,Masculino,29,34.9,1,4,cliente equivoco talla,Fuga
+Los Olivos,Masculino,29,29.93,2,3,cliente equivoco talla,Nofuga
+Los Olivos,Masculino,56,49.9,0,1,cliente equivoco talla,Nofuga
+Los Olivos,Masculino,32,69.9,2,4,cliente equivoco talla,Fuga
+Los Olivos,Masculino,32,39.9,2,3,cliente equivoco talla,Nofuga
+Los Olivos,Masculino,33,39.9,0,4,cliente equivoco talla,Fuga
+Los Olivos,Masculino,37,39.9,1,6,cliente equivoco talla,Fuga
+Los Olivos,Masculino,29,52,2,1,cliente equivoco talla,Nofuga
+Los Olivos,Masculino,31,849,2,4,cliente equivoco talla,Fuga
+Los Olivos,Masculino,37,79,0,6,cliente equivoco talla,Fuga
+Los Olivos,Masculino,33,19.9,1,6,cliente equivoco talla,Fuga
+Los Olivos,Masculino,31,89,1,2,cliente equivoco talla,Fuga
+Los Olivos,Masculino,24,59.92,0,1,cliente equivoco talla,Nofuga
+Los Olivos,Masculino,32,31.9,3,3,cliente equivoco talla,Nofuga
+Los Olivos,Masculino,37,53,1,2,cliente equivoco talla,Nofuga
+Los Olivos,Masculino,24,2.55,1,1,cliente equivoco talla,Nofuga
+Los Olivos,Masculino,25,33.7,1,1,cliente equivoco talla,Nofuga
+Los Olivos,Masculino,19,3.46,0,6,cliente equivoco talla,Fuga
+Los Olivos,Masculino,37,32,4,3,cliente equivoco talla,Nofuga
+Los Olivos,Masculino,29,49.9,1,8,cliente equivoco talla,Fuga
+Los Olivos,Masculino,33,49.9,0,4,cliente equivoco talla,Fuga
+Los Olivos,Masculino,49,35,0,5,cliente equivoco talla,Fuga
+Los Olivos,Masculino,32,399,0,5,cliente equivoco talla,Fuga
+Los Olivos,Masculino,29,199,1,6,cliente equivoco talla,Fuga
+Los Olivos,Masculino,33,23.35,3,7,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,37,3.26,4,5,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,24,12.9,7,5,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,56,29.9,1,2,cliente equivoco talla,Nofuga
+Pueblo Libre,Femenino,24,79,1,4,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,25,14.9,2,5,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,31,39.9,2,8,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,49,37.43,2,1,cliente equivoco talla,Nofuga
+Pueblo Libre,Femenino,19,29.93,2,5,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,22,39.9,2,1,cliente equivoco talla,Nofuga
+Pueblo Libre,Femenino,32,29.93,1,3,cliente equivoco talla,Nofuga
+Pueblo Libre,Femenino,18,29.9,1,2,cliente equivoco talla,Nofuga
+Pueblo Libre,Femenino,37,22.43,0,4,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,22,29.9,0,5,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,19,39.9,1,1,cliente equivoco talla,Nofuga
+Pueblo Libre,Femenino,25,22.43,1,7,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,37,23.7,1,6,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,18,39.9,0,8,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,25,17.17,1,1,cliente equivoco talla,Nofuga
+Pueblo Libre,Femenino,56,32.9,1,7,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,57,19.9,1,2,cliente equivoco talla,Nofuga
+Pueblo Libre,Femenino,18,39.9,1,8,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,19,29.9,0,1,cliente equivoco talla,Nofuga
+Pueblo Libre,Femenino,18,86.9,3,7,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,65,59.9,1,4,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,24,19.9,2,2,cliente equivoco talla,Nofuga
+Pueblo Libre,Femenino,57,49.9,1,7,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,45,14.9,1,5,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,65,39.9,1,8,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,25,39.9,0,2,cliente equivoco talla,Nofuga
+Pueblo Libre,Femenino,25,31.9,1,2,cliente equivoco talla,Nofuga
+Pueblo Libre,Femenino,37,14.5,1,2,cliente equivoco talla,Nofuga
+Pueblo Libre,Femenino,25,329,1,2,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,37,749,0,8,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,56,149,0,3,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,57,99,0,3,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,56,29.9,1,6,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,49,39.9,3,5,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,25,19.9,3,1,cliente equivoco talla,Nofuga
+Pueblo Libre,Femenino,25,11.3,2,4,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,22,39.9,1,3,cliente equivoco talla,Nofuga
+Pueblo Libre,Femenino,18,3.15,1,4,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,57,125,2,2,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,56,44.8,2,1,cliente equivoco talla,Nofuga
+Pueblo Libre,Femenino,65,89.9,1,1,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,25,48,1,8,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,25,129,2,1,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,45,9.5,3,1,cliente equivoco talla,Nofuga
+Pueblo Libre,Femenino,65,37.43,2,1,cliente equivoco talla,Nofuga
+Pueblo Libre,Femenino,18,299,1,8,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,37,14.9,3,4,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,32,2.28,2,7,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,49,8.9,4,7,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,65,59.6,1,2,cliente equivoco talla,Nofuga
+Pueblo Libre,Femenino,18,9,1,8,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,37,11.55,1,6,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,37,13.7,1,4,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,56,8.9,0,5,cliente equivoco talla,Fuga
+Pueblo Libre,Femenino,18,13.55,0,3,cliente equivoco talla,Nofuga
+Pueblo Libre,Femenino,37,19.9,1,2,cliente equivoco talla,Nofuga
+Pueblo Libre,Masculino,49,5.99,2,8,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,25,39.9,3,2,cliente equivoco talla,Nofuga
+Pueblo Libre,Masculino,29,199,0,2,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,25,24,2,7,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,19,39.9,1,3,cliente equivoco talla,Nofuga
+Pueblo Libre,Masculino,32,32,5,2,cliente equivoco talla,Nofuga
+Pueblo Libre,Masculino,29,79.9,1,4,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,31,5.4,1,4,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,29,59.9,0,6,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,33,10.53,0,8,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,33,39.9,1,2,cliente equivoco talla,Nofuga
+Pueblo Libre,Masculino,19,29.9,2,5,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,32,24.9,2,5,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,32,49.9,2,3,cliente equivoco talla,Nofuga
+Pueblo Libre,Masculino,24,19.9,2,6,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,62,22.42,4,3,cliente equivoco talla,Nofuga
+Pueblo Libre,Masculino,33,79.9,3,2,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,49,22.9,2,7,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,33,79,2,4,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,33,19.9,2,6,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,62,39.9,1,1,cliente equivoco talla,Nofuga
+Pueblo Libre,Masculino,29,24.95,3,7,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,37,29.93,3,1,cliente equivoco talla,Nofuga
+Pueblo Libre,Masculino,32,12.9,5,2,cliente equivoco talla,Nofuga
+Pueblo Libre,Masculino,29,39.9,2,8,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,32,99,0,3,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,31,59.92,0,5,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,25,23.92,1,5,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,19,29.93,2,2,cliente equivoco talla,Nofuga
+Pueblo Libre,Masculino,19,29.9,2,3,cliente equivoco talla,Nofuga
+Pueblo Libre,Masculino,19,39.9,0,3,cliente equivoco talla,Nofuga
+Pueblo Libre,Masculino,32,119,1,6,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,29,21.9,2,5,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,49,12.9,1,7,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,19,39.9,0,3,cliente equivoco talla,Nofuga
+Pueblo Libre,Masculino,32,19.9,0,8,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,19,39.9,1,7,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,62,29.9,1,3,cliente equivoco talla,Nofuga
+Pueblo Libre,Masculino,29,39.9,0,3,cliente equivoco talla,Nofuga
+Pueblo Libre,Masculino,31,369,2,7,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,31,99,3,8,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,31,39.9,1,8,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,19,39,1,8,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,32,359,0,6,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,31,19.9,0,4,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,49,39.9,2,6,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,29,109,2,8,cliente equivoco talla,Fuga
+Pueblo Libre,Masculino,29,29.93,3,2,cliente equivoco talla,Nofuga
+Miraflores,Femenino,27,39.9,3,3,defecto de fabrica,Nofuga
+Miraflores,Femenino,52,149,6,6,defecto de fabrica,Fuga
+Miraflores,Femenino,17,19.9,5,8,defecto de fabrica,Fuga
+Miraflores,Femenino,44,32,1,8,defecto de fabrica,Fuga
+Miraflores,Femenino,16,9.9,7,2,defecto de fabrica,Nofuga
+Miraflores,Femenino,52,4.34,1,8,defecto de fabrica,Fuga
+Miraflores,Femenino,14,9.5,0,2,defecto de fabrica,Nofuga
+Miraflores,Femenino,31,279,1,2,defecto de fabrica,Fuga
+Miraflores,Femenino,20,6.88,1,4,defecto de fabrica,Fuga
+Miraflores,Femenino,40,19.9,1,4,defecto de fabrica,Fuga
+Miraflores,Femenino,51,11.6,1,1,defecto de fabrica,Nofuga
+Miraflores,Masculino,29,89.9,1,5,defecto de fabrica,Fuga
+Miraflores,Masculino,19,2.26,1,6,defecto de fabrica,Fuga
+Miraflores,Masculino,19,5.93,3,2,defecto de fabrica,Nofuga
+Miraflores,Masculino,49,49.9,2,5,defecto de fabrica,Fuga
+Miraflores,Masculino,56,14.3,5,5,defecto de fabrica,Fuga
+Miraflores,Masculino,24,39.9,2,7,defecto de fabrica,Fuga
+Miraflores,Masculino,24,22.5,1,4,defecto de fabrica,Fuga
+Surco,Femenino,32,14.9,6,7,defecto de fabrica,Fuga
+Surco,Femenino,37,109,7,6,defecto de fabrica,Fuga
+Surco,Femenino,19,21.99,3,1,defecto de fabrica,Nofuga
+Surco,Femenino,19,359,6,2,defecto de fabrica,Fuga
+Surco,Femenino,18,15,7,1,defecto de fabrica,Nofuga
+Surco,Femenino,19,30.75,0,6,defecto de fabrica,Fuga
+Surco,Femenino,56,49.9,3,7,defecto de fabrica,Fuga
+Surco,Femenino,25,3.98,6,2,defecto de fabrica,Nofuga
+Surco,Masculino,19,29.9,2,2,defecto de fabrica,Nofuga
+Surco,Masculino,31,42.9,2,4,defecto de fabrica,Fuga
+Surco,Masculino,32,6,2,8,defecto de fabrica,Fuga
+Surco,Masculino,56,139,1,8,defecto de fabrica,Fuga
+Surco,Masculino,56,347,1,6,defecto de fabrica,Fuga
+Los Olivos,Femenino,37,84.9,0,6,defecto de fabrica,Fuga
+Los Olivos,Femenino,18,12.8,6,2,defecto de fabrica,Nofuga
+Los Olivos,Femenino,25,280,5,1,defecto de fabrica,Fuga
+Los Olivos,Femenino,56,499,0,4,defecto de fabrica,Fuga
+Los Olivos,Femenino,65,29.9,7,6,defecto de fabrica,Fuga
+Los Olivos,Femenino,45,22.42,0,5,defecto de fabrica,Fuga
+Los Olivos,Masculino,32,12.9,2,5,defecto de fabrica,Fuga
+Los Olivos,Masculino,29,39.9,1,2,defecto de fabrica,Nofuga
+Los Olivos,Masculino,29,29.9,2,3,defecto de fabrica,Nofuga
+Los Olivos,Masculino,62,3.79,2,7,defecto de fabrica,Fuga
+Los Olivos,Masculino,24,19.9,4,3,defecto de fabrica,Nofuga
+Los Olivos,Masculino,19,159,3,5,defecto de fabrica,Fuga
+Pueblo Libre,Femenino,37,14.9,6,7,defecto de fabrica,Fuga
+Pueblo Libre,Femenino,22,12.9,2,4,defecto de fabrica,Fuga
+Pueblo Libre,Femenino,45,59.9,0,1,defecto de fabrica,Nofuga
+Pueblo Libre,Femenino,22,39.9,0,2,defecto de fabrica,Nofuga
+Pueblo Libre,Femenino,57,39.9,1,3,defecto de fabrica,Nofuga
+Pueblo Libre,Femenino,22,29.9,1,1,defecto de fabrica,Nofuga
+Pueblo Libre,Femenino,57,49.9,0,6,defecto de fabrica,Fuga
+Pueblo Libre,Masculino,33,39.9,1,3,defecto de fabrica,Nofuga
+Pueblo Libre,Masculino,49,39.9,2,5,defecto de fabrica,Fuga
+Pueblo Libre,Masculino,19,19.9,3,1,defecto de fabrica,Nofuga
+Pueblo Libre,Masculino,62,39.9,6,3,defecto de fabrica,Nofuga
+Pueblo Libre,Masculino,31,49.9,2,8,defecto de fabrica,Fuga
+Pueblo Libre,Masculino,33,49.9,1,2,defecto de fabrica,Nofuga
+Pueblo Libre,Masculino,37,52.4,1,7,defecto de fabrica,Fuga
+Pueblo Libre,Masculino,29,14.9,4,5,defecto de fabrica,Fuga
+Pueblo Libre,Masculino,37,29.93,1,2,defecto de fabrica,Nofuga
+Pueblo Libre,Masculino,31,79.9,4,8,defecto de fabrica,Fuga
+Miraflores,Femenino,25,18.9,0,3,demora en la entrega,Nofuga
+Miraflores,Femenino,21,31.92,0,2,demora en la entrega,Nofuga
+Miraflores,Femenino,32,19.9,6,7,demora en la entrega,Fuga
+Miraflores,Femenino,27,29.92,0,8,demora en la entrega,Fuga
+Miraflores,Femenino,20,19.9,0,1,demora en la entrega,Nofuga
+Miraflores,Femenino,20,59.9,0,2,demora en la entrega,Nofuga
+Miraflores,Femenino,14,5.9,0,7,demora en la entrega,Fuga
+Miraflores,Femenino,17,29.9,0,1,demora en la entrega,Nofuga
+Miraflores,Femenino,40,6,0,2,demora en la entrega,Nofuga
+Miraflores,Femenino,51,39.9,0,6,demora en la entrega,Fuga
+Miraflores,Femenino,20,29.9,0,8,demora en la entrega,Fuga
+Miraflores,Femenino,40,69.9,1,4,demora en la entrega,Fuga
+Miraflores,Femenino,20,79.9,1,4,demora en la entrega,Fuga
+Miraflores,Masculino,18,29.93,1,6,demora en la entrega,Fuga
+Miraflores,Masculino,37,59.9,0,6,demora en la entrega,Fuga
+Miraflores,Masculino,45,29.9,0,2,demora en la entrega,Nofuga
+Miraflores,Masculino,19,39.9,0,3,demora en la entrega,Nofuga
+Miraflores,Masculino,33,14.9,0,5,demora en la entrega,Fuga
+Miraflores,Masculino,33,39.9,0,7,demora en la entrega,Fuga
+Surco,Femenino,18,24.9,2,2,demora en la entrega,Nofuga
+Surco,Femenino,25,19.9,0,5,demora en la entrega,Fuga
+Surco,Femenino,25,14.9,0,3,demora en la entrega,Nofuga
+Surco,Femenino,25,14.9,0,5,demora en la entrega,Fuga
+Surco,Femenino,22,11.6,0,3,demora en la entrega,Nofuga
+Surco,Femenino,37,1.2,0,8,demora en la entrega,Fuga
+Surco,Femenino,25,29.9,0,7,demora en la entrega,Fuga
+Surco,Masculino,56,29.92,0,8,demora en la entrega,Fuga
+Surco,Masculino,32,49.9,0,7,demora en la entrega,Fuga
+Surco,Masculino,29,39.9,1,2,demora en la entrega,Nofuga
+Surco,Masculino,25,29.9,0,3,demora en la entrega,Nofuga
+Surco,Masculino,62,49.9,0,3,demora en la entrega,Nofuga
+Surco,Masculino,29,14.9,0,5,demora en la entrega,Fuga
+Surco,Masculino,32,79.9,0,3,demora en la entrega,Fuga
+Surco,Masculino,62,29.93,0,1,demora en la entrega,Nofuga
+Surco,Masculino,32,49.9,4,1,demora en la entrega,Nofuga
+Los Olivos,Femenino,37,29.9,6,5,demora en la entrega,Fuga
+Los Olivos,Femenino,22,22.9,0,3,demora en la entrega,Nofuga
+Los Olivos,Femenino,25,19.9,0,4,demora en la entrega,Fuga
+Los Olivos,Femenino,24,29.9,0,7,demora en la entrega,Fuga
+Los Olivos,Masculino,37,19.9,4,1,demora en la entrega,Nofuga
+Los Olivos,Masculino,32,19.9,2,1,demora en la entrega,Nofuga
+Los Olivos,Masculino,29,39.9,0,1,demora en la entrega,Nofuga
+Los Olivos,Masculino,24,29.9,0,5,demora en la entrega,Fuga
+Los Olivos,Masculino,62,539,0,5,demora en la entrega,Fuga
+Los Olivos,Masculino,31,10,0,4,demora en la entrega,Fuga
+Los Olivos,Masculino,24,149,0,6,demora en la entrega,Fuga
+Los Olivos,Masculino,29,109,0,5,demora en la entrega,Fuga
+Los Olivos,Masculino,25,269,0,5,demora en la entrega,Fuga
+Pueblo Libre,Femenino,57,149,6,8,demora en la entrega,Fuga
+Pueblo Libre,Femenino,24,299,0,6,demora en la entrega,Fuga
+Pueblo Libre,Femenino,56,27.93,0,8,demora en la entrega,Fuga
+Pueblo Libre,Femenino,31,79.9,0,7,demora en la entrega,Fuga
+Pueblo Libre,Femenino,31,20.93,0,7,demora en la entrega,Fuga
+Pueblo Libre,Femenino,19,39.9,0,6,demora en la entrega,Fuga
+Pueblo Libre,Femenino,25,59.9,0,7,demora en la entrega,Fuga
+Pueblo Libre,Femenino,37,59.92,0,2,demora en la entrega,Nofuga
+Pueblo Libre,Femenino,56,39.9,0,8,demora en la entrega,Fuga
+Pueblo Libre,Femenino,25,29.9,0,8,demora en la entrega,Fuga
+Pueblo Libre,Femenino,45,19.9,0,8,demora en la entrega,Fuga
+Pueblo Libre,Femenino,37,35,0,4,demora en la entrega,Fuga
+Pueblo Libre,Femenino,19,3.5,3,1,demora en la entrega,Nofuga
+Pueblo Libre,Femenino,57,29.9,0,7,demora en la entrega,Fuga
+Pueblo Libre,Femenino,56,89.9,0,2,demora en la entrega,Fuga
+Pueblo Libre,Masculino,32,19.9,2,8,demora en la entrega,Fuga
+Pueblo Libre,Masculino,56,39.9,0,8,demora en la entrega,Fuga
+Pueblo Libre,Masculino,29,59,0,3,demora en la entrega,Nofuga
+Pueblo Libre,Masculino,24,24.9,0,6,demora en la entrega,Fuga
+Pueblo Libre,Masculino,49,27.93,0,1,demora en la entrega,Nofuga
+Pueblo Libre,Masculino,19,29.9,0,3,demora en la entrega,Nofuga
+Pueblo Libre,Masculino,32,24.9,0,6,demora en la entrega,Fuga
+Pueblo Libre,Masculino,49,29.93,0,4,demora en la entrega,Fuga
+Pueblo Libre,Masculino,33,149,0,1,demora en la entrega,Fuga
+Pueblo Libre,Masculino,33,6.99,0,3,demora en la entrega,Nofuga
+Pueblo Libre,Masculino,19,49,0,7,demora en la entrega,Fuga
+Miraflores,Femenino,51,10.5,0,1,error de cajero,Nofuga
+Miraflores,Masculino,32,109,0,1,error de cajero,Fuga
+Miraflores,Masculino,29,39.9,0,1,error de cajero,Nofuga
+Miraflores,Masculino,19,24.9,0,4,error de cajero,Fuga
+Surco,Femenino,24,229,0,3,error de cajero,Fuga
+Los Olivos,Femenino,37,3.21,0,3,error de cajero,Nofuga
+Los Olivos,Masculino,49,4.4,0,6,error de cajero,Fuga
+Los Olivos,Masculino,31,9.9,0,8,error de cajero,Fuga
+Pueblo Libre,Masculino,33,22.43,0,5,error de cajero,Fuga
+Pueblo Libre,Femenino,22,77,3,3,error de centro de distribución,Fuga
+Pueblo Libre,Masculino,56,9.5,4,1,error de centro de distribución,Nofuga
+Surco,Femenino,25,4.7,1,4,error de vendedor,Fuga
+Miraflores,Femenino,20,1.55,2,1,"mecaderia OK, cliente insatisfecho",Nofuga
+Miraflores,Femenino,18,5.5,0,8,"mecaderia OK, cliente insatisfecho",Fuga
+Miraflores,Femenino,19,109,3,7,"mecaderia OK, cliente insatisfecho",Fuga
+Miraflores,Femenino,32,147,3,4,"mecaderia OK, cliente insatisfecho",Fuga
+Miraflores,Femenino,32,44.9,1,8,"mecaderia OK, cliente insatisfecho",Fuga
+Miraflores,Femenino,20,139,1,4,"mecaderia OK, cliente insatisfecho",Fuga
+Miraflores,Femenino,20,11.8,1,6,"mecaderia OK, cliente insatisfecho",Fuga
+Miraflores,Masculino,32,8.15,0,6,"mecaderia OK, cliente insatisfecho",Fuga
+Miraflores,Masculino,19,14.9,2,1,"mecaderia OK, cliente insatisfecho",Nofuga
+Miraflores,Masculino,31,29.9,0,3,"mecaderia OK, cliente insatisfecho",Nofuga
+Miraflores,Masculino,35,39.9,3,3,"mecaderia OK, cliente insatisfecho",Nofuga
+Miraflores,Masculino,42,11.6,0,7,"mecaderia OK, cliente insatisfecho",Fuga
+Miraflores,Masculino,31,23.92,4,3,"mecaderia OK, cliente insatisfecho",Nofuga
+Miraflores,Masculino,31,9.5,1,4,"mecaderia OK, cliente insatisfecho",Fuga
+Miraflores,Masculino,29,29.9,2,7,"mecaderia OK, cliente insatisfecho",Fuga
+Miraflores,Masculino,29,144.9,1,5,"mecaderia OK, cliente insatisfecho",Fuga
+Miraflores,Masculino,31,3.9,0,7,"mecaderia OK, cliente insatisfecho",Fuga
+Surco,Femenino,22,14.95,0,7,"mecaderia OK, cliente insatisfecho",Fuga
+Surco,Femenino,57,38.9,1,2,"mecaderia OK, cliente insatisfecho",Nofuga
+Surco,Femenino,25,190,3,1,"mecaderia OK, cliente insatisfecho",Fuga
+Surco,Femenino,25,339,0,3,"mecaderia OK, cliente insatisfecho",Fuga
+Surco,Femenino,25,149,0,4,"mecaderia OK, cliente insatisfecho",Fuga
+Surco,Femenino,25,175,4,8,"mecaderia OK, cliente insatisfecho",Fuga
+Surco,Femenino,25,42.4,2,4,"mecaderia OK, cliente insatisfecho",Fuga
+Surco,Femenino,25,49.9,0,7,"mecaderia OK, cliente insatisfecho",Fuga
+Surco,Masculino,24,199,0,1,"mecaderia OK, cliente insatisfecho",Fuga
+Surco,Masculino,25,39.9,3,4,"mecaderia OK, cliente insatisfecho",Fuga
+Surco,Masculino,31,33.68,0,5,"mecaderia OK, cliente insatisfecho",Fuga
+Surco,Masculino,33,10.4,2,7,"mecaderia OK, cliente insatisfecho",Fuga
+Surco,Masculino,49,2.8,1,8,"mecaderia OK, cliente insatisfecho",Fuga
+Surco,Masculino,24,29.9,1,5,"mecaderia OK, cliente insatisfecho",Fuga
+Surco,Masculino,31,29.9,1,4,"mecaderia OK, cliente insatisfecho",Fuga
+Surco,Masculino,19,94.9,1,4,"mecaderia OK, cliente insatisfecho",Fuga
+Los Olivos,Femenino,57,39,0,2,"mecaderia OK, cliente insatisfecho",Nofuga
+Los Olivos,Femenino,22,99,1,1,"mecaderia OK, cliente insatisfecho",Fuga
+Los Olivos,Femenino,56,49.9,1,2,"mecaderia OK, cliente insatisfecho",Nofuga
+Los Olivos,Femenino,18,49.9,1,3,"mecaderia OK, cliente insatisfecho",Nofuga
+Los Olivos,Femenino,56,59.9,1,7,"mecaderia OK, cliente insatisfecho",Fuga
+Los Olivos,Femenino,56,69.9,2,7,"mecaderia OK, cliente insatisfecho",Fuga
+Los Olivos,Femenino,25,14.9,0,2,"mecaderia OK, cliente insatisfecho",Nofuga
+Los Olivos,Femenino,25,34.9,1,2,"mecaderia OK, cliente insatisfecho",Nofuga
+Los Olivos,Femenino,37,39.9,0,8,"mecaderia OK, cliente insatisfecho",Fuga
+Los Olivos,Masculino,31,119,1,5,"mecaderia OK, cliente insatisfecho",Fuga
+Los Olivos,Masculino,29,39.9,4,4,"mecaderia OK, cliente insatisfecho",Fuga
+Los Olivos,Masculino,24,29.9,1,3,"mecaderia OK, cliente insatisfecho",Nofuga
+Los Olivos,Masculino,29,29.93,3,8,"mecaderia OK, cliente insatisfecho",Fuga
+Los Olivos,Masculino,49,29.93,1,1,"mecaderia OK, cliente insatisfecho",Nofuga
+Los Olivos,Masculino,29,17.5,1,1,"mecaderia OK, cliente insatisfecho",Nofuga
+Pueblo Libre,Femenino,25,79.9,2,7,"mecaderia OK, cliente insatisfecho",Fuga
+Pueblo Libre,Femenino,25,49.9,2,4,"mecaderia OK, cliente insatisfecho",Fuga
+Pueblo Libre,Femenino,19,29.93,2,1,"mecaderia OK, cliente insatisfecho",Nofuga
+Pueblo Libre,Femenino,56,37.43,0,1,"mecaderia OK, cliente insatisfecho",Nofuga
+Pueblo Libre,Femenino,25,29.9,2,3,"mecaderia OK, cliente insatisfecho",Nofuga
+Pueblo Libre,Femenino,45,79,2,6,"mecaderia OK, cliente insatisfecho",Fuga
+Pueblo Libre,Femenino,65,37.43,1,4,"mecaderia OK, cliente insatisfecho",Fuga
+Pueblo Libre,Femenino,45,39.9,1,1,"mecaderia OK, cliente insatisfecho",Nofuga
+Pueblo Libre,Femenino,25,29.9,2,2,"mecaderia OK, cliente insatisfecho",Nofuga
+Pueblo Libre,Femenino,24,39.9,1,7,"mecaderia OK, cliente insatisfecho",Fuga
+Pueblo Libre,Femenino,18,69.9,3,6,"mecaderia OK, cliente insatisfecho",Fuga
+Pueblo Libre,Femenino,18,39.9,0,4,"mecaderia OK, cliente insatisfecho",Fuga
+Pueblo Libre,Femenino,19,39.9,2,3,"mecaderia OK, cliente insatisfecho",Nofuga
+Pueblo Libre,Masculino,32,69.9,2,8,"mecaderia OK, cliente insatisfecho",Fuga
+Pueblo Libre,Masculino,62,29.9,1,8,"mecaderia OK, cliente insatisfecho",Fuga
+Pueblo Libre,Masculino,25,19.9,0,7,"mecaderia OK, cliente insatisfecho",Fuga
+Pueblo Libre,Masculino,49,59,1,4,"mecaderia OK, cliente insatisfecho",Fuga
+Pueblo Libre,Masculino,19,55.93,3,6,"mecaderia OK, cliente insatisfecho",Fuga
+Pueblo Libre,Masculino,31,26.18,3,7,"mecaderia OK, cliente insatisfecho",Fuga
+Pueblo Libre,Masculino,31,14.9,1,4,"mecaderia OK, cliente insatisfecho",Fuga
+Pueblo Libre,Masculino,19,19.9,2,4,"mecaderia OK, cliente insatisfecho",Fuga
+Pueblo Libre,Masculino,32,44.9,3,4,"mecaderia OK, cliente insatisfecho",Fuga
+Pueblo Libre,Masculino,49,37.4,2,8,"mecaderia OK, cliente insatisfecho",Fuga
+Pueblo Libre,Masculino,49,79.9,1,8,"mecaderia OK, cliente insatisfecho",Fuga
+Pueblo Libre,Masculino,62,29.9,1,7,"mecaderia OK, cliente insatisfecho",Fuga
+Pueblo Libre,Masculino,32,19.9,1,5,"mecaderia OK, cliente insatisfecho",Fuga
+Pueblo Libre,Masculino,49,39.9,0,8,"mecaderia OK, cliente insatisfecho",Fuga
+Pueblo Libre,Masculino,31,79.9,0,8,"mecaderia OK, cliente insatisfecho",Fuga
+Pueblo Libre,Masculino,19,39.9,0,8,"mecaderia OK, cliente insatisfecho",Fuga
+Surco,Femenino,65,29.9,0,1,no se aplico descuento,Nofuga
+Surco,Masculino,24,12.9,0,7,no se aplico rebaja,Fuga
+Miraflores,Femenino,52,29.9,0,6,otros,Fuga
+Miraflores,Femenino,20,49.87,1,3,otros,Nofuga
+Miraflores,Femenino,27,39.9,2,8,otros,Fuga
+Miraflores,Femenino,20,39.9,3,1,otros,Nofuga
+Miraflores,Femenino,20,49.9,4,2,otros,Nofuga
+Miraflores,Femenino,26,32,5,5,otros,Fuga
+Miraflores,Femenino,60,39.9,2,5,otros,Fuga
+Miraflores,Femenino,40,499,1,8,otros,Fuga
+Miraflores,Femenino,20,9.9,1,7,otros,Fuga
+Miraflores,Masculino,31,41.9,4,3,otros,Nofuga
+Miraflores,Masculino,31,109.9,1,4,otros,Fuga
+Miraflores,Masculino,32,99,2,8,otros,Fuga
+Miraflores,Masculino,33,129,3,1,otros,Fuga
+Miraflores,Masculino,49,99,1,4,otros,Fuga
+Surco,Femenino,25,19.9,0,5,otros,Fuga
+Surco,Femenino,56,29.9,0,4,otros,Fuga
+Surco,Femenino,57,49.9,1,4,otros,Fuga
+Surco,Femenino,25,19.9,0,4,otros,Fuga
+Surco,Masculino,29,32,3,6,otros,Fuga
+Surco,Masculino,19,39.9,3,1,otros,Nofuga
+Surco,Masculino,32,59.9,0,6,otros,Fuga
+Surco,Masculino,19,39.9,1,4,otros,Fuga
+Surco,Masculino,29,49.9,0,8,otros,Fuga
+Surco,Masculino,19,149,0,7,otros,Fuga
+Surco,Masculino,37,29.8,3,2,otros,Nofuga
+Los Olivos,Femenino,37,1.6,1,5,otros,Fuga
+Los Olivos,Femenino,25,29.9,1,8,otros,Fuga
+Los Olivos,Femenino,49,54.9,0,5,otros,Fuga
+Los Olivos,Femenino,25,199,1,8,otros,Fuga
+Los Olivos,Femenino,25,4.8,0,7,otros,Fuga
+Los Olivos,Masculino,19,29.9,1,4,otros,Fuga
+Los Olivos,Masculino,37,279,0,5,otros,Fuga
+Pueblo Libre,Femenino,25,49.9,1,7,otros,Fuga
+Pueblo Libre,Femenino,25,19.9,3,3,otros,Nofuga
+Pueblo Libre,Femenino,25,39.9,0,4,otros,Fuga
+Pueblo Libre,Femenino,22,39.9,0,5,otros,Fuga
+Pueblo Libre,Femenino,57,339,2,2,otros,Fuga
+Pueblo Libre,Femenino,25,31.9,0,6,otros,Fuga
+Pueblo Libre,Femenino,25,85,0,2,otros,Fuga
+Pueblo Libre,Femenino,56,59.9,0,6,otros,Fuga
+Pueblo Libre,Femenino,32,9.9,0,7,otros,Fuga
+Pueblo Libre,Femenino,19,39.9,3,4,otros,Fuga
+Pueblo Libre,Femenino,18,10.5,6,5,otros,Fuga
+Pueblo Libre,Masculino,31,12.4,3,8,otros,Fuga
+Pueblo Libre,Masculino,32,8.9,0,3,otros,Nofuga
+Pueblo Libre,Masculino,31,49,3,6,otros,Fuga
+Pueblo Libre,Masculino,62,24.9,2,1,otros,Nofuga
