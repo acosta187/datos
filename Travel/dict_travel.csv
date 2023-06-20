@@ -1,10 +1,10 @@
-vars,type
-Age,num
-Employment Type,char
-GraduateOrNot,bin
-AnnualIncome,num
-FamilyMembers,num
-ChronicDiseases,bin
-FrequentFlyer,bin
-EverTravelledAbroad,bin
-TravelInsurance,target
+vars,type,Description
+Age,num,Edad del cliente 
+Employment Type,char,Edad del cliente 
+GraduateOrNot,bin,Si el cliente es graduado universitario o no 
+AnnualIncome,num,El ingreso anual del cliente en rupias indias [redondeado a las 50 mil rupias más cercanas] 
+FamilyMembers,num,Número de miembros en la familia del cliente
+ChronicDiseases,bin,"Si el cliente sufre de alguna enfermedad importante o condiciones como diabetes, presión arterial alta o asma, etc."
+FrequentFlyer,bin,Datos derivados del historial de reserva de boletos aéreos del cliente en al menos 4 instancias diferentes en los últimos 2 años [2017-2019]
+EverTravelledAbroad,bin,¿Ha viajado alguna vez el cliente a un país extranjero [sin usar necesariamente los servicios de la empresa]?
+TravelInsurance,target,¿compró el cliente un paquete de seguro de viaje durante la oferta introductoria? 1=Sí y 0=No
