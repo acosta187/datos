@@ -1,0 +1,10 @@
+﻿Variables,type
+Education,char
+JoiningYear,num
+City,char
+PaymentTier,num
+Age,num
+Gender,bin
+EverBenched,bin
+ExperienceInCurrentDomain,num
+LeaveOrNot,target
