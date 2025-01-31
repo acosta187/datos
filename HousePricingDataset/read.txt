@@ -1,0 +1,47 @@
+House Prices Dataset
+Subtitle:
+Detailed Real Estate Data for Predicting House Prices and Analyzing Market Trends
+
+Description:
+This dataset contains information on 21,613 properties, making it a comprehensive resource for exploring real estate market trends and building predictive models for house prices. The data includes various features capturing property details, location, and market conditions, providing ample opportunities for data exploration, visualization, and machine learning applications.
+
+Key Features:
+Fuente: https://www.kaggle.com/datasets/alyelbadry/house-pricing-dataset
+
+General Information:
+
+id: Unique identifier for each property.
+date: Date of sale.
+Price Details:
+
+price: Sale price of the house.
+Property Features:
+
+bedrooms: Number of bedrooms.
+bathrooms: Number of bathrooms (including partials as fractions).
+sqft_living: Living space area in square feet.
+sqft_lot: Lot size in square feet.
+floors: Number of floors.
+waterfront: Whether the property has a waterfront view.
+view: Quality of the view rating.
+condition: Overall condition of the house.
+grade: Grade of construction and design (scale of 1–13).
+Additional Metrics:
+
+sqft_above: Square footage of the property above ground.
+sqft_basement: Basement area in square feet.
+yr_built: Year the property was built.
+yr_renovated: Year of last renovation.
+Location Coordinates:
+
+zipcode: ZIP code of the property.
+lat and long: Latitude and longitude coordinates.
+Neighbor Comparisons:
+
+sqft_living15: Average living space of 15 nearest properties.
+sqft_lot15: Average lot size of 15 nearest properties.
+Use Cases:
+Predicting house prices using regression models.
+Identifying the impact of various features (e.g., number of bedrooms, location) on property prices.
+Analyzing market trends and spatial distribution of real estate prices.
+This dataset is a valuable resource for anyone interested in real estate analytics, machine learning, or geographic data visualization.
