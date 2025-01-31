@@ -1,0 +1,12 @@
+fuente: https://www.kaggle.com/datasets/ankushpanday1/brain-tumor-prediction-dataset
+
+About Dataset
+This Brain Tumor Prediction Dataset contains 250,000 patient records with 22 important medical features. The data includes MRI scan results, tumor size, genetic risks, symptoms, lifestyle habits, and treatment details. It is designed for predictive modeling, data analysis, and AI applications in healthcare.
+
+Why Use This Dataset?
+
+Large-scale realistic medical data (250K rows)
+Includes tumor location, growth rate, and survival rate
+Useful for machine learning, deep learning, and medical research
+Perfect for classification and survival analysis
+Supports global health insights (data from multiple countries)
