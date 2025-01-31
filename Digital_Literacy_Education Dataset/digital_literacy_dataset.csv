@@ -1,0 +1,1001 @@
+User_ID,Age,Gender,Education_Level,Employment_Status,Household_Income,Location_Type,Basic_Computer_Knowledge_Score,Internet_Usage_Score,Mobile_Literacy_Score,Post_Training_Basic_Computer_Knowledge_Score,Post_Training_Internet_Usage_Score,Post_Training_Mobile_Literacy_Score,Modules_Completed,Average_Time_Per_Module,Quiz_Performance,Session_Count,Engagement_Level,Adaptability_Score,Feedback_Rating,Skill_Application,Employment_Impact,Overall_Literacy_Score
+U0001,43,Male,Primary,Student,Medium,Semi-Rural,25,1,33,54,50,72,7,15.85,92,12,Low,77,4,51,Yes,58.2
+U0002,60,Female,High School,Farmer,Low,Rural,22,14,35,52,39,76,9,22.24,88,24,Low,76,4,98,Yes,55.3
+U0003,47,Female,Primary,Farmer,Low,Semi-Rural,14,31,14,46,52,61,13,12.15,67,17,Low,67,5,75,Yes,52.3
+U0004,34,Female,Secondary,Farmer,Low,Rural,6,32,17,36,73,64,8,25.59,69,28,Medium,59,1,61,Yes,55.5
+U0005,50,Male,High School,Other,Medium,Rural,14,41,19,44,87,52,8,16.65,76,10,Medium,90,4,82,No,59.3
+U0006,57,Female,High School,Self-Employed,Low,Rural,15,3,46,42,29,73,12,29.85,66,25,Low,87,2,75,No,47.4
+U0007,46,Other,Secondary,Unemployed,Low,Semi-Rural,35,34,49,81,59,94,6,24.54,61,23,Medium,79,3,93,No,78.3
+U0008,36,Male,High School,Unemployed,Low,Rural,19,48,46,39,70,76,10,24.12,86,22,Low,81,5,70,Yes,59.4
+U0009,64,Male,High School,Other,Low,Rural,33,10,37,69,38,81,7,15.68,65,24,Medium,78,2,75,No,63.3
+U0010,61,Female,High School,Self-Employed,Medium,Rural,50,18,20,86,42,44,14,12.19,80,17,Low,64,3,95,Yes,60.2
+U0011,28,Male,None,Other,Low,Rural,40,19,50,79,40,82,14,20.05,89,16,Low,100,2,55,No,68.2
+U0012,31,Female,Secondary,Self-Employed,Low,Semi-Rural,9,50,45,53,92,77,5,10.95,80,13,Medium,98,4,87,No,71.9
+U0013,24,Female,Primary,Student,Low,Rural,10,42,41,60,66,66,9,27.36,88,21,Medium,67,3,72,No,63.6
+U0014,52,Male,None,Unemployed,Medium,Rural,47,29,24,85,49,54,12,16.96,61,25,Medium,67,5,64,No,64.9
+U0015,49,Female,High School,Self-Employed,Low,Rural,0,35,1,30,77,23,14,10.61,72,29,Medium,90,2,66,Yes,42.0
+U0016,20,Male,Secondary,Unemployed,Low,Semi-Rural,26,22,2,65,57,28,13,14.26,87,25,Medium,56,1,72,No,51.5
+U0017,64,Male,Secondary,Self-Employed,Low,Semi-Rural,37,25,50,84,73,86,8,29.72,65,23,Low,65,2,57,No,81.3
+U0018,39,Female,Secondary,Other,Low,Semi-Rural,16,35,6,37,78,32,15,28.61,91,21,Medium,81,3,61,Yes,47.8
+U0019,51,Male,Primary,Unemployed,Low,Semi-Rural,38,17,37,88,60,82,13,29.88,96,26,Medium,95,4,99,No,77.8
+U0020,26,Female,High School,Farmer,Medium,Rural,44,11,21,76,36,49,7,27.1,100,10,Medium,100,2,68,No,55.9
+U0021,60,Male,None,Self-Employed,Low,Rural,22,32,35,56,62,82,7,17.09,75,19,Medium,98,5,56,Yes,65.6
+U0022,39,Female,Primary,Farmer,High,Rural,50,15,39,96,64,81,15,27.69,77,18,Low,99,3,93,No,81.9
+U0023,31,Female,High School,Self-Employed,Low,Semi-Rural,9,5,33,43,37,55,13,28.04,87,21,Medium,65,1,68,Yes,44.8
+U0024,48,Female,Secondary,Other,Medium,Rural,10,9,35,47,41,82,15,28.45,62,10,Low,69,2,78,No,55.7
+U0025,58,Female,Secondary,Unemployed,Low,Semi-Rural,13,29,6,43,50,29,9,11.26,81,25,Low,57,5,70,No,40.9
+U0026,53,Male,Primary,Other,Medium,Rural,48,17,4,86,50,47,11,25.24,60,17,Medium,78,3,99,No,63.5
+U0027,57,Female,Primary,Farmer,Low,Semi-Rural,39,42,40,81,70,72,11,12.41,60,10,Medium,98,5,52,No,75.0
+U0028,57,Female,Secondary,Unemployed,Low,Rural,1,7,5,35,32,47,8,21.11,97,30,High,63,3,97,No,37.7
+U0029,54,Male,High School,Unemployed,Medium,Semi-Rural,35,46,34,60,76,84,14,24.62,91,29,Low,75,1,100,Yes,72.0
+U0030,34,Female,Secondary,Farmer,Low,Semi-Rural,12,33,24,59,66,57,5,20.23,100,14,Low,99,1,61,No,60.5
+U0031,31,Other,High School,Student,Low,Semi-Rural,50,11,31,71,37,77,11,28.9,78,15,Low,72,4,63,No,62.6
+U0032,58,Female,Secondary,Self-Employed,Medium,Semi-Rural,18,40,50,61,81,89,6,23.84,73,14,Low,63,1,51,No,75.4
+U0033,35,Male,None,Self-Employed,Low,Rural,12,20,41,37,46,78,9,17.61,69,27,Low,66,5,74,Yes,52.0
+U0034,46,Male,Secondary,Self-Employed,Low,Rural,21,14,32,52,58,72,6,17.18,72,11,Medium,87,1,60,No,59.8
+U0035,55,Female,None,Self-Employed,Medium,Rural,50,12,1,80,37,45,11,15.7,78,23,Low,90,4,73,Yes,56.6
+U0036,27,Female,High School,Unemployed,Medium,Rural,24,25,0,45,47,20,15,20.8,87,14,High,64,2,65,No,38.1
+U0037,39,Female,Secondary,Self-Employed,Medium,Semi-Rural,14,13,9,60,50,50,10,22.38,93,18,Medium,61,4,52,No,54.0
+U0038,40,Male,Secondary,Unemployed,Low,Semi-Rural,29,14,11,62,58,35,6,10.9,88,11,Medium,76,2,100,Yes,52.7
+U0039,37,Male,Primary,Other,Low,Rural,37,28,39,77,65,63,8,21.88,68,26,High,91,2,92,Yes,69.2
+U0040,51,Male,None,Farmer,Low,Rural,44,41,34,73,63,72,13,14.97,93,26,Medium,73,1,96,No,69.7
+U0041,46,Female,High School,Other,Low,Rural,25,7,21,54,40,49,12,17.09,81,11,Low,97,3,53,No,48.3
+U0042,45,Male,None,Student,Low,Rural,33,32,25,58,57,46,15,19.51,84,18,Medium,78,3,58,Yes,54.1
+U0043,41,Male,Secondary,Self-Employed,Medium,Rural,31,15,17,76,62,57,6,28.06,98,27,Low,96,3,65,Yes,66.1
+U0044,56,Male,None,Unemployed,Medium,Rural,26,7,35,71,45,66,10,15.84,80,25,High,90,5,58,Yes,61.7
+U0045,51,Male,None,Other,Low,Rural,4,49,19,34,78,64,5,25.77,100,21,High,61,2,60,Yes,56.2
+U0046,36,Female,None,Self-Employed,Low,Semi-Rural,37,21,35,87,69,75,14,26.16,96,21,Medium,68,1,78,Yes,78.0
+U0047,22,Other,None,Self-Employed,High,Semi-Rural,18,42,2,40,70,45,7,24.93,87,12,Low,85,4,55,No,50.5
+U0048,26,Female,High School,Self-Employed,Low,Rural,50,30,29,72,61,74,5,13.32,74,11,Low,78,2,100,No,69.3
+U0049,35,Male,Primary,Self-Employed,Low,Rural,37,36,43,76,65,81,12,17.1,92,12,Low,67,3,91,No,74.2
+U0050,60,Male,Secondary,Farmer,Low,Semi-Rural,6,14,9,52,56,29,14,14.33,71,20,Medium,66,2,60,Yes,46.3
+U0051,24,Female,Secondary,Unemployed,Medium,Rural,44,12,34,79,36,72,9,25.85,87,21,Medium,89,2,54,Yes,64.0
+U0052,64,Male,Primary,Self-Employed,Low,Rural,31,31,50,55,71,72,9,18.1,61,14,Medium,95,5,78,No,64.9
+U0053,64,Female,High School,Farmer,Low,Rural,46,50,33,87,91,82,9,13.63,97,10,Medium,77,2,53,No,86.7
+U0054,34,Male,Primary,Self-Employed,Low,Semi-Rural,24,16,5,66,39,46,11,27.6,96,11,Medium,87,4,94,No,51.9
+U0055,54,Male,Primary,Other,Low,Semi-Rural,37,0,0,67,40,47,10,13.21,65,24,Medium,83,4,51,Yes,52.9
+U0056,54,Male,Secondary,Other,Low,Semi-Rural,38,31,42,87,58,91,13,15.26,92,11,Medium,68,3,56,Yes,79.5
+U0057,30,Male,None,Unemployed,Medium,Rural,14,39,8,39,66,51,15,23.64,60,26,Low,76,3,84,Yes,50.7
+U0058,44,Female,None,Farmer,Medium,Rural,43,2,10,91,28,32,14,18.91,96,17,Medium,74,2,69,Yes,54.4
+U0059,38,Male,High School,Self-Employed,High,Rural,45,32,49,86,61,95,9,21.96,65,21,Low,90,3,65,No,81.2
+U0060,30,Female,Primary,Other,Low,Rural,48,17,32,80,60,54,7,21.77,71,11,High,54,1,90,Yes,66.2
+U0061,35,Female,Secondary,Self-Employed,Low,Semi-Rural,23,2,39,69,24,78,10,29.12,87,26,Medium,72,5,93,No,58.2
+U0062,28,Female,Primary,Farmer,Low,Rural,25,8,2,60,32,48,11,14.78,60,22,Low,71,5,96,No,48.0
+U0063,43,Female,Secondary,Farmer,Medium,Semi-Rural,48,14,41,74,40,82,14,27.35,95,24,Medium,68,5,74,No,66.2
+U0064,37,Male,Secondary,Unemployed,Low,Semi-Rural,31,30,22,65,60,64,15,18.74,60,23,High,65,3,83,No,63.2
+U0065,43,Female,Secondary,Unemployed,Low,Rural,24,31,19,62,68,45,6,12.47,87,27,Low,60,4,94,No,58.7
+U0066,36,Female,Secondary,Self-Employed,Low,Rural,27,34,4,57,62,30,12,15.01,86,26,Medium,91,5,52,Yes,50.4
+U0067,64,Male,None,Unemployed,Low,Rural,21,42,31,51,78,55,9,20.67,87,30,High,92,3,50,Yes,60.3
+U0068,54,Male,None,Student,Medium,Semi-Rural,46,41,4,82,65,24,15,19.99,62,14,High,89,3,89,No,59.5
+U0069,33,Male,Secondary,Student,Low,Semi-Rural,38,33,45,66,68,77,10,21.11,72,15,Low,90,5,60,Yes,69.9
+U0070,27,Female,High School,Self-Employed,Low,Semi-Rural,46,4,38,87,29,67,8,29.95,69,25,Low,71,4,67,No,63.6
+U0071,58,Other,Secondary,Self-Employed,Medium,Rural,23,40,1,72,71,38,10,29.17,64,15,Medium,70,5,66,Yes,61.5
+U0072,60,Female,None,Student,Medium,Semi-Rural,11,30,45,53,54,86,5,10.5,81,12,Medium,72,1,52,No,63.2
+U0073,35,Female,None,Farmer,Low,Semi-Rural,27,35,3,77,57,46,15,12.48,78,21,Low,71,2,74,Yes,61.7
+U0074,52,Male,None,Farmer,Medium,Rural,49,23,14,96,52,61,9,23.77,91,12,Low,51,1,78,No,72.3
+U0075,64,Male,Primary,Self-Employed,High,Rural,41,29,26,65,71,60,13,18.07,88,23,Medium,59,5,97,No,65.3
+U0076,21,Female,Primary,Student,Medium,Rural,22,50,46,60,100,69,15,22.82,88,16,Medium,95,3,85,No,74.7
+U0077,41,Male,None,Unemployed,Low,Rural,28,13,10,53,61,47,7,11.54,91,28,Medium,64,5,78,No,53.6
+U0078,37,Male,Secondary,Unemployed,High,Rural,38,7,8,62,43,38,6,19.69,100,11,Medium,60,3,96,No,49.1
+U0079,51,Other,High School,Farmer,Medium,Rural,7,27,44,52,54,86,10,11.59,99,23,Medium,80,3,71,Yes,62.8
+U0080,52,Female,High School,Student,Low,Semi-Rural,30,26,14,54,59,58,8,20.33,90,14,Medium,63,4,71,No,56.7
+U0081,63,Female,Secondary,Student,Medium,Rural,37,48,49,62,73,81,6,28.17,70,16,Medium,91,2,91,No,71.0
+U0082,43,Female,High School,Student,Low,Semi-Rural,44,38,15,80,71,43,6,12.31,77,23,Medium,89,4,95,No,66.2
+U0083,39,Female,Secondary,Unemployed,High,Rural,49,16,49,95,63,87,5,18.31,91,27,Medium,58,4,77,Yes,83.0
+U0084,33,Other,Primary,Student,Medium,Semi-Rural,29,8,19,65,29,51,13,15.45,100,29,Medium,72,4,69,No,50.0
+U0085,35,Male,Secondary,Self-Employed,High,Rural,31,27,22,51,71,42,7,17.61,90,30,High,80,1,64,No,54.3
+U0086,29,Male,High School,Unemployed,Low,Rural,42,27,9,68,73,59,11,12.95,83,26,Medium,78,5,95,No,66.8
+U0087,53,Male,None,Other,Medium,Semi-Rural,29,23,17,58,62,59,5,17.98,71,25,Medium,59,1,83,No,59.5
+U0088,55,Female,None,Self-Employed,Low,Rural,1,10,38,43,52,68,14,11.55,74,19,Medium,80,2,98,Yes,53.2
+U0089,49,Female,Secondary,Other,Medium,Rural,31,30,3,63,75,36,8,22.91,72,10,Low,68,2,69,No,58.5
+U0090,45,Male,Primary,Unemployed,Medium,Rural,18,39,24,42,85,63,7,24.62,84,24,Medium,89,2,68,No,61.2
+U0091,20,Female,Primary,Self-Employed,Low,Rural,47,14,21,89,39,48,10,11.08,95,13,Low,50,2,61,Yes,61.7
+U0092,42,Male,Primary,Unemployed,Low,Rural,37,47,9,69,89,48,8,21.9,100,27,High,50,2,97,Yes,68.7
+U0093,46,Female,None,Self-Employed,Low,Rural,4,30,37,45,54,60,6,10.14,96,24,Low,63,1,73,Yes,52.2
+U0094,19,Male,Primary,Other,High,Rural,0,46,39,47,95,83,8,18.23,83,19,Medium,79,2,99,Yes,72.2
+U0095,22,Other,Primary,Unemployed,Medium,Rural,19,49,26,45,91,50,6,15.16,78,17,Low,69,5,96,No,60.3
+U0096,24,Male,High School,Farmer,Low,Rural,47,0,43,73,30,90,15,16.3,75,27,High,54,1,92,No,65.2
+U0097,38,Female,Secondary,Student,Low,Rural,22,47,2,60,93,27,15,11.3,99,30,Low,99,1,100,No,60.0
+U0098,20,Male,High School,Student,Medium,Semi-Rural,41,15,0,75,51,32,8,10.81,76,30,High,87,1,54,Yes,54.9
+U0099,52,Female,Secondary,Farmer,Low,Semi-Rural,12,3,39,37,48,76,11,27.05,63,12,Medium,59,4,66,Yes,52.0
+U0100,38,Female,Secondary,Other,High,Rural,21,3,11,59,44,57,8,25.24,79,27,Medium,74,2,97,No,53.9
+U0101,29,Female,Secondary,Farmer,Low,Rural,16,26,22,47,61,42,6,11.17,64,18,Low,81,3,71,No,49.7
+U0102,48,Female,Secondary,Unemployed,Medium,Rural,6,13,17,46,60,57,11,23.9,65,10,Medium,77,2,78,No,53.5
+U0103,43,Male,None,Other,Low,Semi-Rural,9,0,48,36,35,78,10,29.97,77,14,Low,60,3,66,Yes,48.3
+U0104,25,Female,None,Farmer,Low,Rural,32,45,1,53,68,44,11,20.81,84,19,Low,74,4,80,No,54.8
+U0105,58,Other,Secondary,Unemployed,High,Rural,33,2,22,74,41,60,10,26.79,70,11,Medium,82,4,75,No,59.9
+U0106,25,Male,Primary,Self-Employed,Low,Semi-Rural,2,50,44,50,72,73,7,19.74,81,10,Low,87,1,88,No,63.5
+U0107,23,Female,Secondary,Farmer,Low,Rural,42,34,39,74,73,61,11,21.15,84,27,Medium,74,1,89,No,69.8
+U0108,19,Female,Primary,Other,Medium,Rural,45,43,43,72,78,70,7,17.33,75,21,Medium,70,3,77,No,73.2
+U0109,36,Female,Primary,Student,Medium,Rural,10,26,14,45,65,45,5,23.68,100,21,High,90,2,50,Yes,51.0
+U0110,51,Male,None,Other,Low,Rural,45,25,13,70,51,47,10,14.72,95,11,High,94,4,90,Yes,57.4
+U0111,41,Male,Secondary,Other,Medium,Rural,46,27,43,83,56,86,13,12.95,86,18,High,95,3,86,No,75.8
+U0112,44,Male,None,Unemployed,Low,Rural,32,0,6,79,32,27,12,23.09,78,15,High,75,4,74,Yes,49.3
+U0113,50,Male,High School,Other,Medium,Rural,38,43,2,62,79,24,11,27.65,75,22,Low,94,5,92,Yes,55.7
+U0114,28,Male,High School,Unemployed,Medium,Semi-Rural,50,50,23,78,79,72,13,15.53,72,19,Medium,61,1,52,No,76.5
+U0115,40,Female,Primary,Student,Low,Rural,27,18,31,50,63,75,13,28.71,60,17,Medium,99,3,55,Yes,61.4
+U0116,51,Male,High School,Unemployed,Low,Rural,18,13,13,59,48,36,7,20.89,88,20,High,82,2,77,Yes,48.8
+U0117,49,Male,High School,Self-Employed,Low,Rural,31,13,30,63,63,63,11,20.59,91,23,Low,97,1,69,No,63.0
+U0118,28,Male,Primary,Unemployed,Medium,Rural,13,38,12,57,78,39,15,19.79,86,15,Medium,84,2,59,No,57.9
+U0119,30,Male,High School,Student,Low,Semi-Rural,45,28,7,65,68,57,14,12.7,77,16,Medium,69,5,90,No,63.5
+U0120,42,Male,Secondary,Self-Employed,Low,Rural,35,20,31,81,66,59,15,29.97,75,25,Low,65,4,61,No,69.9
+U0121,49,Male,Primary,Other,Medium,Rural,42,24,7,79,61,27,5,12.37,72,27,High,65,5,93,Yes,58.0
+U0122,47,Male,Secondary,Other,Low,Semi-Rural,4,33,25,29,75,64,12,22.89,96,16,High,80,5,70,No,53.3
+U0123,20,Female,Primary,Unemployed,Low,Rural,11,21,11,58,60,38,14,10.42,93,30,High,87,2,73,Yes,52.6
+U0124,19,Male,None,Other,Medium,Rural,18,1,30,38,47,54,8,17.12,87,24,Low,64,1,54,No,45.5
+U0125,32,Female,Secondary,Farmer,Medium,Rural,41,32,42,62,58,64,12,22.08,78,23,Medium,83,4,96,Yes,61.4
+U0126,36,Female,High School,Student,Low,Rural,33,11,33,81,59,53,5,25.07,85,21,Medium,58,2,62,No,66.0
+U0127,31,Male,High School,Other,Low,Rural,27,13,7,53,52,55,13,23.26,95,22,Low,81,5,88,Yes,53.3
+U0128,45,Male,Secondary,Student,Low,Semi-Rural,45,0,37,88,48,79,9,16.59,60,12,Low,58,5,77,Yes,73.3
+U0129,44,Male,Secondary,Farmer,Low,Semi-Rural,2,40,44,30,66,73,6,24.84,76,30,Medium,69,5,73,No,53.7
+U0130,30,Female,High School,Self-Employed,Low,Rural,50,28,15,72,48,55,7,14.54,62,17,Medium,52,2,71,No,59.7
+U0131,34,Female,Secondary,Other,Low,Rural,5,45,28,41,90,73,13,20.04,77,16,Medium,50,3,71,No,65.3
+U0132,54,Female,None,Farmer,Medium,Rural,18,3,26,58,41,58,5,24.93,63,24,Medium,63,4,56,No,52.9
+U0133,60,Female,Secondary,Student,Medium,Rural,7,23,8,56,61,44,12,15.35,90,21,Low,85,1,99,No,53.9
+U0134,36,Female,Secondary,Farmer,Low,Rural,4,42,48,40,87,68,5,28.25,80,18,Medium,61,2,99,No,62.5
+U0135,46,Male,Secondary,Student,Medium,Rural,28,30,22,73,60,59,8,28.22,83,15,Low,70,5,91,No,64.9
+U0136,26,Female,High School,Student,Low,Semi-Rural,39,33,28,74,80,70,5,23.26,98,28,High,56,1,55,Yes,74.6
+U0137,61,Male,Primary,Other,Low,Rural,10,16,9,43,37,53,15,12.23,70,21,Low,73,4,88,No,44.2
+U0138,19,Male,None,Student,Medium,Semi-Rural,39,49,5,83,84,36,14,24.05,72,22,Low,93,4,97,No,69.2
+U0139,50,Female,High School,Unemployed,Low,Semi-Rural,4,22,13,38,54,57,11,10.22,94,18,Low,57,5,52,No,48.5
+U0140,50,Female,None,Unemployed,Low,Rural,26,26,48,48,63,89,6,22.96,95,22,Low,59,4,60,No,64.8
+U0141,50,Female,Primary,Farmer,High,Rural,44,25,13,68,61,36,7,13.86,97,22,Medium,97,5,54,No,56.3
+U0142,19,Male,None,Farmer,Low,Rural,36,3,23,66,29,69,11,19.65,88,25,High,69,1,56,No,55.8
+U0143,28,Male,Primary,Farmer,Medium,Rural,14,0,20,42,27,57,5,26.32,70,11,Low,72,3,60,Yes,42.0
+U0144,25,Male,High School,Student,Low,Rural,0,35,30,36,65,68,13,18.31,70,21,Low,93,3,55,No,54.3
+U0145,41,Other,Secondary,Self-Employed,Low,Semi-Rural,16,44,34,46,87,76,14,12.73,81,21,Low,83,5,51,Yes,67.3
+U0146,57,Male,Secondary,Unemployed,Medium,Semi-Rural,17,18,23,45,60,49,13,11.87,75,29,Medium,87,5,88,Yes,50.7
+U0147,27,Male,None,Self-Employed,Low,Rural,29,5,27,57,52,60,13,27.81,60,30,High,51,2,54,No,56.4
+U0148,59,Female,Primary,Self-Employed,Medium,Rural,17,1,25,51,23,69,11,23.41,63,25,Medium,67,5,97,No,48.0
+U0149,64,Male,Primary,Unemployed,Low,Rural,38,14,20,59,53,41,12,14.75,98,14,Medium,59,1,54,Yes,51.8
+U0150,63,Male,Secondary,Farmer,Low,Rural,2,16,38,48,45,88,10,11.99,84,15,Medium,82,1,95,Yes,59.1
+U0151,48,Female,High School,Unemployed,High,Rural,32,7,35,67,33,84,7,29.92,76,16,Medium,78,2,51,Yes,61.9
+U0152,40,Other,High School,Unemployed,Low,Semi-Rural,24,42,36,44,82,67,11,28.74,97,21,Medium,84,2,98,No,62.3
+U0153,30,Female,Secondary,Self-Employed,Low,Semi-Rural,12,35,30,34,83,74,15,23.99,64,18,Medium,67,5,74,Yes,60.7
+U0154,40,Female,High School,Unemployed,Low,Semi-Rural,20,49,28,61,72,50,12,19.35,61,29,Medium,84,3,95,No,61.0
+U0155,35,Male,Secondary,Student,Low,Rural,46,28,6,72,70,36,14,26.67,83,19,Medium,59,1,100,No,60.6
+U0156,37,Female,Primary,Farmer,Low,Rural,45,48,14,65,68,37,5,17.69,70,11,High,56,1,86,Yes,57.5
+U0157,21,Male,None,Student,Medium,Rural,32,26,44,55,72,71,7,19.07,65,10,Medium,96,2,80,Yes,64.9
+U0158,35,Female,None,Unemployed,Medium,Rural,27,40,6,60,88,32,6,25.48,88,20,Low,78,1,88,No,60.0
+U0159,50,Male,Secondary,Student,Low,Rural,44,12,43,80,37,93,13,19.56,65,18,Low,92,1,77,No,71.0
+U0160,34,Other,None,Student,Low,Semi-Rural,12,26,10,61,46,55,13,19.11,92,22,Low,81,4,55,No,54.7
+U0161,23,Male,Secondary,Self-Employed,Low,Rural,12,0,5,39,35,38,8,27.34,92,14,Low,66,1,82,No,37.5
+U0162,58,Male,High School,Self-Employed,Medium,Rural,23,43,26,59,63,74,14,20.98,72,13,High,97,1,93,Yes,64.7
+U0163,43,Female,Primary,Unemployed,Low,Rural,39,45,29,67,65,50,8,25.75,71,10,Medium,61,5,50,No,61.3
+U0164,40,Male,Primary,Self-Employed,Low,Rural,8,37,50,42,85,93,15,26.13,62,30,Low,85,3,96,Yes,70.2
+U0165,29,Female,None,Self-Employed,Low,Rural,32,9,23,52,54,49,9,29.88,70,23,Medium,70,1,54,Yes,51.7
+U0166,61,Female,None,Other,Low,Rural,13,25,22,36,74,42,5,20.29,64,27,Medium,84,2,59,No,49.2
+U0167,30,Female,Secondary,Other,Low,Semi-Rural,27,43,37,69,65,73,11,13.67,91,16,Medium,100,4,92,No,69.0
+U0168,30,Other,Secondary,Other,Low,Rural,4,34,10,36,76,48,6,17.2,86,16,Medium,78,1,60,No,51.6
+U0169,21,Female,Primary,Other,Low,Rural,36,35,50,58,73,71,7,19.43,73,25,Medium,89,2,65,No,66.4
+U0170,56,Male,None,Other,Medium,Rural,37,37,1,73,76,30,13,15.04,97,22,Medium,90,1,86,No,61.0
+U0171,37,Male,High School,Self-Employed,High,Semi-Rural,46,36,26,72,74,73,8,21.56,97,22,Medium,84,3,99,No,72.9
+U0172,55,Female,Primary,Farmer,Low,Semi-Rural,46,14,6,95,46,53,9,11.95,99,14,High,62,5,51,No,67.7
+U0173,42,Other,Primary,Farmer,Medium,Rural,17,34,41,44,68,68,7,20.73,99,13,High,76,5,75,No,58.4
+U0174,57,Male,High School,Student,Low,Rural,19,37,42,40,61,73,13,24.51,72,16,Medium,58,1,90,No,56.2
+U0175,24,Female,Primary,Unemployed,Low,Rural,7,34,3,52,84,28,15,18.56,69,13,Low,80,2,52,No,54.4
+U0176,62,Female,High School,Unemployed,Low,Rural,48,24,16,88,57,44,10,22.32,66,12,Low,59,2,96,No,65.5
+U0177,60,Male,Primary,Student,Low,Rural,10,43,47,37,73,84,8,26.38,98,11,Low,73,4,95,Yes,61.9
+U0178,62,Female,Secondary,Unemployed,High,Rural,18,48,13,54,98,45,8,18.97,64,16,Low,77,1,100,No,64.5
+U0179,47,Female,Primary,Self-Employed,High,Rural,30,36,16,73,78,44,12,14.09,74,28,Medium,85,5,53,Yes,65.8
+U0180,63,Other,None,Other,Medium,Rural,36,20,34,67,62,77,13,23.93,79,13,Medium,99,4,83,No,68.5
+U0181,51,Male,Primary,Self-Employed,High,Semi-Rural,41,45,9,82,78,46,8,17.26,68,16,Medium,52,3,68,Yes,70.0
+U0182,61,Male,Primary,Student,Low,Semi-Rural,47,13,44,96,52,69,10,10.44,77,12,Low,51,1,62,No,74.7
+U0183,32,Female,Primary,Farmer,High,Rural,12,11,24,62,61,70,15,23.66,82,13,Medium,58,2,75,Yes,64.1
+U0184,63,Female,Secondary,Student,Low,Semi-Rural,27,18,47,66,58,86,8,11.89,76,18,Medium,84,1,53,No,69.6
+U0185,47,Male,Primary,Farmer,Medium,Rural,1,7,2,49,52,43,6,13.47,82,23,High,83,4,92,No,48.1
+U0186,39,Female,None,Self-Employed,Low,Rural,13,1,37,34,31,59,10,25.82,89,12,High,69,2,77,No,40.6
+U0187,48,Female,High School,Self-Employed,Low,Rural,18,12,6,64,44,44,12,29.35,71,14,Low,63,3,85,No,52.0
+U0188,64,Female,Primary,Unemployed,Medium,Rural,6,44,4,43,80,25,5,16.95,67,27,Medium,79,3,70,No,48.7
+U0189,28,Female,High School,Student,Low,Rural,48,38,45,91,76,83,12,12.63,81,30,Medium,87,3,67,No,84.1
+U0190,46,Female,Secondary,Unemployed,Low,Semi-Rural,5,13,43,34,44,79,5,29.57,75,21,Low,83,2,62,Yes,50.5
+U0191,35,Male,High School,Student,Medium,Semi-Rural,10,22,29,53,57,66,10,16.71,98,24,High,93,4,80,No,58.1
+U0192,50,Female,None,Unemployed,Low,Semi-Rural,9,31,47,36,52,79,15,18.79,62,27,Medium,98,5,76,Yes,53.7
+U0193,62,Female,Primary,Farmer,High,Rural,28,25,37,57,74,67,11,26.39,65,28,High,76,1,60,Yes,65.1
+U0194,34,Female,Secondary,Other,Medium,Rural,7,33,50,50,78,90,7,21.67,67,29,Medium,89,3,66,Yes,70.4
+U0195,52,Male,Primary,Student,Medium,Rural,27,15,24,61,43,61,7,11.91,75,23,High,52,5,56,No,55.6
+U0196,37,Male,High School,Self-Employed,Low,Semi-Rural,5,5,19,43,48,64,13,24.2,84,28,High,95,5,94,No,50.8
+U0197,21,Male,Secondary,Farmer,Medium,Semi-Rural,6,17,5,35,61,34,14,28.08,90,10,High,78,5,88,No,42.5
+U0198,50,Female,High School,Other,Low,Rural,9,15,34,42,35,73,15,17.09,71,11,Low,69,3,85,Yes,49.2
+U0199,33,Other,High School,Self-Employed,Low,Rural,42,19,49,89,39,99,8,13.08,92,27,Medium,65,2,65,No,77.0
+U0200,56,Female,Primary,Unemployed,Low,Semi-Rural,46,6,8,80,47,39,8,18.94,96,18,Medium,71,3,75,No,57.8
+U0201,59,Female,High School,Unemployed,Low,Rural,15,37,27,43,59,61,8,12.57,73,20,High,52,5,56,No,53.2
+U0202,39,Female,High School,Student,Low,Semi-Rural,1,5,35,22,38,73,11,20.59,86,13,Medium,88,5,65,No,42.1
+U0203,24,Female,Primary,Farmer,Low,Rural,23,9,12,59,55,34,9,16.79,71,15,Medium,85,1,55,No,50.3
+U0204,25,Male,Secondary,Unemployed,Low,Rural,5,12,21,54,38,43,13,13.19,75,29,Medium,66,4,71,Yes,45.9
+U0205,62,Male,High School,Self-Employed,Low,Semi-Rural,13,22,32,53,70,54,7,23.99,71,20,Low,83,5,70,No,58.4
+U0206,31,Female,Primary,Self-Employed,Low,Semi-Rural,14,44,27,56,83,67,12,16.93,76,22,Medium,69,5,75,No,67.4
+U0207,24,Male,Secondary,Other,Low,Rural,34,16,48,67,49,84,13,22.6,74,20,Low,84,2,99,Yes,66.7
+U0208,44,Other,Primary,Student,Low,Semi-Rural,49,19,6,95,58,36,14,24.18,79,23,Medium,63,5,89,No,66.2
+U0209,18,Male,Primary,Other,Low,Rural,27,46,36,55,67,58,5,15.76,96,26,Medium,62,1,84,Yes,59.5
+U0210,57,Male,Secondary,Unemployed,Low,Semi-Rural,22,15,41,52,56,84,10,27.86,91,23,Low,79,1,96,No,62.8
+U0211,52,Male,Primary,Self-Employed,High,Rural,19,14,49,63,60,72,13,23.06,88,29,Low,64,3,81,Yes,64.8
+U0212,61,Female,Secondary,Other,Low,Rural,31,14,8,76,44,36,10,22.34,92,24,Medium,78,4,52,No,54.4
+U0213,34,Other,Secondary,Unemployed,Medium,Rural,31,45,8,80,67,57,11,14.93,86,26,Medium,69,2,50,No,69.2
+U0214,29,Male,None,Farmer,Low,Semi-Rural,32,5,16,63,50,63,7,15.65,91,29,Medium,72,5,66,No,59.1
+U0215,19,Male,High School,Unemployed,Low,Rural,15,10,7,40,41,45,8,24.57,77,22,High,81,2,71,Yes,41.8
+U0216,24,Female,Primary,Unemployed,Low,Semi-Rural,34,28,27,69,75,59,5,24.72,96,17,Low,51,1,86,Yes,67.8
+U0217,25,Other,Primary,Other,Low,Rural,44,35,43,69,82,64,6,28.16,78,10,Medium,91,4,91,No,71.4
+U0218,64,Male,High School,Farmer,High,Rural,23,30,43,61,62,89,6,20.93,94,27,Medium,66,1,75,Yes,69.7
+U0219,55,Female,Primary,Student,Low,Rural,15,33,24,62,70,50,11,21.71,92,26,Medium,53,2,51,No,60.8
+U0220,52,Male,High School,Student,Medium,Rural,38,41,32,88,89,59,7,12.21,65,19,Low,56,2,50,No,79.6
+U0221,35,Other,Secondary,Farmer,Low,Rural,17,6,11,46,34,44,10,26.5,65,18,Medium,51,4,100,No,41.8
+U0222,18,Female,Primary,Other,Low,Rural,6,8,50,53,44,90,7,28.21,85,11,Low,73,5,89,Yes,61.4
+U0223,43,Male,Secondary,Farmer,Low,Rural,2,25,0,40,55,46,7,26.4,93,18,Medium,99,2,83,Yes,46.3
+U0224,56,Female,None,Unemployed,Low,Rural,1,32,18,47,70,42,9,22.76,80,21,Low,93,5,85,No,52.4
+U0225,47,Female,Secondary,Other,Low,Semi-Rural,7,36,36,38,73,70,15,23.01,97,27,High,54,1,88,No,58.1
+U0226,29,Male,High School,Unemployed,Medium,Rural,32,12,19,52,36,43,9,16.04,70,11,Low,81,1,71,Yes,44.5
+U0227,50,Other,Primary,Self-Employed,Medium,Semi-Rural,26,42,25,70,72,49,13,20.17,62,17,Low,91,4,61,Yes,64.3
+U0228,22,Male,High School,Self-Employed,Low,Rural,10,21,50,32,66,100,15,17.11,88,13,Medium,50,4,80,No,62.6
+U0229,42,Female,Secondary,Self-Employed,High,Rural,50,45,4,78,78,47,12,10.2,100,25,Low,75,2,84,No,68.7
+U0230,48,Female,None,Student,Medium,Semi-Rural,19,14,3,56,42,30,13,20.77,99,30,Medium,52,2,78,Yes,44.0
+U0231,56,Female,High School,Other,Low,Rural,35,50,25,74,94,63,13,20.89,68,13,High,53,4,66,Yes,76.7
+U0232,34,Female,Primary,Other,Low,Rural,20,46,48,54,68,92,7,15.97,70,30,Low,52,5,67,No,69.6
+U0233,46,Male,Primary,Unemployed,Low,Semi-Rural,2,32,6,32,75,34,6,25.94,85,28,Medium,63,4,53,Yes,45.5
+U0234,19,Male,None,Other,Low,Rural,29,7,40,79,37,75,12,19.08,79,12,Low,78,3,76,No,65.2
+U0235,34,Male,High School,Other,Low,Rural,35,22,49,58,44,89,6,16.22,99,11,Medium,84,4,87,No,63.1
+U0236,26,Female,Secondary,Other,Medium,Semi-Rural,9,8,27,48,40,65,12,24.95,68,24,High,88,3,99,Yes,50.7
+U0237,39,Male,Secondary,Farmer,Low,Semi-Rural,40,9,36,90,33,57,12,23.73,62,15,Medium,100,1,75,No,63.0
+U0238,31,Female,High School,Unemployed,Low,Rural,1,46,45,25,71,95,13,12.03,83,29,Medium,54,4,67,No,59.8
+U0239,19,Male,Primary,Unemployed,Low,Semi-Rural,2,5,23,28,33,54,6,11.45,64,14,High,83,1,99,No,37.3
+U0240,41,Male,None,Student,Low,Rural,39,45,37,70,86,61,6,27.25,82,19,Medium,72,4,60,No,72.1
+U0241,35,Male,High School,Unemployed,Low,Rural,43,35,21,69,85,46,9,21.19,100,20,Low,99,4,99,No,66.9
+U0242,57,Male,Secondary,Self-Employed,Medium,Rural,27,35,11,50,67,39,9,25.77,62,18,Low,84,2,85,Yes,51.8
+U0243,40,Female,Secondary,Other,Low,Rural,25,37,6,57,57,32,5,21.64,86,17,Low,60,4,65,Yes,49.5
+U0244,57,Female,High School,Other,Medium,Rural,3,23,34,43,59,74,5,28.26,98,11,Medium,77,4,55,No,57.1
+U0245,41,Female,Secondary,Farmer,Low,Rural,36,30,33,59,60,77,5,26.27,68,23,Medium,98,3,59,No,64.7
+U0246,64,Female,Secondary,Farmer,Low,Rural,3,1,27,53,45,64,14,10.33,84,18,Low,99,5,83,Yes,53.9
+U0247,64,Female,None,Farmer,Low,Rural,29,31,8,79,76,39,12,21.71,85,26,Low,66,5,93,No,66.1
+U0248,59,Female,Secondary,Unemployed,High,Semi-Rural,22,13,10,69,57,52,15,27.92,83,14,Low,57,1,86,Yes,60.3
+U0249,34,Male,High School,Unemployed,Medium,Semi-Rural,10,39,15,30,73,65,6,13.06,65,24,High,74,5,99,No,53.4
+U0250,63,Female,None,Farmer,Low,Rural,37,43,21,84,76,59,13,20.4,100,17,High,97,4,71,No,74.1
+U0251,27,Male,High School,Unemployed,Low,Rural,49,18,35,72,68,81,14,23.59,88,27,Medium,89,2,66,No,73.5
+U0252,62,Female,Secondary,Self-Employed,Medium,Rural,27,14,41,67,40,80,13,18.79,93,13,Low,74,2,65,No,62.8
+U0253,39,Other,None,Student,Low,Semi-Rural,6,29,45,40,60,86,15,22.68,100,10,Low,55,2,95,Yes,59.8
+U0254,44,Male,None,Unemployed,Low,Rural,8,29,32,43,54,62,7,29.47,81,15,Medium,87,3,93,No,52.0
+U0255,49,Male,None,Self-Employed,Low,Rural,33,43,38,75,82,59,8,18.77,68,27,Low,51,1,61,Yes,72.3
+U0256,50,Female,None,Self-Employed,Low,Semi-Rural,37,8,50,81,46,72,15,18.05,65,25,Medium,58,1,67,Yes,67.8
+U0257,58,Male,None,Unemployed,Medium,Rural,41,19,17,65,64,41,10,20.74,98,18,Medium,55,3,93,No,57.5
+U0258,56,Male,High School,Farmer,High,Rural,9,12,32,44,38,71,14,20.93,74,13,Medium,69,2,57,No,50.3
+U0259,24,Male,None,Other,Low,Rural,32,27,27,59,60,69,9,29.08,99,29,Medium,58,4,52,No,62.3
+U0260,55,Male,None,Other,Low,Semi-Rural,39,31,0,82,75,47,5,27.08,75,14,Low,98,4,96,No,69.4
+U0261,61,Female,None,Self-Employed,Low,Rural,17,22,32,50,50,66,11,14.46,68,12,Low,51,3,67,No,54.8
+U0262,61,Female,Primary,Self-Employed,Low,Rural,9,33,39,42,83,74,15,23.32,72,22,Low,83,4,67,No,63.9
+U0263,21,Male,Secondary,Self-Employed,Low,Semi-Rural,46,23,11,67,44,55,5,14.99,88,20,High,99,1,73,No,56.5
+U0264,27,Other,High School,Farmer,Low,Semi-Rural,9,9,44,51,59,71,6,22.61,86,21,Low,82,2,84,No,59.4
+U0265,63,Male,High School,Student,Medium,Rural,20,44,25,68,91,66,12,25.32,90,24,High,100,4,78,No,74.3
+U0266,45,Male,None,Self-Employed,High,Rural,1,16,46,21,60,86,6,14.4,90,21,High,73,1,96,No,52.2
+U0267,52,Female,Secondary,Unemployed,High,Rural,36,20,12,62,50,61,7,19.0,79,28,High,82,5,85,Yes,58.1
+U0268,55,Male,Primary,Student,Low,Rural,44,35,6,73,55,28,10,24.15,99,12,Low,53,2,50,No,54.1
+U0269,29,Female,Primary,Student,Medium,Rural,21,35,1,61,72,35,8,15.61,96,26,High,78,1,88,No,56.5
+U0270,59,Male,Secondary,Unemployed,Medium,Rural,44,35,41,72,62,76,10,21.29,84,28,Medium,73,4,56,Yes,70.2
+U0271,63,Female,Secondary,Farmer,High,Rural,45,3,22,82,33,53,13,23.09,96,18,Low,87,5,75,No,58.6
+U0272,28,Female,Secondary,Farmer,Low,Rural,4,14,47,30,42,90,15,25.96,86,25,Low,89,5,55,Yes,51.6
+U0273,28,Male,Secondary,Other,Medium,Semi-Rural,37,15,16,68,46,51,11,23.95,97,25,High,83,2,82,No,56.3
+U0274,23,Male,Secondary,Unemployed,Medium,Rural,43,41,37,77,90,64,8,28.97,86,20,Low,77,2,76,No,77.0
+U0275,64,Female,High School,Farmer,Medium,Rural,7,27,10,57,47,50,14,12.65,97,13,Low,72,1,75,No,51.9
+U0276,26,Female,Secondary,Self-Employed,Low,Rural,1,20,43,33,68,75,5,23.77,73,16,High,99,4,66,No,56.1
+U0277,54,Male,High School,Self-Employed,Medium,Semi-Rural,46,30,31,90,77,78,15,21.91,76,28,Low,100,3,74,No,82.5
+U0278,34,Female,High School,Self-Employed,Low,Rural,8,43,43,56,89,86,10,28.56,84,24,High,64,5,51,No,74.9
+U0279,29,Male,None,Other,Low,Rural,47,18,16,85,68,60,5,15.81,63,15,High,53,4,86,No,72.4
+U0280,30,Male,Secondary,Unemployed,Medium,Rural,32,7,12,76,37,33,9,11.36,69,16,High,66,3,84,Yes,51.4
+U0281,53,Other,Secondary,Unemployed,Low,Rural,50,13,5,74,46,47,11,18.51,61,16,Medium,81,1,93,No,57.5
+U0282,54,Female,High School,Student,Low,Rural,38,36,39,70,72,73,14,26.64,78,11,High,65,5,92,No,71.5
+U0283,55,Male,Primary,Farmer,Low,Semi-Rural,35,29,29,80,72,59,5,10.08,94,30,Medium,80,3,80,No,71.3
+U0284,59,Female,Primary,Other,Low,Semi-Rural,25,21,50,60,46,98,6,26.79,77,16,High,75,2,79,No,67.2
+U0285,38,Female,Primary,Unemployed,Medium,Semi-Rural,13,15,5,56,64,31,14,12.55,98,14,Low,91,3,61,No,50.9
+U0286,30,Male,None,Unemployed,Medium,Rural,32,28,39,80,59,67,11,17.46,60,25,High,77,3,67,No,69.8
+U0287,37,Female,High School,Unemployed,High,Rural,23,40,12,55,75,60,12,17.07,90,10,High,78,4,93,Yes,62.5
+U0288,55,Male,Secondary,Farmer,Low,Rural,26,7,43,53,42,77,15,10.98,79,23,Medium,79,3,81,Yes,56.9
+U0289,40,Male,Primary,Farmer,Medium,Semi-Rural,2,32,30,28,58,50,5,10.59,93,22,Medium,95,1,63,Yes,43.6
+U0290,46,Male,Secondary,Student,Low,Rural,43,30,31,68,53,55,8,14.14,97,26,Medium,90,4,98,No,59.6
+U0291,41,Male,High School,Other,Medium,Rural,31,45,3,52,77,27,15,15.42,77,27,High,87,3,77,Yes,52.0
+U0292,53,Male,Secondary,Self-Employed,Low,Rural,49,49,27,95,91,63,13,29.22,72,12,Medium,66,2,57,No,84.2
+U0293,40,Female,Primary,Other,Low,Rural,24,43,9,57,64,44,6,13.98,78,17,Low,66,1,56,Yes,55.2
+U0294,34,Other,High School,Unemployed,Low,Semi-Rural,11,13,25,31,39,50,10,21.61,74,14,Medium,77,1,69,No,39.1
+U0295,25,Male,None,Self-Employed,Low,Rural,41,20,49,68,48,82,13,28.65,69,30,Medium,86,4,84,No,66.2
+U0296,25,Male,High School,Other,Low,Semi-Rural,36,10,6,84,45,41,8,10.53,89,23,Medium,51,4,68,Yes,59.4
+U0297,54,Male,Secondary,Farmer,Low,Semi-Rural,47,6,23,76,30,63,8,29.72,81,23,Medium,94,1,50,Yes,58.3
+U0298,58,Female,Secondary,Self-Employed,Medium,Semi-Rural,10,1,5,57,32,31,14,28.94,74,24,Low,59,1,66,No,41.7
+U0299,24,Male,High School,Student,Low,Rural,8,47,38,56,85,85,13,20.65,93,20,High,82,5,95,Yes,73.4
+U0300,27,Female,Secondary,Self-Employed,Low,Rural,0,1,2,40,29,36,15,20.08,98,30,Medium,96,2,76,Yes,35.5
+U0301,48,Female,None,Other,Low,Rural,49,37,46,84,73,70,7,12.56,97,19,Low,64,4,78,No,76.5
+U0302,26,Female,None,Other,Medium,Semi-Rural,39,36,8,65,86,48,15,27.91,68,19,Medium,92,2,81,Yes,66.2
+U0303,40,Female,Primary,Student,Low,Rural,3,47,45,23,94,89,10,13.84,82,28,Medium,98,4,80,No,64.1
+U0304,49,Male,Primary,Self-Employed,High,Rural,17,28,50,62,63,98,13,11.54,65,21,Medium,62,3,86,No,73.1
+U0305,42,Female,Primary,Other,Medium,Rural,27,19,35,77,56,83,11,23.63,92,28,High,76,3,63,Yes,72.5
+U0306,59,Female,Primary,Other,Low,Rural,15,21,37,37,62,76,13,22.34,87,25,Low,65,1,86,No,56.2
+U0307,24,Male,None,Student,Low,Rural,8,21,30,56,60,76,5,15.97,96,18,Low,50,5,89,No,63.2
+U0308,36,Female,Secondary,Farmer,Low,Rural,34,1,9,68,28,33,14,23.17,71,21,Low,63,5,56,Yes,45.5
+U0309,24,Male,High School,Other,Low,Rural,33,26,34,73,54,75,6,18.18,90,16,High,53,5,86,No,67.9
+U0310,22,Male,None,Self-Employed,High,Semi-Rural,49,46,47,96,76,80,6,12.97,75,11,Low,76,5,97,Yes,85.2
+U0311,35,Male,Primary,Unemployed,Low,Semi-Rural,1,49,15,22,76,47,13,28.23,91,15,Low,79,3,69,No,45.7
+U0312,51,Male,None,Unemployed,Low,Rural,32,0,22,63,48,50,13,12.34,92,30,Medium,95,5,52,No,54.6
+U0313,51,Male,Secondary,Farmer,Medium,Rural,47,13,30,81,55,60,11,18.82,100,25,High,83,5,65,No,66.9
+U0314,57,Male,Secondary,Self-Employed,Medium,Semi-Rural,34,31,29,58,71,58,9,11.71,70,11,High,76,4,72,No,61.9
+U0315,52,Male,Primary,Self-Employed,Medium,Rural,36,10,38,74,36,63,9,18.97,85,18,Medium,78,5,86,No,59.3
+U0316,38,Female,High School,Self-Employed,High,Rural,50,40,38,95,83,63,12,15.82,82,17,Medium,79,5,88,No,81.8
+U0317,31,Male,None,Other,Low,Rural,11,5,1,31,53,37,8,22.85,60,27,High,87,1,73,No,39.4
+U0318,63,Other,None,Self-Employed,Low,Semi-Rural,2,0,37,34,37,65,14,19.95,61,20,Medium,69,5,90,No,44.2
+U0319,42,Male,None,Unemployed,Low,Rural,31,48,16,61,79,49,12,16.09,63,19,Low,72,5,63,No,62.8
+U0320,54,Male,Primary,Farmer,Low,Semi-Rural,6,41,46,37,89,83,5,14.04,61,18,Low,74,3,62,Yes,66.4
+U0321,57,Male,Secondary,Self-Employed,Medium,Rural,40,20,5,83,52,47,15,11.99,93,17,Medium,86,3,82,Yes,62.9
+U0322,26,Other,Primary,Farmer,Low,Rural,35,27,3,63,51,49,9,17.37,81,15,Low,89,4,68,No,55.2
+U0323,43,Male,Secondary,Student,High,Rural,7,41,42,40,63,80,15,13.12,78,18,Medium,54,1,57,No,58.9
+U0324,40,Female,Primary,Unemployed,Low,Rural,8,5,7,43,31,27,13,11.69,76,28,Medium,100,1,58,Yes,34.6
+U0325,27,Male,Secondary,Unemployed,Medium,Rural,3,42,22,46,65,52,8,10.62,65,20,Medium,100,2,88,Yes,53.5
+U0326,60,Female,Primary,Unemployed,Low,Rural,6,4,21,47,44,70,5,14.26,78,20,High,86,4,93,No,53.0
+U0327,46,Male,Primary,Other,Low,Rural,10,2,26,58,35,65,8,15.41,96,24,Low,52,5,68,No,53.2
+U0328,34,Male,High School,Unemployed,Medium,Rural,37,37,3,71,57,24,5,11.37,63,14,Medium,64,3,86,No,52.7
+U0329,42,Female,Secondary,Unemployed,Low,Rural,43,39,18,64,86,38,5,23.62,82,30,Low,89,1,65,Yes,62.8
+U0330,32,Male,Primary,Unemployed,Low,Rural,10,7,31,45,36,77,8,19.9,70,24,Low,86,5,94,No,51.9
+U0331,59,Other,Secondary,Farmer,Low,Rural,3,3,10,30,37,44,5,28.86,100,21,High,51,1,67,No,36.3
+U0332,50,Male,Secondary,Unemployed,Medium,Semi-Rural,19,0,43,40,28,77,8,15.71,85,30,High,96,4,67,No,47.5
+U0333,32,Female,None,Other,Low,Semi-Rural,35,17,30,84,66,63,10,19.07,60,15,Low,60,5,84,No,72.3
+U0334,39,Other,None,Self-Employed,Medium,Rural,3,17,7,31,55,41,5,11.15,73,29,Medium,88,2,71,No,41.2
+U0335,29,Male,Secondary,Self-Employed,Low,Rural,21,0,34,55,40,79,10,28.58,88,21,High,100,3,79,No,57.7
+U0336,24,Male,Primary,Self-Employed,Low,Rural,45,33,46,66,60,70,9,14.07,60,28,Medium,77,1,86,No,65.4
+U0337,48,Female,Secondary,Other,Medium,Rural,47,17,47,69,41,92,6,13.27,62,27,Low,53,5,76,No,67.5
+U0338,55,Other,Primary,Student,High,Rural,0,1,35,33,35,74,12,10.9,98,28,Medium,79,1,70,No,45.9
+U0339,27,Male,Primary,Unemployed,Medium,Semi-Rural,43,12,35,83,33,84,11,22.71,81,28,Medium,87,2,99,No,68.3
+U0340,59,Male,Primary,Other,Low,Semi-Rural,33,17,26,54,63,54,14,21.06,100,16,Medium,79,5,62,No,56.7
+U0341,42,Male,Primary,Self-Employed,Low,Semi-Rural,23,40,33,73,72,74,5,28.48,78,18,High,55,5,96,Yes,73.0
+U0342,45,Female,Primary,Student,Low,Rural,17,2,14,54,44,56,10,26.61,98,27,Low,82,4,92,Yes,51.6
+U0343,56,Other,High School,Farmer,Low,Rural,18,11,0,40,60,29,8,10.24,83,27,Low,91,1,67,No,42.7
+U0344,33,Female,High School,Farmer,Low,Semi-Rural,6,50,0,42,77,44,8,24.77,83,16,Low,64,4,63,Yes,53.1
+U0345,22,Male,High School,Other,Medium,Rural,36,32,26,70,66,72,12,27.77,71,17,Low,80,1,62,No,69.4
+U0346,33,Female,None,Other,Low,Rural,15,3,49,56,42,92,15,27.08,99,30,Medium,97,4,100,No,62.6
+U0347,57,Male,Primary,Self-Employed,Low,Rural,35,37,37,70,85,62,11,28.69,69,17,Medium,55,4,96,No,72.1
+U0348,19,Female,Primary,Unemployed,Low,Semi-Rural,47,8,46,73,53,86,8,24.73,66,21,High,70,5,76,No,70.9
+U0349,56,Female,None,Unemployed,Medium,Rural,21,28,12,48,54,41,7,15.11,72,12,Medium,69,4,67,No,47.7
+U0350,19,Female,Secondary,Self-Employed,Low,Semi-Rural,3,9,18,41,36,46,15,12.64,69,25,High,91,2,68,No,41.0
+U0351,44,Male,None,Unemployed,Medium,Rural,14,45,18,42,88,59,7,20.15,81,20,Low,65,3,64,No,60.9
+U0352,39,Male,Secondary,Farmer,High,Rural,0,6,23,23,33,48,14,19.38,64,18,Low,62,3,89,No,33.5
+U0353,35,Female,Primary,Other,Medium,Rural,15,33,16,38,75,41,11,16.47,90,24,High,74,5,61,Yes,50.0
+U0354,27,Female,High School,Self-Employed,Low,Rural,10,21,4,48,71,32,6,23.69,87,16,Medium,87,1,67,No,50.1
+U0355,26,Male,Primary,Self-Employed,Medium,Rural,18,20,31,65,65,69,9,17.57,83,27,Medium,70,1,62,No,66.2
+U0356,39,Male,Secondary,Unemployed,Medium,Rural,15,33,27,63,63,53,9,13.61,98,20,Medium,67,4,55,No,60.0
+U0357,20,Female,High School,Other,Medium,Rural,21,8,44,70,57,93,14,28.38,72,28,Medium,96,5,100,No,73.0
+U0358,64,Female,Secondary,Unemployed,Medium,Rural,21,4,18,61,53,50,6,19.26,82,28,Medium,98,2,51,No,55.3
+U0359,43,Other,Primary,Self-Employed,Low,Semi-Rural,10,4,19,47,48,66,11,20.51,65,12,Medium,92,3,67,Yes,53.0
+U0360,59,Female,High School,Self-Employed,High,Semi-Rural,22,32,17,49,79,54,6,25.03,62,24,Medium,89,3,88,No,59.5
+U0361,47,Female,High School,Other,Low,Rural,16,35,41,56,62,80,5,11.41,66,16,Medium,88,1,100,No,65.0
+U0362,43,Other,Secondary,Self-Employed,Low,Rural,30,20,18,51,48,67,15,29.89,66,19,Low,90,1,90,Yes,54.9
+U0363,28,Female,None,Farmer,Low,Semi-Rural,48,17,29,81,48,75,9,15.44,85,12,Medium,50,5,98,Yes,69.3
+U0364,64,Female,None,Self-Employed,Low,Rural,47,27,46,70,53,83,7,12.65,88,22,Medium,77,2,82,Yes,68.8
+U0365,50,Female,Secondary,Other,Low,Rural,44,30,38,65,72,88,8,27.73,67,11,Medium,54,3,68,No,74.0
+U0366,63,Male,Secondary,Student,High,Rural,3,37,46,31,78,82,11,27.53,90,13,Low,89,1,57,No,60.4
+U0367,28,Female,Secondary,Farmer,Medium,Rural,31,16,26,78,53,53,12,26.84,85,12,Medium,55,3,73,No,63.0
+U0368,54,Male,Secondary,Other,Medium,Semi-Rural,31,45,35,69,95,81,14,20.76,86,27,Low,99,4,99,No,80.4
+U0369,34,Male,Primary,Student,Low,Semi-Rural,3,37,19,50,58,57,8,25.98,93,13,Low,69,3,90,No,54.5
+U0370,64,Male,Secondary,Student,Medium,Semi-Rural,12,33,32,52,64,55,14,26.86,78,17,Medium,63,4,59,Yes,56.5
+U0371,48,Other,High School,Student,Low,Rural,13,32,16,54,58,61,12,14.65,60,10,Low,66,1,91,Yes,57.3
+U0372,31,Male,Primary,Farmer,Medium,Rural,31,32,49,61,76,97,10,23.57,93,22,Medium,97,4,57,No,76.3
+U0373,58,Male,Primary,Self-Employed,Low,Rural,42,5,11,85,31,36,10,11.02,78,21,High,82,2,82,No,54.1
+U0374,48,Male,Primary,Farmer,Low,Semi-Rural,13,19,7,51,56,29,10,16.08,86,23,High,72,5,69,No,45.9
+U0375,37,Male,High School,Self-Employed,Low,Semi-Rural,29,45,3,75,80,24,5,25.12,72,20,Medium,76,1,63,Yes,61.2
+U0376,37,Female,None,Farmer,High,Rural,18,15,17,49,57,49,11,23.42,66,22,Low,73,3,65,No,51.4
+U0377,44,Female,High School,Farmer,Low,Rural,25,44,31,72,73,73,8,12.8,83,13,Low,67,3,95,No,72.6
+U0378,22,Male,None,Unemployed,Medium,Rural,22,47,16,55,92,65,14,23.26,75,23,Low,95,3,100,Yes,69.1
+U0379,26,Male,Secondary,Self-Employed,High,Semi-Rural,44,17,0,85,66,33,10,22.32,96,27,Medium,59,1,94,No,63.7
+U0380,23,Male,Secondary,Farmer,High,Rural,7,29,4,35,51,53,15,20.15,82,21,High,70,2,87,No,45.2
+U0381,31,Other,High School,Student,Low,Semi-Rural,39,44,29,78,83,67,7,23.23,62,14,Medium,84,5,55,No,76.2
+U0382,23,Female,High School,Unemployed,High,Semi-Rural,21,24,32,41,62,65,6,14.76,71,11,Medium,67,3,73,No,54.5
+U0383,19,Male,Primary,Farmer,Medium,Rural,21,43,44,44,65,75,8,29.87,69,11,Medium,62,5,71,No,59.6
+U0384,46,Female,Primary,Self-Employed,Low,Rural,9,14,19,50,64,44,7,21.22,60,28,Low,77,1,100,No,52.4
+U0385,21,Female,None,Self-Employed,Low,Rural,15,41,5,64,85,34,9,20.32,90,23,High,65,2,87,No,61.3
+U0386,22,Male,High School,Farmer,Low,Rural,4,47,9,42,86,45,13,25.67,69,12,Low,74,2,55,No,56.1
+U0387,19,Female,Primary,Unemployed,Medium,Rural,15,7,23,38,57,45,13,14.99,81,10,High,81,4,62,No,45.8
+U0388,27,Male,High School,Other,Low,Rural,37,17,43,84,42,65,13,23.65,80,26,Medium,78,3,92,No,65.7
+U0389,27,Female,Secondary,Farmer,Low,Rural,10,3,1,33,41,23,8,23.75,89,27,Medium,68,3,63,No,32.4
+U0390,52,Male,Primary,Student,Medium,Rural,42,7,45,63,56,83,7,28.24,96,28,Medium,84,4,98,No,66.9
+U0391,58,Female,Primary,Farmer,Medium,Rural,31,22,12,56,71,51,8,25.14,87,29,High,97,2,72,No,59.0
+U0392,49,Male,Secondary,Unemployed,High,Semi-Rural,0,32,47,30,67,87,12,27.86,82,27,Medium,97,2,69,No,58.2
+U0393,52,Male,None,Other,Low,Rural,1,25,42,45,73,68,13,19.18,78,29,Low,91,3,73,Yes,60.3
+U0394,52,Female,High School,Student,Low,Rural,50,16,43,90,55,64,5,19.39,64,22,Medium,79,2,70,Yes,71.7
+U0395,46,Male,None,Unemployed,Low,Rural,47,15,49,69,47,76,15,15.9,99,16,Low,62,1,73,No,64.5
+U0396,41,Female,None,Other,Low,Rural,50,45,23,85,81,68,15,15.06,69,30,Medium,86,1,56,No,78.7
+U0397,39,Male,Secondary,Other,Low,Rural,19,16,41,43,52,62,9,13.42,86,19,High,79,3,71,No,51.4
+U0398,34,Female,None,Unemployed,Low,Semi-Rural,15,46,29,35,79,76,15,28.03,76,28,Low,70,3,100,No,60.5
+U0399,18,Female,None,Unemployed,High,Rural,35,15,6,75,53,39,13,28.46,100,26,Low,81,3,75,No,57.6
+U0400,34,Female,Secondary,Farmer,Low,Rural,0,39,14,47,84,52,8,16.7,67,13,Medium,66,5,88,No,59.6
+U0401,50,Female,High School,Other,Medium,Semi-Rural,32,45,29,71,90,61,5,18.67,69,22,Medium,95,3,96,Yes,73.7
+U0402,36,Female,Primary,Unemployed,Low,Rural,41,1,5,83,34,55,12,13.46,85,23,Medium,79,3,73,No,59.9
+U0403,24,Female,High School,Unemployed,Low,Rural,17,18,9,43,52,43,14,24.23,84,10,Low,60,5,97,Yes,45.7
+U0404,47,Male,Secondary,Other,Low,Rural,47,48,19,83,71,46,11,18.95,98,24,Medium,66,5,62,Yes,68.3
+U0405,26,Female,Primary,Farmer,Low,Rural,47,22,46,83,69,80,12,13.25,61,19,Medium,87,3,56,No,77.9
+U0406,26,Female,None,Student,High,Rural,25,24,22,64,61,44,13,24.14,84,12,Medium,56,5,66,No,57.1
+U0407,39,Female,High School,Unemployed,Low,Rural,37,41,45,60,66,92,13,29.13,71,20,High,76,5,63,No,71.4
+U0408,31,Female,High School,Unemployed,Medium,Rural,0,16,1,27,41,42,9,12.45,75,27,Medium,96,3,76,No,35.7
+U0409,51,Male,High School,Self-Employed,Medium,Semi-Rural,21,44,8,54,92,36,10,25.19,85,27,Low,53,2,62,No,60.0
+U0410,60,Male,High School,Student,Medium,Semi-Rural,12,49,6,58,91,51,5,11.9,86,12,Low,50,3,94,No,65.8
+U0411,35,Male,Secondary,Other,Low,Rural,28,49,17,56,86,46,6,20.9,64,23,Medium,97,5,65,Yes,62.0
+U0412,45,Female,None,Student,Medium,Rural,24,19,47,72,41,80,7,17.91,67,25,Medium,91,5,66,Yes,65.1
+U0413,42,Female,Primary,Student,Low,Rural,24,12,20,44,36,63,6,21.9,74,29,High,84,4,91,Yes,47.3
+U0414,38,Female,None,Other,High,Semi-Rural,0,48,28,37,71,77,15,17.23,85,13,Medium,59,3,91,No,59.2
+U0415,40,Male,Primary,Student,Medium,Rural,21,2,9,58,37,50,10,29.14,93,23,Medium,96,3,56,No,49.3
+U0416,36,Male,Primary,Farmer,Low,Semi-Rural,20,27,12,47,50,57,10,19.29,95,28,High,54,4,96,No,50.9
+U0417,23,Female,None,Farmer,High,Rural,23,29,35,45,68,77,8,25.2,100,20,Medium,88,4,94,No,61.5
+U0418,41,Female,Primary,Farmer,Medium,Rural,28,14,26,57,62,72,10,14.16,84,29,High,56,3,50,No,63.0
+U0419,18,Female,Secondary,Self-Employed,Medium,Semi-Rural,45,18,39,78,44,79,9,28.94,83,26,Medium,72,1,55,No,68.1
+U0420,33,Female,Primary,Self-Employed,Low,Semi-Rural,31,39,3,56,85,42,8,20.47,99,26,Medium,72,5,61,Yes,60.5
+U0421,53,Female,Secondary,Student,Medium,Semi-Rural,18,25,16,41,48,44,11,17.57,78,12,Medium,65,4,73,No,44.0
+U0422,42,Male,Secondary,Farmer,Medium,Rural,35,47,33,82,82,55,9,17.76,64,20,Low,66,4,66,No,73.9
+U0423,61,Other,None,Unemployed,High,Rural,10,47,48,42,71,72,9,27.97,72,18,High,95,4,60,Yes,59.7
+U0424,44,Female,High School,Student,High,Rural,47,1,1,70,48,22,6,11.49,95,12,Low,74,1,77,No,49.0
+U0425,62,Male,Primary,Other,Low,Rural,19,8,50,61,31,89,7,16.46,99,25,Low,100,5,55,No,60.4
+U0426,47,Other,High School,Student,Low,Rural,34,44,4,63,84,45,15,24.25,71,16,Low,56,4,58,No,63.9
+U0427,50,Male,Secondary,Unemployed,Low,Rural,32,26,7,76,68,48,14,11.94,70,25,Medium,77,1,61,No,65.2
+U0428,43,Male,Secondary,Other,Low,Rural,27,34,50,50,83,76,5,24.82,96,26,Low,75,5,100,No,67.7
+U0429,52,Female,None,Self-Employed,Low,Rural,24,18,45,49,44,81,10,14.93,84,13,Low,82,1,59,Yes,57.1
+U0430,23,Female,None,Other,Medium,Rural,3,16,9,42,51,33,9,18.48,96,28,Medium,80,4,58,No,42.0
+U0431,46,Male,Primary,Farmer,Low,Rural,22,0,32,66,29,53,5,22.31,83,13,Medium,99,4,56,No,51.0
+U0432,33,Male,Secondary,Self-Employed,Low,Rural,10,12,0,45,58,38,15,28.39,94,23,Medium,63,5,63,No,46.8
+U0433,35,Female,Primary,Other,High,Semi-Rural,34,42,10,80,76,38,5,17.57,68,14,High,71,2,55,No,66.2
+U0434,36,Other,High School,Farmer,Low,Rural,29,35,10,62,80,33,10,10.76,67,17,Medium,71,4,87,No,58.7
+U0435,29,Female,High School,Farmer,Low,Rural,50,5,37,78,48,72,8,25.38,88,27,High,68,2,55,No,67.2
+U0436,25,Male,None,Farmer,Low,Rural,18,8,15,57,49,52,13,21.62,69,26,Medium,71,5,97,No,53.1
+U0437,42,Male,Primary,Self-Employed,Medium,Rural,2,45,9,45,83,48,13,11.49,82,17,High,51,3,69,No,57.3
+U0438,21,Male,None,Unemployed,Low,Rural,23,39,24,58,75,59,7,29.07,81,16,High,80,4,94,No,63.4
+U0439,61,Female,High School,Unemployed,Low,Rural,40,7,5,60,46,32,10,27.64,76,13,Medium,83,1,89,Yes,47.4
+U0440,45,Female,Secondary,Self-Employed,High,Rural,48,40,43,73,62,79,12,27.73,70,13,Medium,68,2,99,No,71.5
+U0441,20,Female,High School,Self-Employed,Medium,Rural,13,41,26,54,90,73,6,21.02,80,12,Low,93,2,52,No,70.5
+U0442,44,Male,Secondary,Unemployed,Low,Rural,45,47,33,95,67,66,8,14.61,89,14,Medium,62,1,57,No,77.9
+U0443,60,Female,Primary,Self-Employed,Medium,Rural,31,12,38,73,37,68,11,28.34,65,27,High,54,4,72,No,60.7
+U0444,57,Male,Primary,Farmer,Low,Semi-Rural,13,7,17,55,53,37,6,18.17,75,17,High,65,3,51,No,49.0
+U0445,53,Female,Secondary,Other,Low,Rural,32,33,11,77,53,42,14,13.65,62,15,High,77,4,65,Yes,59.3
+U0446,18,Male,Secondary,Other,Low,Rural,45,48,10,92,68,54,12,13.03,98,25,Low,66,4,76,No,73.4
+U0447,56,Female,High School,Unemployed,High,Rural,17,17,34,65,54,74,9,24.76,86,27,Medium,75,1,100,Yes,64.4
+U0448,29,Male,Primary,Student,Low,Rural,50,26,42,95,61,87,10,20.01,70,21,Low,69,5,99,No,82.4
+U0449,27,Male,Primary,Unemployed,Low,Rural,0,48,33,31,95,65,11,20.67,67,18,Low,80,5,56,No,60.4
+U0450,27,Male,Secondary,Farmer,Low,Rural,42,39,6,86,85,51,13,23.05,83,14,Medium,100,2,84,No,75.2
+U0451,40,Male,High School,Student,Low,Rural,36,22,7,61,44,30,12,17.5,70,20,Low,64,2,68,Yes,46.6
+U0452,52,Male,Primary,Student,Medium,Semi-Rural,46,15,15,71,50,58,9,19.6,85,27,Medium,93,4,97,No,60.8
+U0453,45,Female,Primary,Unemployed,Low,Rural,49,5,42,79,33,75,13,28.41,90,22,Medium,71,2,81,No,64.0
+U0454,42,Female,High School,Student,Low,Rural,36,29,15,78,73,49,15,15.04,99,15,Medium,89,4,98,No,67.8
+U0455,34,Male,None,Self-Employed,Low,Rural,31,8,45,62,29,93,15,28.3,68,17,Medium,56,2,57,No,61.4
+U0456,29,Male,Secondary,Self-Employed,High,Rural,1,8,19,38,56,43,13,19.99,63,26,Medium,88,4,87,No,44.9
+U0457,26,Female,Secondary,Self-Employed,Low,Rural,29,24,48,78,61,71,14,12.23,67,21,Medium,71,3,70,No,70.8
+U0458,44,Male,High School,Unemployed,High,Rural,29,4,26,61,52,52,10,17.32,89,20,High,78,2,87,Yes,55.6
+U0459,42,Male,None,Unemployed,Medium,Rural,50,4,18,93,47,58,7,18.68,75,30,Medium,95,5,73,No,68.7
+U0460,37,Male,Primary,Other,Low,Rural,16,32,46,37,66,73,12,14.36,65,21,Medium,89,5,57,No,56.5
+U0461,51,Female,None,Unemployed,Low,Semi-Rural,25,19,40,64,45,74,13,28.57,63,10,Medium,86,1,73,No,61.3
+U0462,46,Female,None,Self-Employed,Low,Rural,18,41,29,63,85,50,11,28.5,90,20,Medium,89,5,92,No,65.7
+U0463,42,Female,Secondary,Student,Low,Rural,8,14,10,49,36,32,7,29.47,81,17,Medium,94,5,84,No,40.0
+U0464,37,Male,None,Unemployed,High,Rural,31,31,39,80,60,83,10,28.0,88,16,Medium,79,3,59,Yes,74.9
+U0465,32,Female,High School,Other,Medium,Semi-Rural,43,45,10,86,90,42,6,29.31,91,25,Medium,97,4,52,No,74.0
+U0466,43,Male,Secondary,Farmer,Low,Semi-Rural,13,6,14,62,28,61,6,26.63,100,21,Medium,74,3,94,No,51.5
+U0467,38,Male,None,Student,Low,Semi-Rural,41,50,4,91,70,53,15,12.41,68,22,Low,52,5,88,No,73.3
+U0468,25,Male,Primary,Student,Low,Rural,31,50,13,56,77,55,14,25.31,99,25,Low,86,2,77,No,62.0
+U0469,61,Male,High School,Other,Medium,Rural,9,31,17,49,77,66,5,22.48,61,23,High,74,5,69,No,62.5
+U0470,25,Female,Secondary,Farmer,Medium,Rural,8,36,29,44,64,72,12,17.26,98,14,Medium,59,4,58,No,58.4
+U0471,32,Female,Secondary,Student,Low,Rural,16,25,2,60,55,38,12,26.43,63,14,High,82,4,76,No,51.9
+U0472,33,Male,Primary,Self-Employed,Low,Semi-Rural,48,40,50,74,86,93,6,10.66,68,26,High,89,3,82,No,83.3
+U0473,56,Female,Primary,Unemployed,Medium,Rural,10,49,43,30,92,79,9,29.87,76,13,Low,82,2,51,No,63.3
+U0474,18,Female,High School,Farmer,Medium,Semi-Rural,27,9,45,60,54,71,14,15.98,63,24,Low,61,5,70,No,61.5
+U0475,25,Male,Primary,Student,Medium,Semi-Rural,24,17,11,60,54,55,15,23.1,89,23,Low,54,4,55,No,56.7
+U0476,53,Female,High School,Farmer,High,Semi-Rural,43,10,40,80,49,90,7,14.87,68,14,Medium,56,5,75,No,73.7
+U0477,21,Male,None,Student,Medium,Rural,31,32,39,62,63,65,6,16.9,65,23,Low,96,1,59,No,63.2
+U0478,45,Female,High School,Farmer,Low,Semi-Rural,29,48,33,63,89,58,14,15.8,97,20,Low,84,3,93,Yes,69.3
+U0479,42,Female,High School,Self-Employed,High,Semi-Rural,28,5,27,77,30,75,14,28.96,62,27,Medium,56,2,88,No,62.3
+U0480,34,Female,High School,Student,Low,Rural,36,38,49,63,85,74,10,16.14,82,19,High,71,1,77,No,72.9
+U0481,18,Other,High School,Unemployed,Low,Rural,31,11,36,54,37,68,13,26.1,95,15,Medium,80,2,93,No,53.1
+U0482,23,Female,Secondary,Other,Low,Semi-Rural,25,15,5,73,38,31,7,10.98,80,28,Medium,75,4,97,Yes,49.9
+U0483,29,Male,Secondary,Farmer,Low,Rural,6,21,5,42,70,27,15,20.32,81,28,High,59,1,99,No,45.9
+U0484,63,Female,Primary,Student,Low,Rural,45,5,31,81,44,78,9,27.85,90,28,Medium,56,5,53,No,69.0
+U0485,58,Female,High School,Unemployed,High,Semi-Rural,42,5,3,71,46,24,10,25.09,80,29,Low,78,1,79,No,49.4
+U0486,61,Other,High School,Student,Medium,Rural,15,50,21,39,90,61,8,25.03,78,16,Medium,61,4,53,Yes,60.9
+U0487,64,Female,High School,Self-Employed,Low,Rural,42,26,31,84,64,79,11,28.59,98,11,High,83,3,75,Yes,76.5
+U0488,19,Male,Primary,Unemployed,Medium,Rural,14,35,0,61,55,23,14,10.75,81,22,Medium,72,4,99,No,47.8
+U0489,46,Male,High School,Self-Employed,High,Rural,49,0,43,82,29,69,13,23.89,77,26,Low,80,4,73,No,62.2
+U0490,54,Male,Secondary,Other,Medium,Rural,14,40,20,51,75,55,11,20.6,98,19,Medium,70,3,81,No,59.4
+U0491,37,Female,High School,Unemployed,Low,Rural,35,19,7,67,60,48,12,22.44,73,26,High,61,4,60,No,59.2
+U0492,40,Other,High School,Other,Low,Rural,32,9,22,54,41,72,5,12.84,81,21,Medium,65,4,94,No,55.5
+U0493,47,Male,Secondary,Other,Low,Rural,33,33,41,72,79,74,9,15.07,84,12,Low,82,1,83,No,74.7
+U0494,28,Female,Primary,Other,Low,Semi-Rural,47,13,2,87,39,22,5,22.51,82,19,Low,61,1,73,Yes,53.1
+U0495,39,Male,None,Student,Medium,Semi-Rural,27,13,47,63,59,69,11,24.88,88,22,Low,86,5,98,Yes,63.6
+U0496,26,Male,High School,Farmer,Medium,Rural,0,11,18,32,34,63,5,17.71,68,15,Medium,57,1,91,No,41.9
+U0497,30,Female,None,Self-Employed,Low,Rural,19,3,41,67,40,72,7,24.95,73,21,Medium,78,2,82,Yes,60.4
+U0498,55,Female,Primary,Unemployed,Low,Semi-Rural,29,26,0,63,46,28,10,16.14,77,27,Low,74,5,80,No,47.4
+U0499,18,Male,Primary,Unemployed,Low,Rural,1,6,12,44,32,45,11,29.35,63,15,Medium,69,2,93,Yes,40.7
+U0500,22,Male,Secondary,Farmer,Low,Rural,14,9,4,44,59,40,8,17.93,85,23,Low,94,4,54,Yes,47.3
+U0501,64,Female,Primary,Self-Employed,Low,Rural,9,3,3,44,23,52,10,28.8,77,13,Medium,76,2,96,Yes,40.1
+U0502,48,Male,Primary,Unemployed,Low,Rural,49,48,35,71,79,80,10,20.36,81,24,Medium,67,4,96,No,76.1
+U0503,60,Male,Primary,Unemployed,Medium,Rural,36,45,13,71,72,47,9,19.44,88,27,High,82,4,79,No,64.1
+U0504,53,Female,Primary,Unemployed,Medium,Semi-Rural,33,13,33,77,54,62,14,18.38,95,11,Low,53,3,77,No,65.6
+U0505,27,Male,None,Student,Medium,Rural,30,2,41,53,34,72,6,23.75,76,20,Medium,95,2,86,No,53.0
+U0506,42,Other,High School,Unemployed,Low,Rural,5,0,8,33,23,51,13,19.87,95,23,Low,58,3,56,No,35.4
+U0507,49,Female,Primary,Other,Medium,Rural,46,25,35,80,75,78,14,14.06,63,25,High,87,3,63,No,77.9
+U0508,53,Male,Secondary,Other,Low,Semi-Rural,12,31,20,53,56,43,11,19.51,80,30,High,72,3,72,No,50.9
+U0509,42,Male,Secondary,Farmer,Medium,Rural,9,50,8,36,90,46,11,21.03,66,24,Low,91,3,52,Yes,55.2
+U0510,48,Female,High School,Student,Low,Rural,22,31,22,68,74,59,13,22.86,90,24,Medium,52,4,100,No,67.1
+U0511,20,Female,Secondary,Other,Low,Semi-Rural,7,36,34,51,56,70,8,10.07,97,25,Medium,89,2,55,No,58.2
+U0512,29,Other,Primary,Student,Low,Rural,40,2,35,86,38,72,5,16.55,91,18,High,97,1,61,No,67.4
+U0513,25,Female,None,Farmer,Low,Semi-Rural,23,3,11,61,34,61,10,23.27,63,14,High,76,3,100,No,52.9
+U0514,23,Other,High School,Student,Low,Rural,5,30,39,39,73,81,6,21.89,92,30,Low,73,5,82,No,61.8
+U0515,52,Other,High School,Other,Low,Semi-Rural,5,32,39,33,81,82,14,25.81,63,29,Medium,88,4,77,No,62.1
+U0516,40,Female,None,Unemployed,Low,Rural,20,10,43,53,54,67,10,25.56,86,14,Medium,58,5,68,No,57.5
+U0517,50,Female,High School,Student,High,Rural,36,9,6,59,43,50,6,22.19,95,29,Medium,76,5,58,No,51.5
+U0518,30,Male,Primary,Other,Low,Rural,40,6,23,62,28,69,9,25.48,78,23,Medium,93,1,72,No,53.9
+U0519,49,Male,Primary,Self-Employed,Low,Semi-Rural,39,22,37,83,43,59,8,15.52,93,21,High,96,5,60,No,63.8
+U0520,59,Female,High School,Farmer,Medium,Semi-Rural,42,3,4,87,52,30,12,14.23,82,19,High,56,1,85,No,59.4
+U0521,47,Male,Secondary,Student,Low,Semi-Rural,17,31,45,63,69,87,5,20.55,74,24,High,64,5,58,Yes,72.0
+U0522,32,Male,None,Unemployed,Low,Rural,24,2,11,46,23,39,8,21.63,83,30,Medium,68,1,54,Yes,37.0
+U0523,23,Female,High School,Student,Low,Semi-Rural,41,3,21,86,46,41,13,14.82,65,21,Low,52,3,80,No,60.5
+U0524,44,Other,Primary,Other,High,Rural,23,4,5,56,45,35,12,15.01,81,30,Low,53,3,91,No,46.4
+U0525,46,Female,Secondary,Farmer,Low,Semi-Rural,38,39,19,81,82,66,13,16.89,88,29,Low,64,3,59,No,76.8
+U0526,25,Female,Secondary,Unemployed,Low,Semi-Rural,1,14,4,25,46,52,10,16.61,76,12,Medium,78,2,97,Yes,39.4
+U0527,26,Female,Secondary,Self-Employed,Low,Rural,13,5,22,42,25,71,9,28.17,61,14,Medium,82,1,74,No,45.6
+U0528,31,Female,Primary,Other,Low,Rural,49,50,31,80,83,75,14,19.53,83,18,Low,72,1,79,No,79.4
+U0529,39,Female,Primary,Self-Employed,Low,Rural,30,44,31,66,93,80,14,17.27,87,30,Low,77,2,73,Yes,78.3
+U0530,58,Male,Primary,Student,Low,Rural,40,32,37,62,77,70,10,23.23,97,23,High,88,3,82,Yes,68.9
+U0531,25,Female,Primary,Unemployed,High,Rural,31,22,4,68,42,50,6,11.96,99,23,Medium,52,1,87,No,54.8
+U0532,40,Other,High School,Student,Low,Rural,15,6,36,55,50,58,11,25.48,99,10,Medium,68,2,63,No,54.4
+U0533,29,Male,Primary,Student,Low,Rural,25,46,30,50,92,70,6,24.02,75,23,Medium,99,2,100,No,68.6
+U0534,44,Female,High School,Self-Employed,Low,Semi-Rural,50,23,13,91,46,51,11,14.33,74,22,Low,62,4,56,No,65.5
+U0535,63,Female,Primary,Other,Low,Rural,18,28,49,42,69,89,14,10.51,99,23,Low,82,1,76,No,64.2
+U0536,20,Female,High School,Student,Low,Semi-Rural,22,14,14,63,44,61,6,23.23,60,11,Medium,68,2,73,Yes,56.7
+U0537,50,Female,High School,Student,Low,Rural,49,46,25,94,85,67,12,17.26,100,13,Medium,55,5,62,No,83.2
+U0538,18,Other,None,Unemployed,Low,Semi-Rural,34,41,24,63,62,63,7,20.41,62,11,Medium,76,2,65,Yes,62.7
+U0539,53,Female,None,Unemployed,Low,Rural,14,22,28,35,67,78,14,25.18,83,24,Low,61,3,82,No,57.5
+U0540,18,Other,High School,Self-Employed,High,Rural,12,11,36,60,58,63,8,23.02,65,27,Low,89,1,96,No,60.3
+U0541,52,Other,Secondary,Other,Low,Rural,14,1,50,53,36,79,10,23.52,99,19,Medium,76,1,80,No,55.7
+U0542,47,Male,Secondary,Unemployed,Medium,Rural,13,4,34,53,48,74,10,18.99,67,14,Medium,56,4,83,No,57.8
+U0543,49,Female,None,Unemployed,Medium,Rural,25,12,8,75,51,31,14,28.45,72,19,Medium,59,4,82,Yes,54.6
+U0544,41,Male,High School,Self-Employed,High,Rural,33,49,21,79,90,60,11,21.33,61,28,Medium,59,2,52,No,76.6
+U0545,47,Female,None,Student,Low,Semi-Rural,27,43,33,62,70,63,10,28.34,93,23,Low,100,3,92,No,64.7
+U0546,62,Female,Secondary,Unemployed,Low,Rural,33,24,35,61,61,80,11,29.48,75,24,High,60,5,94,No,66.7
+U0547,64,Male,Secondary,Self-Employed,Low,Rural,3,47,37,32,74,78,11,22.45,100,10,Medium,58,4,66,No,58.4
+U0548,34,Male,High School,Student,Medium,Semi-Rural,50,6,31,90,43,72,15,26.3,95,16,Low,62,5,83,No,70.5
+U0549,49,Female,Secondary,Unemployed,Medium,Rural,44,4,34,81,54,65,6,19.06,61,11,Low,94,3,59,Yes,68.1
+U0550,31,Female,None,Farmer,Medium,Rural,27,30,40,65,72,83,7,17.73,88,29,High,95,1,65,No,72.5
+U0551,45,Female,Secondary,Student,Medium,Rural,33,9,7,77,35,51,6,13.78,61,26,Medium,68,2,56,No,56.6
+U0552,34,Male,None,Unemployed,Medium,Semi-Rural,10,9,13,40,44,45,15,13.11,61,23,Low,56,2,72,No,42.7
+U0553,56,Male,Primary,Farmer,Low,Rural,13,36,7,57,57,40,9,18.86,89,21,Medium,55,2,86,No,51.9
+U0554,25,Male,None,Unemployed,Low,Rural,2,34,33,52,67,68,14,14.42,98,13,High,67,1,75,Yes,61.3
+U0555,35,Female,None,Self-Employed,Low,Semi-Rural,12,2,36,42,29,86,12,19.41,70,18,High,68,5,97,Yes,51.3
+U0556,38,Male,High School,Unemployed,High,Rural,0,41,26,31,66,72,10,29.55,79,18,Medium,87,3,78,No,53.8
+U0557,26,Female,Secondary,Self-Employed,Medium,Rural,47,29,11,85,53,48,9,25.59,69,22,High,62,3,98,No,64.3
+U0558,63,Male,High School,Other,High,Rural,28,22,28,57,66,64,11,25.57,99,10,Medium,78,4,93,Yes,61.8
+U0559,18,Female,Primary,Other,Medium,Semi-Rural,31,21,20,70,70,63,9,23.0,73,27,Medium,78,4,77,No,67.9
+U0560,61,Female,Primary,Unemployed,Low,Rural,24,18,49,53,60,87,6,19.69,79,11,High,97,4,96,No,65.3
+U0561,18,Female,Primary,Unemployed,Low,Semi-Rural,35,5,49,76,26,84,11,26.33,66,23,Medium,79,5,97,No,63.4
+U0562,57,Female,High School,Student,Low,Rural,32,48,28,66,78,56,8,15.23,71,27,Medium,92,5,83,No,66.6
+U0563,32,Female,Secondary,Student,High,Semi-Rural,26,31,9,46,74,32,5,17.37,88,15,Low,99,4,78,No,50.2
+U0564,30,Female,None,Self-Employed,Medium,Semi-Rural,21,36,18,51,64,56,7,11.1,65,17,Medium,61,4,78,No,56.4
+U0565,18,Male,Primary,Other,Low,Rural,33,38,10,60,84,60,14,12.9,82,17,Low,78,2,74,No,67.2
+U0566,24,Male,High School,Self-Employed,Medium,Semi-Rural,30,31,24,55,75,57,13,14.05,97,23,Medium,68,5,57,No,61.6
+U0567,49,Female,High School,Other,Low,Rural,11,46,38,37,72,70,15,15.6,62,10,Low,100,3,74,No,57.4
+U0568,56,Female,None,Student,Low,Rural,42,39,29,87,83,69,15,11.22,91,11,High,93,3,100,No,80.4
+U0569,28,Female,High School,Unemployed,Low,Rural,5,46,37,44,84,69,12,14.04,69,17,Medium,75,5,72,No,63.5
+U0570,61,Female,None,Other,Low,Rural,33,9,39,72,43,63,9,14.85,87,13,High,98,4,75,No,60.6
+U0571,57,Male,Secondary,Self-Employed,Low,Rural,47,15,44,89,57,75,14,20.41,66,18,Medium,56,4,98,Yes,75.2
+U0572,40,Female,Secondary,Unemployed,Low,Rural,8,47,0,48,81,29,6,27.44,67,11,Low,86,3,52,Yes,52.2
+U0573,36,Male,None,Other,Medium,Semi-Rural,14,5,14,53,48,56,8,13.91,67,11,Low,60,5,76,No,52.4
+U0574,34,Male,High School,Self-Employed,Low,Semi-Rural,11,42,46,55,79,88,5,11.37,69,23,High,88,2,95,Yes,72.1
+U0575,58,Male,None,Farmer,Low,Rural,8,46,14,49,72,57,7,16.01,91,26,Medium,54,2,81,No,58.3
+U0576,45,Male,High School,Self-Employed,Medium,Rural,3,34,25,35,73,50,14,24.5,86,19,Medium,76,2,79,Yes,50.9
+U0577,47,Male,Primary,Unemployed,Medium,Rural,36,32,39,80,63,72,7,29.27,81,10,Medium,54,5,78,No,72.5
+U0578,59,Male,Primary,Other,Low,Semi-Rural,50,35,48,88,61,74,14,11.58,79,13,Medium,87,5,68,No,75.7
+U0579,53,Male,High School,Farmer,Medium,Semi-Rural,4,16,7,45,40,43,10,11.99,71,17,Low,82,3,73,Yes,42.9
+U0580,35,Female,Secondary,Other,Low,Semi-Rural,11,25,1,41,55,45,10,15.02,87,20,Low,53,2,59,Yes,46.4
+U0581,27,Female,Primary,Student,Low,Rural,30,33,4,68,62,30,10,17.94,64,12,Medium,85,1,75,No,54.8
+U0582,37,Female,Primary,Unemployed,High,Rural,45,19,14,66,44,55,8,18.23,83,10,High,83,1,97,No,56.1
+U0583,54,Other,Primary,Unemployed,High,Rural,50,15,35,75,39,67,7,25.14,85,29,Medium,96,4,62,Yes,61.8
+U0584,55,Female,None,Unemployed,Low,Rural,16,24,10,53,61,56,7,16.22,74,15,High,53,3,86,Yes,56.3
+U0585,36,Male,High School,Self-Employed,Low,Rural,10,13,12,54,41,44,14,25.8,85,17,High,57,2,86,Yes,47.1
+U0586,56,Male,High School,Student,Low,Rural,40,5,15,86,47,47,6,13.66,73,14,High,54,1,64,No,62.6
+U0587,27,Male,None,Self-Employed,Medium,Rural,30,28,35,70,54,76,5,15.52,71,26,Medium,81,1,69,No,67.0
+U0588,47,Male,None,Other,High,Rural,21,49,25,55,98,61,6,17.84,64,12,High,90,5,62,No,69.7
+U0589,41,Female,High School,Student,Low,Rural,36,47,36,85,80,79,13,23.25,91,10,Medium,99,3,100,No,81.7
+U0590,28,Male,None,Farmer,Low,Rural,16,33,12,58,78,33,10,29.43,77,19,Medium,63,3,75,Yes,56.5
+U0591,44,Female,Secondary,Student,Low,Rural,45,1,26,86,50,48,7,29.22,95,27,Medium,93,4,53,No,63.8
+U0592,46,Male,Primary,Unemployed,Low,Rural,28,33,21,69,64,48,14,26.97,92,28,Medium,95,3,60,No,61.2
+U0593,59,Female,Secondary,Farmer,Medium,Semi-Rural,7,37,1,33,61,47,8,21.81,71,27,Medium,63,2,82,Yes,45.6
+U0594,22,Female,Secondary,Farmer,Low,Rural,16,37,3,47,67,38,12,23.64,62,22,Medium,54,5,67,Yes,50.3
+U0595,21,Female,None,Other,Low,Rural,17,18,49,51,39,96,5,20.58,65,27,Low,66,5,72,No,60.9
+U0596,27,Male,None,Other,High,Semi-Rural,10,37,35,43,79,85,7,25.62,76,14,Medium,55,1,96,No,66.4
+U0597,19,Male,Primary,Student,Medium,Rural,10,39,46,51,78,78,8,10.59,83,28,Medium,97,5,54,No,67.2
+U0598,50,Female,Secondary,Self-Employed,Medium,Rural,47,44,45,95,83,90,9,23.47,61,16,Low,83,3,90,Yes,89.9
+U0599,40,Female,Secondary,Farmer,Medium,Semi-Rural,39,45,34,74,85,76,8,24.34,94,14,Medium,54,3,93,No,77.9
+U0600,32,Male,Secondary,Unemployed,Low,Rural,22,8,29,49,44,72,5,15.7,82,12,Medium,77,5,83,No,54.4
+U0601,43,Male,High School,Other,Low,Rural,39,50,2,80,80,35,7,28.5,79,14,High,58,5,53,No,66.5
+U0602,23,Female,None,Self-Employed,Medium,Rural,5,19,27,54,45,69,7,16.05,84,12,Low,58,1,90,Yes,55.8
+U0603,35,Male,Secondary,Unemployed,Medium,Rural,2,25,49,49,57,94,14,14.33,62,22,Medium,79,2,66,No,64.9
+U0604,44,Male,High School,Self-Employed,Medium,Rural,7,28,0,32,59,44,7,21.7,89,20,Low,71,2,87,Yes,43.7
+U0605,18,Female,High School,Other,Low,Rural,18,50,23,46,84,54,11,20.81,84,19,Low,77,1,80,Yes,59.8
+U0606,61,Male,Primary,Other,Low,Rural,5,40,30,43,80,62,13,28.69,64,21,High,77,4,92,No,59.8
+U0607,62,Male,None,Farmer,Medium,Rural,6,30,10,47,80,45,13,29.86,83,15,Low,93,4,86,Yes,56.3
+U0608,61,Male,Secondary,Other,Low,Rural,13,34,26,61,65,60,12,10.64,62,24,Medium,77,2,88,No,61.9
+U0609,58,Other,Secondary,Farmer,Low,Rural,35,50,46,78,100,90,8,21.84,78,28,Low,64,1,51,Yes,88.2
+U0610,52,Female,Secondary,Other,High,Semi-Rural,41,20,14,73,70,54,7,23.46,99,16,Low,94,5,69,Yes,66.4
+U0611,46,Male,Primary,Self-Employed,Low,Rural,24,44,48,53,70,76,7,25.02,85,10,Low,82,2,78,No,65.0
+U0612,63,Female,High School,Unemployed,Low,Rural,35,46,12,85,96,61,9,29.75,64,27,Medium,55,3,80,No,81.1
+U0613,34,Male,Primary,Self-Employed,Low,Rural,43,33,12,75,71,55,11,22.24,63,14,Medium,88,5,94,No,67.8
+U0614,46,Other,Primary,Student,Medium,Rural,38,17,32,64,53,59,14,25.46,94,27,Medium,61,4,56,No,59.2
+U0615,60,Female,Secondary,Other,Low,Rural,34,41,24,66,72,61,9,24.9,87,14,Low,50,2,87,No,66.3
+U0616,37,Male,High School,Student,Low,Rural,1,19,24,37,40,59,7,20.55,91,15,Medium,94,4,94,Yes,44.5
+U0617,18,Male,Secondary,Farmer,Medium,Rural,25,22,3,59,55,45,14,25.55,66,18,Medium,60,2,86,Yes,53.6
+U0618,33,Female,High School,Self-Employed,Low,Rural,22,27,47,57,66,76,15,27.74,74,15,Medium,68,5,51,No,65.4
+U0619,57,Female,Primary,Unemployed,High,Rural,36,6,9,69,30,56,9,25.66,87,22,Medium,51,2,79,No,53.4
+U0620,36,Male,Primary,Farmer,High,Rural,33,31,29,77,53,70,5,20.37,76,22,Low,66,5,74,No,67.7
+U0621,39,Male,High School,Other,Low,Rural,8,3,6,45,40,50,15,15.95,92,17,Medium,97,5,97,No,45.0
+U0622,25,Female,None,Unemployed,High,Rural,47,6,40,94,44,86,8,20.35,88,19,Medium,70,4,90,Yes,76.6
+U0623,34,Other,None,Self-Employed,Low,Semi-Rural,38,26,37,78,70,66,8,18.01,77,15,Low,96,1,72,No,72.0
+U0624,49,Other,High School,Farmer,Low,Rural,26,19,44,49,69,78,8,28.76,66,21,Medium,72,5,60,No,63.7
+U0625,26,Male,High School,Unemployed,Medium,Semi-Rural,41,43,10,84,77,31,13,28.17,85,30,Medium,78,4,59,Yes,66.0
+U0626,47,Female,High School,Farmer,Medium,Rural,46,20,20,92,60,47,7,25.14,88,18,Medium,59,1,53,No,68.9
+U0627,41,Male,High School,Student,Medium,Semi-Rural,15,27,16,50,56,60,15,23.65,100,19,Low,76,4,100,No,54.8
+U0628,31,Other,High School,Farmer,Low,Rural,18,46,26,48,76,53,6,12.01,100,18,High,51,2,61,No,57.9
+U0629,28,Male,Secondary,Unemployed,Medium,Rural,21,41,9,59,62,57,8,21.02,65,27,Medium,99,4,51,No,59.3
+U0630,40,Male,High School,Farmer,Low,Rural,6,47,28,48,67,58,13,26.78,93,15,Medium,81,4,79,Yes,56.7
+U0631,52,Female,Secondary,Unemployed,Low,Rural,14,43,21,58,71,45,5,14.84,76,23,Medium,59,1,74,No,58.0
+U0632,30,Female,None,Farmer,Medium,Semi-Rural,44,45,45,77,78,87,9,17.75,93,17,High,84,4,54,No,80.3
+U0633,62,Female,None,Student,Low,Semi-Rural,16,21,37,41,65,61,11,12.94,73,11,High,93,3,69,No,54.2
+U0634,51,Male,High School,Self-Employed,High,Rural,48,31,0,87,57,38,5,17.53,93,14,Low,83,4,74,No,63.3
+U0635,36,Male,None,Unemployed,Medium,Rural,1,9,48,33,57,98,10,16.78,93,29,Medium,88,4,64,No,59.7
+U0636,62,Male,High School,Self-Employed,Medium,Semi-Rural,25,39,14,61,67,61,7,17.94,75,23,Medium,97,2,56,No,62.8
+U0637,23,Male,High School,Other,Low,Rural,4,34,44,49,75,71,10,16.0,94,21,Medium,99,1,96,Yes,63.4
+U0638,57,Female,High School,Unemployed,Low,Rural,39,20,37,87,50,82,15,11.77,77,25,Medium,96,1,98,No,74.4
+U0639,30,Female,Primary,Unemployed,Medium,Rural,6,27,26,45,64,46,15,12.46,69,27,Medium,100,1,75,No,51.0
+U0640,42,Female,Primary,Unemployed,Low,Rural,48,7,23,87,41,44,13,11.6,89,12,Medium,80,5,88,No,60.3
+U0641,26,Female,None,Student,Low,Semi-Rural,2,18,37,23,53,77,10,20.49,90,28,Medium,58,5,84,No,48.2
+U0642,44,Female,Primary,Farmer,High,Rural,45,11,42,67,33,91,12,28.37,91,18,Low,81,3,56,No,64.0
+U0643,40,Female,None,Other,Medium,Rural,2,5,25,45,31,53,13,25.28,89,26,Low,80,3,94,No,43.2
+U0644,45,Male,High School,Farmer,Medium,Rural,9,32,45,58,65,66,7,19.15,71,30,High,97,1,87,Yes,62.5
+U0645,41,Female,High School,Unemployed,Low,Rural,23,1,41,69,21,69,11,23.69,85,28,Medium,93,3,69,No,54.6
+U0646,56,Male,High School,Unemployed,Low,Rural,41,46,7,71,74,31,11,15.06,84,28,Medium,94,2,55,Yes,59.9
+U0647,49,Female,Primary,Other,High,Rural,15,50,32,55,97,82,5,21.77,71,11,High,54,3,86,Yes,75.7
+U0648,19,Male,Primary,Student,Low,Rural,21,43,34,54,82,55,6,29.41,76,11,Low,62,2,84,No,62.7
+U0649,24,Female,Primary,Other,Low,Rural,19,13,23,65,40,72,14,28.11,66,24,High,81,3,64,No,59.6
+U0650,44,Male,Secondary,Farmer,Low,Rural,6,6,45,38,54,86,12,26.93,65,21,Medium,69,1,73,Yes,57.2
+U0651,19,Female,Secondary,Unemployed,Low,Semi-Rural,36,38,1,65,67,36,6,11.02,93,28,High,54,2,100,Yes,56.9
+U0652,52,Female,Primary,Student,High,Rural,35,21,35,82,54,59,9,10.11,67,25,Low,61,4,72,Yes,66.7
+U0653,55,Male,Secondary,Self-Employed,Low,Rural,30,43,42,79,79,62,11,26.92,75,11,Low,79,1,73,Yes,73.9
+U0654,27,Other,Primary,Unemployed,High,Rural,13,30,10,54,63,34,7,22.52,66,18,Low,100,5,58,Yes,50.7
+U0655,61,Female,None,Student,Low,Semi-Rural,36,4,18,79,50,50,15,26.7,100,19,Low,51,5,67,Yes,61.6
+U0656,31,Female,Primary,Farmer,Low,Rural,22,24,39,67,65,71,5,12.62,91,25,Medium,86,2,56,No,67.6
+U0657,49,Female,None,Unemployed,High,Semi-Rural,32,37,2,55,64,42,5,28.36,82,27,Medium,70,2,68,No,53.8
+U0658,61,Male,Secondary,Self-Employed,Low,Semi-Rural,49,36,50,81,81,81,15,30.0,96,15,Low,57,2,97,No,81.0
+U0659,59,Other,High School,Unemployed,Low,Rural,3,20,31,30,53,60,7,10.51,85,21,Low,66,1,58,No,45.9
+U0660,25,Male,Primary,Farmer,Low,Rural,27,9,23,65,55,43,10,26.83,72,25,Medium,83,1,70,No,55.4
+U0661,19,Female,High School,Unemployed,Low,Semi-Rural,37,10,17,83,49,48,7,18.59,71,23,Medium,79,4,69,No,62.3
+U0662,38,Male,Secondary,Unemployed,Medium,Rural,38,49,50,61,92,84,13,28.27,95,21,Medium,95,3,55,No,77.2
+U0663,53,Female,High School,Student,High,Rural,10,14,38,47,44,84,8,28.14,69,29,Medium,66,5,90,No,57.2
+U0664,50,Female,Secondary,Unemployed,Medium,Rural,17,20,8,37,64,29,13,14.1,94,20,Medium,99,2,59,No,42.7
+U0665,51,Male,Primary,Self-Employed,Low,Rural,27,17,41,55,44,85,15,10.78,77,28,Low,59,4,90,No,60.7
+U0666,18,Male,None,Farmer,Low,Rural,20,1,0,63,37,30,15,15.01,87,11,Medium,68,1,84,No,45.3
+U0667,39,Male,High School,Farmer,Medium,Semi-Rural,16,48,8,45,92,58,10,26.1,100,26,Medium,66,3,86,No,63.0
+U0668,35,Female,None,Other,Medium,Rural,37,12,11,67,47,43,6,25.19,81,10,Low,92,4,95,No,53.8
+U0669,31,Other,High School,Unemployed,Low,Rural,24,44,48,73,94,81,6,21.47,89,22,Low,67,1,55,Yes,81.7
+U0670,60,Male,None,Unemployed,Low,Semi-Rural,24,4,37,48,36,59,7,10.17,64,28,Low,87,4,95,Yes,47.7
+U0671,21,Female,Secondary,Other,Medium,Rural,42,17,16,72,41,40,11,29.53,76,22,High,75,5,68,No,53.1
+U0672,23,Male,None,Unemployed,Low,Rural,34,40,42,81,73,65,6,16.12,67,10,Low,87,1,81,No,73.8
+U0673,40,Female,Primary,Unemployed,Low,Rural,14,12,46,63,44,92,11,13.46,79,29,Low,91,1,67,No,66.0
+U0674,63,Other,None,Farmer,Low,Rural,30,11,6,79,53,39,15,12.86,78,28,High,68,3,51,Yes,59.2
+U0675,59,Female,None,Farmer,Low,Rural,15,41,14,57,88,39,12,17.06,73,13,Medium,90,3,52,Yes,60.9
+U0676,21,Female,None,Unemployed,Low,Rural,17,24,29,52,54,62,9,22.6,64,30,Low,97,1,93,No,55.6
+U0677,47,Female,Secondary,Other,Low,Rural,23,28,47,66,71,82,6,11.18,79,28,High,90,3,86,No,72.3
+U0678,31,Male,Primary,Student,High,Semi-Rural,37,15,41,75,62,79,7,15.69,96,11,Medium,72,4,60,No,72.3
+U0679,46,Male,High School,Other,High,Rural,9,48,20,51,85,60,12,12.24,96,14,Low,83,2,60,No,63.9
+U0680,59,Male,Secondary,Unemployed,Medium,Semi-Rural,4,16,21,50,39,57,7,19.32,67,11,Low,65,2,77,No,48.8
+U0681,29,Female,Primary,Unemployed,Low,Rural,44,16,2,69,43,48,6,27.63,81,26,Medium,59,1,85,No,54.9
+U0682,25,Male,Primary,Unemployed,Medium,Rural,7,2,22,34,24,62,14,29.12,63,20,Low,89,2,54,No,39.4
+U0683,51,Female,High School,Farmer,Low,Semi-Rural,35,16,15,74,50,56,11,16.95,70,30,Low,71,3,81,Yes,61.4
+U0684,42,Female,Primary,Other,High,Semi-Rural,18,26,44,64,51,91,8,14.56,80,30,High,60,3,74,No,68.2
+U0685,26,Male,High School,Self-Employed,Low,Semi-Rural,13,6,35,61,26,56,10,13.99,76,20,Medium,81,5,90,No,49.0
+U0686,49,Other,High School,Farmer,Medium,Rural,45,26,29,95,64,53,8,10.62,76,11,Medium,54,2,56,No,73.1
+U0687,57,Female,High School,Farmer,Low,Semi-Rural,36,2,37,86,27,58,15,15.07,74,18,Medium,94,1,84,No,59.9
+U0688,56,Male,None,Farmer,Low,Semi-Rural,34,50,19,70,84,40,6,12.3,62,22,Low,72,5,85,No,65.2
+U0689,29,Male,High School,Unemployed,Low,Semi-Rural,10,26,50,34,76,78,5,19.71,82,10,High,65,3,55,No,59.8
+U0690,55,Other,Primary,Student,Medium,Rural,1,33,0,39,71,36,6,17.75,76,24,Medium,84,3,83,Yes,47.7
+U0691,57,Male,Secondary,Student,Low,Semi-Rural,8,49,26,52,73,74,8,13.47,69,16,Low,52,3,96,No,64.9
+U0692,62,Male,None,Self-Employed,High,Semi-Rural,12,30,20,37,72,51,10,27.89,94,24,Medium,53,4,66,No,51.7
+U0693,58,Male,Secondary,Unemployed,Low,Rural,2,45,1,23,80,51,8,10.56,98,29,Medium,58,4,84,No,48.5
+U0694,43,Female,None,Student,High,Rural,27,19,46,66,53,90,14,10.53,71,26,Low,66,1,99,No,69.3
+U0695,27,Female,High School,Student,Low,Rural,24,29,8,57,65,42,8,27.82,84,20,Medium,90,4,62,Yes,54.9
+U0696,34,Male,High School,Other,Low,Rural,37,1,42,67,21,78,13,13.73,93,15,High,53,1,82,Yes,56.5
+U0697,47,Male,Primary,Student,Low,Rural,6,32,0,44,67,34,10,27.0,98,18,Medium,95,5,89,No,47.9
+U0698,39,Female,Primary,Farmer,Low,Rural,9,11,36,36,49,72,5,25.25,98,30,Medium,90,1,60,No,50.7
+U0699,19,Male,None,Unemployed,Medium,Rural,18,45,37,42,76,70,5,14.57,67,15,Medium,55,3,83,No,60.6
+U0700,45,Other,High School,Unemployed,Low,Rural,44,2,20,65,40,55,8,19.66,75,18,Medium,70,3,81,No,54.5
+U0701,35,Female,None,Self-Employed,Low,Rural,39,17,9,80,45,30,7,19.74,89,17,Medium,83,4,96,No,54.5
+U0702,46,Male,High School,Other,Low,Rural,18,41,6,48,74,31,12,17.47,98,20,High,70,3,64,No,50.7
+U0703,45,Male,Primary,Student,Low,Rural,17,6,13,42,46,45,5,26.81,77,20,Medium,84,4,59,No,44.1
+U0704,51,Other,None,Unemployed,Medium,Rural,49,22,23,84,57,56,11,21.2,72,12,Low,63,5,82,Yes,67.5
+U0705,42,Other,Secondary,Unemployed,Low,Rural,27,50,5,67,89,40,13,21.76,70,28,Medium,58,4,98,No,65.5
+U0706,56,Male,None,Self-Employed,High,Semi-Rural,42,30,28,82,63,48,7,15.78,90,22,Medium,69,1,81,No,66.1
+U0707,50,Male,Primary,Other,Medium,Rural,7,36,27,45,68,76,15,14.8,69,24,High,67,4,80,No,61.2
+U0708,34,Male,High School,Farmer,Medium,Rural,49,30,47,86,74,75,10,12.34,62,14,Medium,59,3,51,Yes,79.1
+U0709,45,Male,Secondary,Other,Medium,Rural,36,18,39,86,64,68,7,25.76,82,15,Low,69,3,94,No,74.0
+U0710,43,Female,Primary,Student,Low,Rural,33,14,13,72,34,50,15,10.33,79,20,Medium,79,5,85,No,54.0
+U0711,47,Male,None,Unemployed,Low,Rural,27,37,46,77,84,91,8,11.38,74,10,Low,93,2,96,No,83.3
+U0712,59,Male,Primary,Student,Low,Rural,19,10,8,45,55,45,15,26.08,60,19,Medium,61,5,88,No,48.0
+U0713,39,Female,High School,Self-Employed,Low,Semi-Rural,25,3,49,73,25,76,13,29.83,85,29,Medium,87,3,64,No,59.5
+U0714,58,Male,High School,Unemployed,Low,Rural,48,17,14,80,42,48,11,26.15,91,11,Medium,69,5,78,Yes,59.0
+U0715,20,Female,None,Other,Medium,Semi-Rural,3,9,22,35,30,50,13,21.31,69,30,Medium,70,4,94,Yes,38.0
+U0716,25,Male,Primary,Farmer,High,Rural,12,43,45,39,80,69,7,15.01,65,23,Low,99,1,67,No,60.3
+U0717,45,Female,Secondary,Unemployed,Medium,Rural,44,48,26,88,69,61,10,22.75,86,20,Low,51,1,88,Yes,74.2
+U0718,60,Male,Secondary,Student,Medium,Semi-Rural,8,44,34,35,87,57,12,19.73,94,30,High,100,5,84,No,57.2
+U0719,52,Female,Secondary,Student,Low,Rural,30,0,24,69,32,74,15,10.51,73,27,Low,59,1,82,No,59.4
+U0720,30,Female,Primary,Unemployed,Medium,Rural,2,46,24,27,77,72,5,13.55,61,19,Medium,69,2,95,No,55.5
+U0721,52,Female,Primary,Unemployed,Low,Rural,44,9,49,80,51,97,5,10.33,95,18,Medium,75,3,95,Yes,76.4
+U0722,49,Female,Primary,Farmer,Low,Rural,9,19,8,51,48,45,11,20.91,99,20,High,84,3,88,Yes,48.3
+U0723,34,Other,None,Farmer,Medium,Rural,6,33,16,53,82,61,5,19.26,93,28,Medium,71,3,92,No,64.1
+U0724,54,Female,None,Other,Low,Rural,47,9,21,67,52,54,13,15.64,93,19,Low,99,1,86,Yes,58.6
+U0725,55,Female,Primary,Farmer,Low,Rural,29,8,48,59,37,81,11,19.3,77,28,Medium,61,2,59,No,59.0
+U0726,29,Female,None,Self-Employed,High,Semi-Rural,6,0,45,51,29,91,12,20.0,87,22,Low,85,3,78,Yes,56.4
+U0727,23,Male,None,Student,Low,Rural,47,29,4,96,62,51,6,22.65,91,27,Low,98,2,59,No,72.3
+U0728,46,Other,Primary,Student,Low,Rural,32,43,43,68,79,71,9,26.09,85,25,Low,58,5,93,No,72.2
+U0729,36,Male,Secondary,Other,High,Semi-Rural,41,42,8,74,78,54,15,16.99,68,22,High,52,4,63,Yes,69.2
+U0730,46,Male,None,Farmer,Medium,Rural,27,1,0,69,25,32,9,10.45,90,24,Low,98,1,91,No,44.7
+U0731,64,Female,Secondary,Unemployed,Medium,Rural,2,0,18,36,46,54,13,17.07,74,16,Low,79,1,66,No,44.4
+U0732,56,Other,Primary,Student,Low,Rural,40,44,13,82,79,60,14,17.57,77,15,Medium,93,1,86,No,74.5
+U0733,34,Female,Primary,Student,Medium,Rural,1,8,29,47,43,56,13,29.5,98,29,Medium,69,4,92,No,48.5
+U0734,54,Other,None,Self-Employed,Medium,Semi-Rural,31,11,15,59,45,52,7,12.43,84,26,Medium,52,4,57,No,52.7
+U0735,31,Male,None,Other,Low,Rural,2,13,48,35,40,77,5,24.03,65,21,Low,75,3,87,No,49.1
+U0736,51,Female,Secondary,Other,Low,Rural,42,30,38,65,61,87,7,26.6,65,25,Medium,53,2,73,No,70.4
+U0737,45,Male,High School,Self-Employed,Low,Rural,10,7,36,45,44,64,8,23.04,96,11,High,52,1,86,Yes,50.4
+U0738,22,Female,Secondary,Farmer,Low,Semi-Rural,49,20,14,98,41,45,12,12.24,67,18,Low,81,4,85,No,65.0
+U0739,20,Male,Secondary,Other,Low,Rural,37,21,6,62,55,31,8,29.21,64,10,Medium,71,3,98,No,50.6
+U0740,21,Other,Secondary,Unemployed,Low,Rural,13,4,41,52,24,68,15,28.7,93,21,High,64,1,80,No,48.4
+U0741,29,Female,None,Farmer,Low,Rural,43,32,16,91,63,44,12,10.59,81,18,Medium,89,5,77,Yes,68.5
+U0742,48,Female,Secondary,Other,Low,Semi-Rural,38,4,45,79,25,75,8,23.95,100,29,High,65,5,82,No,61.6
+U0743,47,Male,Secondary,Self-Employed,Medium,Rural,35,11,35,58,58,83,12,12.75,91,29,High,90,4,95,No,65.5
+U0744,28,Other,Secondary,Farmer,Low,Rural,0,27,29,33,53,72,13,15.26,63,13,High,53,2,78,No,50.7
+U0745,63,Other,None,Unemployed,Medium,Semi-Rural,36,27,50,68,48,79,14,21.51,76,16,Medium,84,2,58,No,65.3
+U0746,45,Male,High School,Student,Low,Semi-Rural,24,19,12,60,54,46,15,17.75,93,22,Low,55,2,77,Yes,54.0
+U0747,60,Male,High School,Other,High,Rural,6,4,8,34,43,30,14,21.61,64,16,High,95,2,88,Yes,35.5
+U0748,50,Female,Secondary,Self-Employed,Low,Semi-Rural,23,30,17,70,76,65,12,20.35,61,25,Low,73,3,69,No,70.3
+U0749,27,Female,High School,Unemployed,Medium,Semi-Rural,8,50,23,54,76,53,12,23.92,91,12,High,67,1,74,No,60.3
+U0750,18,Male,None,Other,Medium,Rural,15,5,17,37,51,62,11,19.7,81,26,Low,66,4,69,Yes,48.7
+U0751,22,Male,None,Farmer,Low,Semi-Rural,9,38,14,31,62,39,14,11.17,80,17,Medium,77,4,75,Yes,42.7
+U0752,26,Female,Secondary,Self-Employed,Medium,Semi-Rural,17,48,3,61,85,23,9,12.39,91,23,Medium,90,5,62,Yes,56.8
+U0753,50,Male,Primary,Other,Low,Rural,45,16,41,89,64,86,5,21.48,71,10,Medium,71,1,70,No,80.6
+U0754,32,Female,Primary,Other,Low,Rural,5,9,17,48,54,47,7,10.45,87,23,Medium,69,3,91,Yes,49.5
+U0755,36,Female,Secondary,Farmer,High,Semi-Rural,19,14,36,56,47,71,11,18.35,67,18,Medium,98,3,98,No,57.8
+U0756,45,Female,Primary,Unemployed,Medium,Rural,46,46,35,82,88,83,6,12.03,67,28,Low,73,4,73,No,84.1
+U0757,23,Female,Primary,Student,High,Rural,17,41,36,54,90,58,11,17.03,78,21,High,54,5,82,No,66.0
+U0758,54,Female,None,Farmer,Medium,Semi-Rural,21,29,23,65,61,45,11,28.85,96,13,Medium,76,4,89,Yes,57.8
+U0759,34,Female,High School,Other,Low,Rural,23,37,4,47,87,52,9,17.21,93,30,Low,71,3,84,Yes,60.5
+U0760,51,Other,Secondary,Student,Medium,Semi-Rural,50,15,27,75,37,74,5,19.74,98,14,Medium,69,5,95,No,63.3
+U0761,24,Female,High School,Self-Employed,Low,Rural,7,50,29,28,71,61,9,23.57,76,12,High,61,4,87,No,50.8
+U0762,40,Female,Primary,Self-Employed,Low,Rural,27,44,10,67,85,32,5,17.13,92,24,High,54,4,64,No,61.9
+U0763,25,Male,Secondary,Unemployed,Low,Rural,27,42,27,69,81,69,8,11.33,73,24,Low,68,5,58,Yes,72.6
+U0764,26,Female,High School,Farmer,Medium,Semi-Rural,20,39,1,42,82,39,6,20.88,97,11,Low,65,4,92,No,53.1
+U0765,24,Female,High School,Student,Low,Rural,31,29,35,68,61,68,9,14.23,85,20,Low,68,1,60,No,65.9
+U0766,34,Male,High School,Other,Low,Rural,5,30,36,50,80,61,6,16.88,72,11,High,54,1,79,Yes,62.3
+U0767,30,Male,None,Self-Employed,High,Rural,48,3,34,76,35,82,13,19.4,84,12,Low,73,4,74,Yes,65.5
+U0768,61,Male,High School,Self-Employed,High,Rural,4,39,16,37,87,44,7,24.79,76,13,High,74,2,68,No,54.1
+U0769,25,Female,Primary,Other,Low,Rural,30,42,24,72,87,70,6,16.83,73,16,Medium,94,1,75,No,75.9
+U0770,56,Male,Primary,Other,Low,Rural,23,1,4,47,41,28,13,24.79,96,16,Medium,76,5,71,No,39.5
+U0771,52,Female,Primary,Student,Low,Rural,50,41,3,89,81,49,14,28.03,63,15,Low,74,3,75,No,74.6
+U0772,24,Male,Primary,Unemployed,High,Semi-Rural,47,2,5,83,48,25,5,16.03,87,12,High,95,5,81,No,55.1
+U0773,29,Male,None,Unemployed,Medium,Rural,28,48,31,73,94,77,6,16.5,65,22,High,59,3,70,No,80.5
+U0774,46,Female,High School,Farmer,High,Rural,25,25,38,65,52,71,15,13.56,86,23,Medium,89,2,92,No,62.9
+U0775,51,Female,Secondary,Student,Low,Rural,29,8,15,73,58,65,14,17.07,90,22,Medium,86,5,73,No,66.1
+U0776,23,Female,Primary,Unemployed,High,Rural,19,8,20,63,55,64,11,24.38,93,30,High,68,4,66,Yes,60.9
+U0777,26,Female,Primary,Farmer,Low,Rural,43,7,21,90,46,51,14,14.71,99,26,Medium,79,5,58,No,65.1
+U0778,62,Male,Primary,Student,Medium,Semi-Rural,26,43,16,58,80,42,15,29.57,98,21,Low,63,4,73,No,59.8
+U0779,29,Female,Secondary,Student,Low,Semi-Rural,18,36,17,38,77,64,13,20.62,86,20,High,57,4,65,Yes,57.5
+U0780,42,Male,None,Self-Employed,High,Rural,4,15,41,43,46,91,7,16.64,73,30,Low,68,5,78,No,58.3
+U0781,26,Male,None,Farmer,Medium,Rural,19,36,10,59,79,32,14,22.44,94,12,Low,93,3,90,No,56.9
+U0782,55,Male,None,Other,Low,Semi-Rural,21,43,43,42,78,76,9,26.42,64,12,Medium,78,2,95,No,63.0
+U0783,60,Female,Primary,Student,Low,Rural,6,46,35,47,71,60,8,13.41,97,12,Medium,97,5,69,No,58.1
+U0784,48,Female,High School,Self-Employed,Low,Rural,5,11,31,52,43,79,8,17.62,91,30,High,55,1,69,No,57.4
+U0785,51,Male,High School,Unemployed,Medium,Semi-Rural,44,15,28,81,62,67,5,25.38,68,27,Medium,81,5,96,No,71.1
+U0786,40,Female,High School,Unemployed,Medium,Semi-Rural,4,32,12,41,56,50,7,19.51,72,21,High,99,3,96,No,48.2
+U0787,59,Female,High School,Self-Employed,High,Semi-Rural,44,20,16,80,54,60,12,13.17,92,22,High,75,1,80,No,66.2
+U0788,61,Female,Primary,Farmer,Medium,Rural,2,49,39,49,97,88,5,17.19,82,19,Low,92,5,66,No,75.1
+U0789,57,Male,Secondary,Unemployed,Medium,Rural,38,26,24,68,56,49,14,17.15,75,22,Medium,83,5,98,No,58.7
+U0790,32,Male,Secondary,Farmer,High,Semi-Rural,30,8,1,70,37,34,7,28.92,62,12,Low,95,4,95,No,49.3
+U0791,18,Male,Secondary,Other,Low,Rural,34,42,19,80,63,55,10,18.65,64,27,Low,63,4,98,No,67.4
+U0792,61,Male,High School,Self-Employed,Medium,Semi-Rural,49,25,7,93,56,44,8,13.33,61,20,Medium,53,5,61,No,67.2
+U0793,50,Other,Secondary,Farmer,High,Semi-Rural,31,45,47,51,66,78,10,27.22,72,30,Medium,92,2,79,No,63.6
+U0794,21,Male,Primary,Other,Low,Semi-Rural,4,2,49,46,36,91,6,14.07,95,12,High,65,5,88,Yes,56.5
+U0795,54,Female,Secondary,Unemployed,Low,Rural,37,42,21,63,91,44,7,12.03,61,24,Low,66,1,58,No,65.7
+U0796,19,Female,Primary,Other,High,Rural,27,5,37,65,35,86,6,19.2,76,20,Medium,88,1,57,No,62.3
+U0797,36,Male,Secondary,Student,Medium,Semi-Rural,27,27,8,63,77,46,13,22.89,77,17,Low,100,3,54,No,62.1
+U0798,22,Female,None,Self-Employed,Medium,Rural,40,20,48,82,42,86,12,29.84,64,27,Low,89,3,87,No,71.2
+U0799,23,Female,None,Farmer,Low,Rural,11,11,36,33,59,64,14,13.44,64,13,Low,96,2,53,No,50.1
+U0800,20,Male,Primary,Self-Employed,Medium,Rural,16,45,0,37,71,32,8,28.22,79,22,Medium,63,2,63,Yes,45.7
+U0801,55,Male,High School,Other,Low,Rural,5,36,29,55,86,50,12,28.24,63,17,Medium,76,5,92,No,62.8
+U0802,62,Male,High School,Unemployed,Low,Rural,46,29,14,82,56,52,12,12.15,74,22,Low,87,5,79,No,65.2
+U0803,49,Female,Secondary,Farmer,Low,Semi-Rural,40,34,31,87,64,67,14,14.85,64,23,High,98,2,98,Yes,74.1
+U0804,63,Female,Secondary,Student,Low,Rural,46,13,38,68,63,67,11,29.96,62,28,High,62,3,75,No,66.2
+U0805,27,Male,Primary,Other,Low,Rural,4,50,1,54,92,28,5,18.46,67,14,High,58,2,64,Yes,57.6
+U0806,38,Female,Primary,Farmer,Low,Semi-Rural,31,0,46,69,38,88,5,21.69,78,10,Low,54,2,57,Yes,65.4
+U0807,35,Male,None,Farmer,Medium,Semi-Rural,30,21,21,52,48,64,12,21.19,92,15,Medium,79,5,64,No,54.4
+U0808,46,Female,Secondary,Unemployed,Low,Rural,17,16,12,55,37,60,15,18.85,70,18,Low,58,2,82,Yes,51.1
+U0809,46,Female,Secondary,Unemployed,Low,Rural,12,49,18,38,92,65,13,15.22,83,19,High,53,2,84,No,62.3
+U0810,23,Male,Primary,Self-Employed,Medium,Rural,43,8,15,76,53,36,13,19.33,93,13,Low,98,2,98,Yes,57.1
+U0811,43,Female,Secondary,Unemployed,Low,Rural,18,20,42,43,61,64,7,14.35,94,21,Low,68,2,52,Yes,54.7
+U0812,46,Female,Secondary,Unemployed,High,Semi-Rural,35,28,5,72,55,32,12,17.89,81,10,Medium,100,2,65,No,54.9
+U0813,27,Female,None,Farmer,Low,Semi-Rural,22,44,45,59,87,85,12,22.48,98,11,Medium,58,2,66,No,75.2
+U0814,19,Male,Secondary,Self-Employed,Medium,Rural,35,19,44,63,68,70,13,10.64,97,15,Low,62,2,78,No,66.6
+U0815,19,Male,None,Other,High,Semi-Rural,20,36,20,46,69,54,14,25.99,86,12,Medium,57,4,50,Yes,55.3
+U0816,36,Female,Primary,Student,High,Rural,10,29,26,50,57,46,13,20.5,100,15,Medium,85,4,54,Yes,50.9
+U0817,31,Male,High School,Other,High,Rural,5,7,13,46,28,62,11,15.16,74,13,High,76,1,57,Yes,45.4
+U0818,33,Male,None,Student,Low,Rural,0,0,23,33,23,72,12,17.31,96,23,Medium,56,5,51,Yes,41.7
+U0819,29,Male,Primary,Unemployed,Low,Semi-Rural,38,36,38,71,73,80,8,11.95,73,13,Low,78,2,75,No,74.3
+U0820,59,Female,Primary,Unemployed,Medium,Rural,41,48,16,87,79,50,15,15.18,92,28,Medium,64,1,75,No,73.5
+U0821,42,Female,High School,Farmer,Medium,Rural,13,30,8,33,54,44,5,21.78,96,10,Medium,62,3,85,Yes,42.6
+U0822,18,Female,Secondary,Farmer,Low,Rural,7,20,40,32,40,76,11,15.66,65,28,Low,74,5,74,No,47.6
+U0823,38,Male,Primary,Unemployed,Low,Rural,48,48,31,77,78,55,14,16.2,91,27,Medium,100,2,99,Yes,70.7
+U0824,42,Female,None,Unemployed,Low,Rural,11,21,30,35,57,75,9,25.63,80,18,High,65,3,67,No,53.6
+U0825,27,Female,Primary,Student,Low,Semi-Rural,18,23,47,47,72,79,13,29.36,92,17,Medium,63,2,64,No,64.1
+U0826,40,Male,Primary,Student,High,Semi-Rural,23,31,23,71,56,68,15,22.88,81,10,Low,88,5,98,No,65.6
+U0827,62,Male,Primary,Farmer,Medium,Semi-Rural,26,18,31,61,43,73,8,10.38,78,30,Low,87,4,88,No,59.2
+U0828,30,Male,Primary,Unemployed,High,Semi-Rural,24,29,27,61,57,50,7,22.59,82,24,Medium,62,3,61,Yes,56.5
+U0829,57,Female,Secondary,Student,Low,Semi-Rural,36,41,16,80,63,66,13,12.6,98,24,High,52,1,88,No,70.7
+U0830,26,Male,Primary,Other,Medium,Rural,32,8,29,70,58,65,5,22.19,90,24,High,72,2,56,No,64.9
+U0831,51,Female,None,Self-Employed,High,Rural,37,11,27,81,48,66,10,14.3,95,24,Medium,88,3,80,No,66.6
+U0832,38,Female,High School,Unemployed,Low,Semi-Rural,8,22,24,52,62,66,7,20.64,82,16,Low,60,2,74,No,59.2
+U0833,46,Male,High School,Student,Medium,Rural,48,28,3,72,54,44,7,24.46,64,12,Low,66,2,80,No,58.2
+U0834,63,Female,Primary,Student,Low,Rural,13,5,41,33,25,67,14,14.23,85,13,Medium,77,2,88,Yes,40.8
+U0835,63,Female,None,Student,Low,Rural,5,39,30,54,68,77,15,12.82,100,28,Medium,86,2,51,Yes,65.1
+U0836,44,Female,Primary,Unemployed,Low,Semi-Rural,19,20,40,64,63,83,15,13.89,65,21,Medium,64,2,55,No,69.4
+U0837,27,Male,High School,Self-Employed,Low,Rural,0,3,37,21,38,63,7,25.21,82,15,Medium,80,4,61,No,38.7
+U0838,37,Male,Primary,Farmer,Low,Semi-Rural,23,21,3,69,63,38,15,19.89,69,11,Medium,59,5,73,No,57.9
+U0839,61,Male,Secondary,Unemployed,Low,Rural,20,6,18,60,53,55,11,12.6,94,24,Medium,66,2,98,No,56.4
+U0840,26,Female,Primary,Self-Employed,Low,Rural,7,49,18,36,72,47,11,29.41,68,28,Low,50,3,55,No,50.1
+U0841,22,Female,Secondary,Farmer,Low,Rural,48,7,49,87,45,91,12,15.05,70,23,Medium,78,3,74,Yes,75.6
+U0842,45,Female,Primary,Other,Low,Semi-Rural,26,25,21,69,54,62,9,22.2,76,25,Low,77,1,77,No,62.4
+U0843,18,Female,Primary,Self-Employed,Medium,Rural,49,36,0,90,71,21,6,17.6,74,20,Medium,67,3,82,No,63.6
+U0844,25,Female,Secondary,Farmer,Low,Rural,24,11,15,46,47,35,14,24.16,76,15,High,66,2,89,No,43.0
+U0845,43,Male,Primary,Farmer,High,Rural,39,33,34,67,59,57,10,19.22,96,22,High,74,5,50,No,61.6
+U0846,50,Male,Primary,Other,Low,Semi-Rural,1,14,37,22,49,77,14,29.04,81,16,Medium,97,2,87,Yes,46.6
+U0847,50,Female,Primary,Self-Employed,High,Rural,1,29,35,36,77,66,10,25.19,70,13,Low,96,4,92,Yes,57.3
+U0848,24,Female,Primary,Farmer,Medium,Rural,22,38,4,62,59,47,5,17.82,60,12,Medium,89,1,87,No,56.6
+U0849,31,Male,None,Student,Low,Rural,10,39,45,36,74,76,6,28.49,84,16,Low,75,4,63,No,59.4
+U0850,28,Female,High School,Unemployed,Medium,Semi-Rural,41,48,50,62,83,78,6,26.36,83,22,Medium,86,4,95,No,73.1
+U0851,19,Male,Primary,Other,Low,Rural,22,50,6,70,99,48,9,17.47,100,27,Low,55,2,50,No,72.1
+U0852,61,Female,Secondary,Unemployed,High,Rural,0,20,44,24,45,78,10,11.72,69,30,Medium,76,3,63,No,46.5
+U0853,46,Female,Primary,Self-Employed,High,Semi-Rural,15,35,19,45,79,56,13,22.35,93,13,Low,97,5,72,Yes,58.5
+U0854,23,Female,Secondary,Student,Medium,Semi-Rural,0,13,1,36,62,30,10,11.76,74,14,Low,74,3,69,Yes,42.0
+U0855,21,Male,High School,Other,Low,Rural,24,30,29,74,61,69,13,10.27,74,30,Low,75,5,96,Yes,68.6
+U0856,49,Male,Secondary,Self-Employed,Low,Semi-Rural,24,3,0,64,27,42,15,13.7,64,24,Medium,92,3,70,No,46.3
+U0857,53,Female,Secondary,Farmer,Low,Rural,4,34,35,49,69,69,14,15.93,90,26,Low,68,5,52,No,61.0
+U0858,59,Male,High School,Farmer,Low,Rural,50,14,24,94,38,58,14,24.09,84,26,Medium,69,1,74,No,66.4
+U0859,29,Female,None,Unemployed,Low,Rural,34,13,0,82,51,47,8,13.36,98,26,Medium,60,1,81,Yes,62.2
+U0860,35,Male,Primary,Unemployed,Low,Semi-Rural,9,8,43,40,43,69,14,20.28,60,26,Medium,53,1,58,Yes,49.6
+U0861,23,Other,Primary,Other,Medium,Rural,47,19,16,75,49,65,7,28.93,63,10,High,61,2,57,Yes,64.2
+U0862,49,Female,Primary,Unemployed,Low,Rural,21,4,20,59,24,40,13,15.04,80,16,Medium,86,2,79,No,42.8
+U0863,19,Female,Secondary,Student,Low,Semi-Rural,36,41,34,65,75,57,12,24.63,91,13,High,68,4,87,No,65.6
+U0864,63,Female,None,Student,High,Rural,30,22,33,60,67,53,6,27.61,69,12,Medium,96,2,72,No,60.0
+U0865,20,Other,Secondary,Self-Employed,High,Semi-Rural,7,0,10,49,35,42,7,28.79,71,16,Low,85,2,86,No,42.7
+U0866,59,Other,Primary,Other,Medium,Rural,21,35,24,64,76,53,7,29.85,98,22,Medium,56,1,85,Yes,64.3
+U0867,20,Male,High School,Student,Low,Rural,1,23,33,21,68,55,7,12.28,98,26,Low,57,5,99,No,45.3
+U0868,23,Male,Secondary,Self-Employed,Low,Rural,39,20,5,70,69,31,13,25.69,100,17,Medium,71,1,61,No,58.0
+U0869,60,Male,Secondary,Farmer,Low,Semi-Rural,41,0,32,79,42,59,14,11.93,67,23,Medium,100,1,65,Yes,61.9
+U0870,39,Female,Secondary,Unemployed,Medium,Rural,18,0,21,43,45,67,13,16.21,91,20,Low,88,2,72,No,50.8
+U0871,39,Female,Primary,Farmer,Low,Rural,36,44,36,74,87,77,7,19.76,78,18,Medium,99,5,79,Yes,78.8
+U0872,36,Male,Secondary,Farmer,Low,Semi-Rural,9,50,12,38,73,37,13,29.97,73,21,Medium,52,4,56,No,48.2
+U0873,25,Male,High School,Unemployed,Medium,Rural,33,27,31,73,62,52,6,14.01,66,16,High,92,3,91,Yes,63.4
+U0874,23,Other,Primary,Self-Employed,Medium,Rural,43,10,34,72,58,68,9,29.14,79,22,High,66,3,83,No,66.6
+U0875,61,Female,Secondary,Unemployed,Medium,Semi-Rural,39,30,10,82,71,36,8,13.42,78,21,Low,88,2,55,No,64.9
+U0876,26,Male,Primary,Self-Employed,Low,Rural,18,16,27,40,57,59,15,23.93,72,22,High,51,4,62,No,50.8
+U0877,60,Female,Secondary,Other,Medium,Rural,44,40,46,74,80,82,7,22.27,92,28,Low,66,1,89,No,78.2
+U0878,55,Female,Primary,Unemployed,Medium,Rural,41,25,37,70,67,73,9,19.22,60,26,Low,79,4,99,No,70.0
+U0879,63,Other,High School,Student,Medium,Rural,27,10,43,64,42,77,6,14.98,93,12,Low,64,2,76,No,61.3
+U0880,36,Female,Primary,Unemployed,Medium,Semi-Rural,19,50,15,66,82,64,13,20.2,66,13,Low,80,3,63,No,70.2
+U0881,64,Other,Secondary,Self-Employed,Medium,Semi-Rural,19,24,48,55,66,68,8,12.26,66,13,High,87,1,53,No,62.2
+U0882,42,Female,Primary,Other,Low,Rural,15,40,45,51,66,72,14,17.73,87,11,Low,50,1,94,No,61.8
+U0883,28,Female,None,Farmer,Low,Semi-Rural,31,24,18,80,70,66,15,23.71,70,15,High,87,4,50,No,72.8
+U0884,50,Other,High School,Self-Employed,Low,Semi-Rural,18,14,0,46,40,31,10,25.79,94,10,Medium,83,4,87,No,39.7
+U0885,28,Male,Primary,Unemployed,High,Semi-Rural,14,42,31,37,89,56,11,12.73,91,24,Medium,83,3,99,Yes,58.3
+U0886,48,Male,High School,Other,Medium,Rural,28,48,43,71,89,92,10,11.23,71,25,Medium,92,4,69,No,82.7
+U0887,64,Male,High School,Self-Employed,Low,Rural,36,28,32,86,58,61,5,12.84,78,17,Low,63,5,86,No,70.1
+U0888,18,Male,None,Self-Employed,Low,Rural,39,37,23,69,81,66,14,16.04,80,18,Low,51,4,51,No,71.7
+U0889,18,Female,Secondary,Student,Low,Rural,6,7,31,32,54,77,11,21.37,86,15,Medium,68,5,84,No,52.1
+U0890,38,Male,None,Farmer,Medium,Rural,30,36,38,70,75,60,8,12.61,61,23,Medium,65,3,65,No,68.5
+U0891,27,Male,None,Unemployed,Low,Rural,11,4,2,48,38,44,7,23.23,99,18,Low,55,1,95,No,43.8
+U0892,53,Female,Secondary,Self-Employed,Low,Rural,20,27,36,52,64,79,11,12.41,97,20,Medium,57,5,91,Yes,63.7
+U0893,60,Male,Primary,Self-Employed,Low,Semi-Rural,8,36,48,54,69,89,5,23.18,60,24,Medium,80,4,71,Yes,69.0
+U0894,47,Male,Secondary,Farmer,Medium,Rural,33,44,9,83,93,40,14,25.63,83,19,Low,82,3,82,Yes,73.1
+U0895,18,Female,Primary,Farmer,Low,Rural,5,43,48,28,90,69,13,29.61,99,23,Medium,59,3,98,No,58.9
+U0896,29,Female,None,Other,Low,Rural,47,32,21,77,71,55,14,16.37,78,15,High,67,5,65,Yes,68.6
+U0897,23,Female,High School,Farmer,Low,Rural,38,45,1,69,71,30,14,21.37,63,21,Medium,75,1,100,No,57.9
+U0898,37,Male,Primary,Student,Low,Rural,17,34,49,57,64,72,15,21.47,60,18,High,56,2,76,No,63.6
+U0899,18,Female,Secondary,Unemployed,Low,Semi-Rural,47,47,32,87,69,65,9,25.2,73,13,Medium,70,1,99,No,75.0
+U0900,24,Female,Primary,Farmer,Low,Semi-Rural,43,0,46,79,36,95,9,23.6,85,18,Low,99,1,61,No,70.9
+U0901,18,Female,High School,Self-Employed,Low,Rural,5,11,23,49,38,57,13,22.51,72,23,Medium,96,4,65,No,48.1
+U0902,21,Male,Primary,Unemployed,Low,Rural,49,24,42,85,56,85,15,29.97,80,18,Medium,60,4,75,No,76.3
+U0903,34,Male,Primary,Farmer,Low,Rural,17,33,49,56,70,90,8,11.06,67,23,Low,68,1,94,No,70.4
+U0904,27,Female,Primary,Student,Medium,Rural,11,2,49,53,27,70,9,13.47,62,16,High,80,3,64,Yes,50.3
+U0905,45,Male,None,Student,Low,Semi-Rural,13,12,45,62,58,71,10,26.94,87,20,Medium,94,4,70,No,63.5
+U0906,64,Male,None,Student,Low,Rural,0,42,23,46,68,52,9,13.4,68,10,Medium,72,4,69,No,54.4
+U0907,19,Other,None,Unemployed,Low,Semi-Rural,11,29,27,56,52,59,15,29.76,92,13,Low,51,5,79,No,55.7
+U0908,26,Male,High School,Student,Low,Semi-Rural,38,33,49,76,80,74,14,24.97,78,22,Medium,87,5,78,Yes,76.6
+U0909,40,Female,High School,Self-Employed,Medium,Rural,2,2,45,37,25,90,11,22.53,61,11,Medium,76,4,95,Yes,49.3
+U0910,55,Male,Primary,Other,Low,Rural,27,31,28,57,57,63,10,18.99,94,10,High,50,5,78,No,58.8
+U0911,40,Female,High School,Unemployed,Medium,Rural,37,19,20,83,52,64,9,12.56,82,13,Medium,62,2,91,No,68.0
+U0912,55,Female,None,Self-Employed,Low,Rural,44,29,49,69,74,86,7,14.08,63,14,Medium,99,3,73,No,75.6
+U0913,46,Male,High School,Farmer,Medium,Rural,40,42,31,72,91,75,13,28.51,86,15,Low,61,4,55,No,78.6
+U0914,26,Male,Primary,Farmer,Medium,Semi-Rural,30,44,40,80,81,63,12,13.66,93,28,Medium,57,2,59,No,75.2
+U0915,62,Female,Secondary,Self-Employed,Low,Semi-Rural,39,42,50,69,85,83,7,19.43,67,11,Low,70,4,85,No,78.0
+U0916,56,Female,Primary,Unemployed,Low,Rural,2,17,14,30,53,42,9,24.12,70,14,Low,75,3,77,No,40.5
+U0917,61,Male,None,Self-Employed,Medium,Rural,3,48,36,29,74,77,13,22.85,62,26,Low,91,3,88,No,56.9
+U0918,20,Female,Primary,Other,Low,Rural,42,36,49,67,74,78,14,22.97,91,10,High,91,4,83,No,72.4
+U0919,43,Other,Primary,Unemployed,Low,Rural,16,20,35,61,63,61,9,27.63,78,22,Low,55,5,64,No,61.6
+U0920,22,Other,None,Unemployed,Low,Semi-Rural,46,31,50,78,77,77,9,23.04,77,15,Medium,56,1,75,No,77.4
+U0921,48,Male,Primary,Self-Employed,Medium,Rural,30,44,45,53,90,77,6,18.0,92,28,Medium,50,1,63,No,71.3
+U0922,22,Other,High School,Self-Employed,Medium,Semi-Rural,17,1,7,44,28,34,7,16.79,63,24,Low,65,2,51,No,36.2
+U0923,40,Male,None,Farmer,Medium,Rural,5,22,28,37,58,64,5,12.21,85,29,Low,99,3,92,No,51.4
+U0924,49,Female,Secondary,Farmer,High,Rural,8,40,22,38,87,59,15,21.93,97,24,Low,56,4,94,Yes,59.0
+U0925,46,Male,None,Self-Employed,Medium,Semi-Rural,31,45,3,55,91,41,15,11.71,87,15,Low,53,2,52,No,61.6
+U0926,50,Male,Secondary,Other,High,Rural,41,26,14,91,71,37,13,21.78,68,20,Medium,76,3,88,Yes,68.8
+U0927,52,Female,None,Unemployed,Low,Semi-Rural,32,42,10,69,82,36,5,18.73,64,30,Medium,80,3,99,No,63.0
+U0928,42,Male,None,Self-Employed,Low,Semi-Rural,4,4,41,33,33,75,11,15.38,85,28,Medium,69,3,54,No,45.6
+U0929,21,Male,High School,Student,Low,Rural,14,48,38,56,75,74,13,23.17,87,28,Low,75,2,52,Yes,67.1
+U0930,43,Female,Secondary,Unemployed,Low,Rural,12,11,12,35,40,39,8,28.47,70,13,Low,87,4,69,No,37.7
+U0931,61,Male,High School,Student,Low,Semi-Rural,0,12,25,22,38,59,11,10.8,68,14,High,72,2,58,No,37.9
+U0932,22,Female,None,Other,Low,Semi-Rural,38,25,48,71,46,91,14,26.31,97,19,Low,91,4,89,No,69.5
+U0933,42,Female,Primary,Unemployed,Low,Rural,2,39,12,38,72,32,10,25.83,73,30,Medium,54,1,94,No,46.4
+U0934,36,Female,High School,Unemployed,Medium,Rural,8,5,46,49,26,85,15,24.12,69,23,Low,52,1,68,No,52.9
+U0935,57,Male,Primary,Unemployed,Low,Semi-Rural,14,3,2,64,52,43,13,19.88,79,27,Medium,59,1,59,No,54.1
+U0936,30,Female,None,Farmer,Low,Rural,49,6,9,82,41,44,9,21.85,91,24,Medium,87,4,64,No,58.3
+U0937,19,Female,Secondary,Self-Employed,Low,Rural,34,7,17,62,57,42,6,16.43,99,14,Medium,78,2,73,Yes,54.5
+U0938,18,Male,High School,Self-Employed,High,Semi-Rural,18,11,45,42,60,95,9,12.56,100,14,Low,76,4,62,No,63.3
+U0939,55,Female,Primary,Student,Low,Rural,5,41,9,35,66,33,8,19.18,84,12,High,74,1,57,No,43.7
+U0940,21,Male,Secondary,Unemployed,Medium,Rural,9,4,39,49,42,85,13,28.42,86,24,Medium,50,4,97,No,57.7
+U0941,46,Female,Secondary,Self-Employed,Low,Rural,16,16,8,58,45,37,14,12.97,74,13,Medium,85,4,55,No,47.8
+U0942,30,Male,Primary,Unemployed,High,Rural,36,25,3,76,63,41,12,10.73,100,11,High,81,3,93,No,61.6
+U0943,27,Male,High School,Unemployed,Low,Rural,8,15,46,53,37,80,15,15.23,96,27,High,76,4,53,No,56.3
+U0944,54,Male,Secondary,Farmer,Low,Rural,41,8,50,63,54,91,15,18.44,79,28,Low,54,3,94,Yes,68.7
+U0945,58,Male,Secondary,Student,Low,Rural,2,43,50,32,69,81,6,29.69,98,29,Low,66,1,51,No,57.8
+U0946,49,Female,Secondary,Self-Employed,Low,Semi-Rural,11,2,1,35,49,23,12,27.42,95,13,Medium,73,5,77,No,35.6
+U0947,35,Male,High School,Farmer,Medium,Rural,25,9,45,73,49,86,8,21.0,82,20,Low,80,4,52,No,69.7
+U0948,29,Female,None,Student,Low,Rural,46,43,37,74,77,59,7,11.39,63,21,High,68,3,87,No,70.4
+U0949,44,Female,Primary,Other,Medium,Rural,12,5,49,35,43,93,12,12.54,60,27,Medium,83,3,61,No,54.8
+U0950,63,Female,High School,Farmer,Medium,Rural,28,19,30,72,57,76,6,17.8,88,30,Medium,93,3,50,No,68.7
+U0951,23,Female,High School,Farmer,Medium,Semi-Rural,39,0,38,63,31,64,10,21.77,90,23,Medium,100,2,96,No,53.7
+U0952,49,Male,None,Farmer,Medium,Rural,26,43,9,68,67,51,7,12.04,65,22,Medium,55,5,81,No,62.6
+U0953,40,Male,Primary,Other,Low,Rural,31,38,49,70,84,90,10,15.72,71,26,Low,99,4,82,Yes,80.2
+U0954,36,Male,None,Farmer,Medium,Rural,40,11,31,84,49,62,5,13.72,96,12,Medium,88,1,83,No,66.9
+U0955,36,Other,Secondary,Unemployed,Low,Rural,41,1,21,80,26,60,8,29.69,85,26,Medium,53,3,76,No,57.8
+U0956,60,Female,High School,Unemployed,Low,Rural,3,30,27,24,60,70,11,14.56,77,24,Low,100,1,98,Yes,48.6
+U0957,30,Male,Secondary,Self-Employed,Medium,Semi-Rural,32,3,16,53,34,54,9,24.7,87,11,Low,58,1,92,No,47.6
+U0958,61,Female,None,Farmer,Low,Rural,35,13,7,66,39,28,11,12.79,92,17,Medium,86,2,92,Yes,46.5
+U0959,32,Male,High School,Other,High,Semi-Rural,40,17,33,89,66,71,11,29.48,96,22,Medium,89,3,84,Yes,76.7
+U0960,44,Male,Secondary,Unemployed,Medium,Rural,33,25,42,62,75,91,13,21.78,95,10,Medium,67,2,61,No,74.6
+U0961,64,Female,High School,Other,Low,Rural,42,24,29,78,65,63,5,18.85,95,27,Low,53,2,80,No,69.6
+U0962,36,Female,Secondary,Unemployed,Low,Rural,23,41,19,69,85,66,8,16.28,84,14,High,77,1,67,No,72.9
+U0963,55,Female,Primary,Other,Medium,Rural,8,17,34,30,38,66,13,20.36,73,23,High,72,1,81,Yes,43.2
+U0964,56,Female,Secondary,Student,Low,Rural,26,15,28,68,54,64,8,16.69,70,26,High,73,2,53,No,62.6
+U0965,40,Other,High School,Self-Employed,High,Rural,0,7,30,37,47,56,8,23.11,86,22,Medium,77,4,51,No,45.7
+U0966,46,Female,Primary,Other,Low,Rural,28,44,38,50,65,65,13,22.86,95,17,Low,76,1,63,No,59.0
+U0967,31,Other,None,Self-Employed,Low,Semi-Rural,31,19,18,57,66,39,9,18.81,78,14,Low,80,3,100,Yes,54.3
+U0968,35,Female,High School,Other,Low,Rural,32,0,40,77,46,60,8,10.69,75,14,Medium,96,3,88,No,62.6
+U0969,56,Other,Primary,Farmer,Low,Rural,16,6,31,65,56,55,6,19.72,91,28,High,54,3,80,No,59.3
+U0970,22,Female,High School,Student,Low,Rural,43,26,48,87,58,70,11,10.42,84,19,Low,86,3,80,No,73.2
+U0971,62,Male,None,Student,Low,Semi-Rural,29,50,8,79,96,32,6,11.47,98,24,High,81,3,68,Yes,70.0
+U0972,57,Female,None,Student,Low,Rural,46,15,24,76,39,63,11,10.13,99,27,Medium,54,1,87,No,61.0
+U0973,29,Male,Primary,Other,Medium,Semi-Rural,27,28,38,52,59,58,6,23.96,71,18,Medium,57,1,60,No,55.9
+U0974,40,Male,High School,Other,Medium,Rural,30,1,32,59,40,61,13,10.19,83,27,Low,68,3,61,Yes,53.9
+U0975,39,Male,Secondary,Farmer,Medium,Rural,20,19,18,40,53,63,7,26.72,91,11,High,92,4,66,No,50.8
+U0976,50,Male,Secondary,Student,Low,Rural,29,44,40,59,80,68,8,25.65,68,24,Low,64,4,82,No,68.0
+U0977,55,Female,Primary,Student,Low,Rural,3,34,35,31,77,55,6,20.92,62,10,Medium,79,1,95,Yes,52.0
+U0978,47,Female,Secondary,Self-Employed,Low,Rural,47,6,29,97,39,77,6,26.54,72,13,Medium,70,3,51,No,73.6
+U0979,51,Female,Secondary,Farmer,Low,Rural,49,25,27,75,70,71,9,18.58,74,14,Medium,50,2,79,No,72.3
+U0980,60,Female,High School,Self-Employed,Medium,Semi-Rural,3,48,9,43,89,36,12,26.06,82,27,Low,82,4,85,No,54.7
+U0981,26,Female,None,Farmer,Low,Semi-Rural,13,6,9,41,41,56,15,13.61,60,17,High,63,4,74,No,45.5
+U0982,56,Female,None,Other,Low,Rural,15,33,45,53,74,76,14,24.44,68,27,Medium,72,1,94,No,66.2
+U0983,37,Male,Secondary,Farmer,Low,Rural,12,15,23,50,61,69,12,27.0,76,23,Low,73,5,53,No,59.0
+U0984,56,Male,None,Self-Employed,Medium,Rural,3,25,18,23,49,48,10,20.64,80,12,Medium,50,1,78,Yes,38.3
+U0985,58,Female,Primary,Student,High,Rural,38,37,47,71,81,88,7,11.92,91,14,Medium,87,2,83,No,79.1
+U0986,39,Other,Secondary,Unemployed,Low,Rural,50,29,18,93,79,39,8,27.77,85,27,High,57,4,77,No,72.6
+U0987,52,Female,Secondary,Student,Low,Rural,32,3,24,76,34,48,13,28.36,71,13,Medium,73,2,63,No,55.0
+U0988,24,Male,None,Student,Low,Rural,49,12,14,84,40,34,11,17.68,97,22,Medium,78,1,63,No,55.8
+U0989,41,Male,High School,Farmer,Low,Rural,25,18,50,48,52,75,13,27.57,96,25,Medium,66,2,84,No,57.3
+U0990,47,Female,None,Farmer,Low,Rural,18,23,36,42,57,81,9,15.96,94,26,Medium,95,3,87,No,58.2
+U0991,24,Female,None,Student,Low,Semi-Rural,1,15,20,38,49,53,10,19.34,91,11,Medium,57,4,68,Yes,45.8
+U0992,45,Female,Secondary,Unemployed,Medium,Rural,22,42,7,53,69,50,9,22.95,88,18,Low,53,5,83,Yes,56.9
+U0993,44,Male,High School,Other,Medium,Semi-Rural,34,1,18,55,27,54,6,21.72,84,13,Medium,63,3,75,No,46.3
+U0994,39,Male,None,Other,Low,Semi-Rural,14,34,38,52,54,88,12,21.52,83,19,Medium,98,1,78,No,63.4
+U0995,21,Male,Primary,Other,Medium,Rural,26,41,44,63,88,66,8,18.25,75,12,High,64,4,83,No,71.4
+U0996,30,Female,Primary,Unemployed,Low,Rural,18,49,27,62,99,62,15,28.28,61,20,Low,98,4,85,No,73.1
+U0997,30,Female,Secondary,Student,Medium,Rural,25,24,24,50,73,62,13,14.06,73,26,Medium,74,2,76,No,60.5
+U0998,31,Female,Secondary,Farmer,Low,Semi-Rural,35,19,36,71,46,72,7,29.91,65,14,Low,66,1,86,Yes,63.8
+U0999,62,Male,Secondary,Farmer,Medium,Rural,39,12,47,69,37,71,12,28.34,91,21,High,83,4,73,Yes,60.0
+U1000,27,Female,None,Unemployed,Low,Rural,13,45,24,61,65,44,9,23.25,73,25,Medium,52,5,55,No,57.1
